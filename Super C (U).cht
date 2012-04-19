@@ -1,0 +1,17 @@
+S:0053:0A:P1 Infinite Lives
+S:00D4:FF:P1 Always Invincible
+S:00B8:82:P1 Always Has Spray
+S:00B8:84:P1 Always Has Flame Thrower
+S:00B8:81:P1 Always Has Machine Gun
+S:00B8:83:P1 Always Has Laser
+S:00B8:85:P1 Always Has Charged Flame Thrower (Not normally possible)
+S:00B8:86:P1 Always Has Flame Thrower Explosion (Not normally possible)
+S:0054:0A:P2 Infinite Lives
+S:00D5:FF:P2 Always Invincible
+S:00B9:82:P2 Always Has Spray
+S:00B9:84:P2 Always Has Flame Thrower
+S:00B9:81:P2 Always Has Machine Gun
+S:00B9:83:P2 Always Has Laser
+S:00B9:85:P2 Always Has Charged Flame Thrower (Not normally possible)
+S:00B9:86:P1 Always Has Flame Thrower Explosion (Not normally possible)
+S:0059:0A:Infinite Continues
