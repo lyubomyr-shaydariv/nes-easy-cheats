@@ -1,6 +1,14 @@
-S:07c5:08:Infinite Hit Points
-S:07c1:02:Always Have the Knife
-S:07c1:03:Always Have a Bat
+S:e400:09:Start With 9 Extra Lives
+S:e400:63:Start With 99 Extra Lives
+S:0039:63:Infinite Lives
+S:07c5:07:Infinite Hit Points
+S:07c0:ff:Infinite Bullets
 S:07c1:01:Always Have a Gun
-S:07c1:07:Always Have a Whip
+S:07c1:05:Always Have a Whip
+S:07c1:03:Always Have a Bat
+S:07c1:02:Always Have a Knife
 S:07ce:08:Always Have a Bulletproof Vest
+S:e400:00:Start With 1 Life
+S:0039:00:Start With 1 Life, No 1 Ups
+S:07c1:00:Can't Use Weapons
+S:07ce:00:Can't Use Bulletproof Vests

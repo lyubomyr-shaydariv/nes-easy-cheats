@@ -1,9 +1,9 @@
 S:0035:09:Infinite Lives
 S:003C:64:Infinite Hit Points
-S:0080:01:Always Invincible (Turn off at path select to see character)
 S:008E:02:Always Have Chain Whip
 S:0087:02:Trevor Always Has Triple Shot
 S:0088:02:Teammate Always Has Triple Shot
+S:0080:01:Always Invincible (Turn off at path select to see character)
 S:0084:99:Infinite Hearts (Must turn off at end of stage)
 S:007E:01:Infinite Time (Must turn off at end of stage)
 S:0085:03:Trevor Always Has Dagger

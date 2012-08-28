@@ -1,0 +1,7 @@
+S:0210:18:P1 Infinite HP
+S:05B4:89:P1 Infinite Lives
+S:005E:01:P1 Invulnerable to Most Objects (Can be stunned)
+S:0224:18:P2 Infinite HP
+S:05E4:89:P2 Infinite Lives
+S:005F:01:P2 Invulnerable to Most Objects (Can be stunned)
+S:C9AF:0A:Mega Jump Height

@@ -5,6 +5,6 @@ S:0093:0c:P1 Always Have Max Fire
 S:00B3:04:P1 Always Have Max Speed
 S:00af:01:P1 Always Have Detonator
 S:00ad:01:P1 Always Have Walk Through Walls
-S:00b0:02:P1 Always Immune to Bombs 1 (Use With 2)
-S:00b1:01:P1 Always Immune to Bombs 2
-S:055a:ff:Infinite Time (Must Turn Off For Bonus Stages)
+S:00b0:02:P1 Always Immune to Bombs (1/2)
+S:00b1:01:P1 Always Immune to Bombs (2/2)
+S:055a:ff:Infinite Time (Must turn off for bonus stages)

@@ -19,10 +19,10 @@ S:682b:01:Always Have Key
 S:681a:ff:Start With All Runes
 S:6819:ff:Start With All Stones
 S:00d9:00:No Random Encounters
-S:681b:ff:Full Spells 1 (Use with 2-4)
-S:681c:7f:Full Spells 2
-S:681d:f7:Full Spells 3
-S:681e:0b:Full Spells 4
+S:681b:ff:Full Spells (1/4)
+S:681c:7f:Full Spells (2/4)
+S:681d:f7:Full Spells (3/4)
+S:681e:0b:Full Spells (4/4)
 S:681f:63:Infinite Ash
 S:6820:63:Infinite Ginseng
 S:6821:63:Infinite Garlic

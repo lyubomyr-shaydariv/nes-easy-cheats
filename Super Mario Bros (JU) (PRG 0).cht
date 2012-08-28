@@ -1,0 +1,28 @@
+S:075a:08:Infinite Lives Both Players
+S:0754:00:Always Super Mario
+S:0756:02:Always Fire Mario (Use with Always Super Mario)
+S:079f:0f:Always Invincible
+S:07fa:09:Infinite Time (Must turn off at end of level)
+S:b424:0b:High Jumps (1/5)
+S:b425:0b:High Jumps (2/5)
+S:b426:0b:High Jumps (3/5)
+S:b427:0b:High Jumps (4/5)
+S:b428:0b:High Jumps (5/5)
+S:b432:f9:Fast Jumps (1/5)
+S:b433:f9:Fast Jumps (2/5)
+S:b434:f9:Fast Jumps (3/5)
+S:b435:f9:Fast Jumps (4/5)
+S:b436:f9:Fast Jumps (5/5)
+S:b440:c0:Super Fast Running (1/2)
+S:b443:3f:Super Fast Running (2/2)
+S:b42b:07:Moon Gravity (1/5)
+S:b42c:07:Moon Gravity (2/5)
+S:b42d:07:Moon Gravity (3/5)
+S:b42e:07:Moon Gravity (4/5)
+S:b42f:07:Moon Gravity (5/5)
+S:075a:00:Both Players Have 1 Life and No 1-Ups
+S:0754:01:Always Regular Mario (1/2)
+S:0756:00:Always Regular Mario (2/2)
+S:07ee:00:P1 Can't Get Coins
+S:07f4:00:P2 Can't Get Coins
+S:079f:00:Stars Don't Make You Invincible

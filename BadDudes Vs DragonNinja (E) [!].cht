@@ -1,2 +1,16 @@
-S02ab:0a:Hit Points
-S0204:28:Infinite Time
+S:010a:09:Start With 9 Lives and 9 Continues
+S:010a:63:Start With 99 Lives and 99 Continues
+S:02be:09:Infinite Lives Both Players
+S:02bf:09:Infinite Continues
+S:c5d0:0f:Start With Hit Points (1/2)
+S:c889:0f:Start With Hit Points (2/2)
+S:02ab:0b:Infinite Hit Points
+S:02a2:01:Always Have Knife
+S:02a2:02:Always Have Nunchucks
+S:0204:40:Infinite Time
+S:010a:01:Start With 1 Life and 1 Continue
+S:02be:01:Start With 1 Life and No Free Guys
+S:02bf:00:No Continues
+S:02a2:00:Can't Use Weapons
+S:c5d0:06:Start With Fewer Hit Points (1/2)
+S:c889:06:Start With Fewer Hit Points (2/2)

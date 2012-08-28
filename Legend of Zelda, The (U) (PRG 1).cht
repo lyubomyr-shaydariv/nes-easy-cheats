@@ -1,12 +1,12 @@
-S:066F:FF:Infinite Hit Points 1 (Use With 2)
-S:0670:FC:Infinite Hit Points 2
+S:066F:FF:Infinite Hit Points (1/2)
+S:0670:FC:Infinite Hit Points (2/2)
 S:04F0:01:Always Invincible
 S:066D:FF:Infinite Rupees
 S:066E:09:Infinite Keys
 S:0658:10:Infinite Bombs
 S:0657:03:Always Have Magical Sword
 S:0676:01:Always Have Magic Shield
-S:0662:02:Always Have Red Ring (Link's Color doesn't change)
+S:0662:02:Always Have Red Ring (Link's color doesn't change)
 S:065E:02:Always Have Red Medicine
 S:0671:FF:Always Have All Triforce Pieces
 S:0674:01:Always Have Boomerang

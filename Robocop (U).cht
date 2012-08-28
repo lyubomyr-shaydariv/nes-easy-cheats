@@ -1,7 +1,7 @@
-SCa5cf:a5:e6:Infinite Time
-SCeb14:c5:05:Infinite Ammo
-SCee49:a5:85:No damage from enemies
-SCef6e:a5:85:No damage from bullets
-SCd10b:85:95:Start On Level A
-SCd10c:66:85:Start On Level B
-SCd10a:04:00:Start on Level 5
+C:a5cf:a5:e6:Infinite Time
+C:eb14:c5:05:Infinite Ammo
+C:ee49:a5:85:No damage from enemies
+C:ef6e:a5:85:No damage from bullets
+C:d10b:85:95:Start On Level A
+C:d10c:66:85:Start On Level B
+C:d10a:04:00:Start on Level 5

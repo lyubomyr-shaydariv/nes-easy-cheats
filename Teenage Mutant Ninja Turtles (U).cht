@@ -1,16 +1,17 @@
-S:0077:80:Infinite Hit Points - Leonardo
-S:0078:80:Infinite Hit Points - Raphael
-S:0079:80:Infinite Hit Points - Michelangelo
-S:007a:80:Infinite Hit Points - Donatello
+S:0077:80:Infinite Hit Points For Leonardo
+S:0078:80:Infinite Hit Points For Raphael
+S:0079:80:Infinite Hit Points For Michelangelo
+S:007a:80:Infinite Hit Points For Donatello
 S:0500:04:Always Invincible
-S:0073:04:Always Have Scroll - Leonardo
-S:0074:04:Always Have Scroll - Raphael
-S:0075:04:Always Have Scroll - Michelangelo
-S:0076:04:Always Have Scroll - Donatello
-S:00a8:63:Infinite Items - Leonardo
-S:00a9:63:Infinite Items - Raphael
-S:00aa:63:Infinite Items - Michelangelo
-S:00ab:63:Infinite Items - Leonardo
+S:0073:04:Always Have Scroll For Leonardo (Use With Infinite Items)
+S:0074:04:Always Have Scroll For Raphael (Use With Infinite Items)
+S:0075:04:Always Have Scroll For Michelangelo (Use With Infinite Items)
+S:0076:04:Always Have Scroll For Donatello (Use With Infinite Items)
+S:00a8:63:Infinite Items For Leonardo
+S:00a9:63:Infinite Items For Raphael
+S:00aa:63:Infinite Items For Michelangelo
+S:00ab:63:Infinite Items For Leonardo
 S:00bb:78:Infinite Time
 S:00bf:63:Infinite Missiles
 S:00a7:63:Infinite Rope
+S:0540:11:Always Have Invincibility Spin

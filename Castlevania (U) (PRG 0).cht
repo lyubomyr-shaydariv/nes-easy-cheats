@@ -1,13 +1,13 @@
 S:002a:64:Infinite Lives
-S:0045:40:Infinite Hit Points (Spikes Still Kill You)
+S:0045:40:Infinite Hit Points (Spikes still kill you)
 S:005b:ff:Always Invincible
 S:0070:02:Always Have Chain Whip
-S:0071:63:Infinite Hearts (Must Turn Off At End of Stage)
+S:0071:63:Infinite Hearts (Must turn off at the end of a stage)
 S:0064:02:Always Have Triple Shot
 S:015b:09:Always Have Boomerang
 S:015b:08:Always Have Dagger
 S:015b:0b:Always Have Holy Water
 S:015b:0d:Always Have Axe
 S:015b:0f:Always Have Watch
-S:015b:0a:Always Have Cross (Crashes On Some Enemies)
-S:0042:99:Infinite Time (Must Turn Off At End of Stage)
+S:015b:0a:Always Have Cross (Crashes on certain enemies)
+S:0042:99:Infinite Time (Must turn off at the end of a stage)
