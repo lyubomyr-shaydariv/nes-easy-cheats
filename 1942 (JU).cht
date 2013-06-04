@@ -1,10 +1,10 @@
-S:b7de:09:P1 Starts With 9 Lives
-S:b7e0:31:P1 Starts With 20 Lives
-S:b859:09:P2 Starts With 9 Lives
-S:b85b:31:P2 Starts With 20 Lives
-S:0432:09:Infinite Lives For Both Players
-S:0436:09:Infinite Retreats For Both Players
+SC:b7de:09:02:P1 Starts With 9 Lives
+SC:b7e0:31:02:P1 Starts With 20 Lives
+SC:b859:09:02:P2 Starts With 9 Lives
+SC:b85b:31:02:P2 Starts With 20 Lives
+S:0432:09:Infinite Lives (Both Players)
+S:0436:09:Infinite Retreats (Both Players)
 S:048e:8a:Invincible With POW Shot
-S:b7de:00:P1 Starts With 1 Life
-S:b859:00:P2 Starts With 1 Life
-S:0431:00:Both Players Start With 1 Life, No Free Guys
+SC:b7de:00:02:P1 Starts With 1 Life
+SC:b859:00:02:P2 Starts With 1 Life
+S:0431:00:Both Players Start With 1 Life, No 1-Ups

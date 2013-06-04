@@ -1,9 +1,9 @@
 S:00a8:0b:Infinite Lives
 S:06c0:1c:Infinite Hit Points
 S:00a7:04:Infinite Energy Tanks
-S:004b:01:Always Invincible
-S:009a:ff:Start With All Weapons and All Bosses Defeated
-S:009b:ff:Start With All Items
+S:004b:01:Invincible
+S:009a:ff:Have All Weapons and All Bosses Defeated
+S:009b:ff:Have All Items
 S:009c:1c:Infinite Atomic Fire
 S:009d:1c:Infinite Air Shooter
 S:009e:1c:Infinite Leaf Shield
@@ -15,3 +15,4 @@ S:00a3:1c:Infinite Crash Bomber
 S:00a4:1c:Infinite Item-1
 S:00a5:1c:Infinite Item-2
 S:00a6:1c:Infinite Item-3
+S:003c:07:High Jump

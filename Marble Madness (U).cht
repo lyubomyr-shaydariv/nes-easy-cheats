@@ -1,5 +1,5 @@
-S:a32e:5a:Players Start With 90 Seconds
+SC:a32e:5a:3c:Start With 90 Seconds (Both players)
 S:0044:63:P1 Infinite Time
 S:0045:63:P2 Infinite Time
-S:0043:01:Infinite Time Both Players
-S:a32e:28:Players Start With 40 Seconds
+S:0043:01:Infinite Time (Both players)
+SC:a32e:28:3c:Start With 40 Seconds (Both players)

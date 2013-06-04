@@ -1,28 +1,28 @@
-S:066F:FF:Infinite Hit Points (1/2)
-S:0670:FC:Infinite Hit Points (2/2)
-S:04F0:01:Always Invincible
-S:066D:FF:Infinite Rupees
-S:066E:09:Infinite Keys
+S:066f:ff:Infinite Hit Points (1/2)
+S:0670:fc:Infinite Hit Points (2/2)
+S:04f0:01:Invincible
+S:066d:ff:Infinite Rupees
+S:066e:09:Infinite Keys
 S:0658:10:Infinite Bombs
-S:0657:03:Always Have Magical Sword
-S:0676:01:Always Have Magic Shield
-S:0662:02:Always Have Red Ring (Link's color doesn't change)
-S:065E:02:Always Have Red Medicine
-S:0671:FF:Always Have All Triforce Pieces
-S:0674:01:Always Have Boomerang
-S:0675:01:Always Have Magical Boomerang
-S:065A:01:Always Have Bow
-S:0659:02:Always Have Silver Arrows
-S:065B:02:Always Have Red Candle
-S:0644:01:Always Have Magic Key
-S:065C:01:Always Have Flute
-S:065D:01:Always Have Bait
-S:065F:01:Always Have Magical Rod
-S:0660:01:Always Have Raft
-S:0661:01:Always Have Book
-S:0663:01:Always Have Step Ladder
-S:0665:01:Always Have Bracelet
-S:0667:FF:Always Have First 8 Compasses
-S:0668:FF:Always Have First 8 Maps
-S:0669:01:Always Have Level 9 Compass
-S:066A:01:Always Have Level 9 Map
+S:0657:03:Have Magical Sword
+S:0676:01:Have Magic Shield
+S:0662:02:Have Red Ring (Link's color doesn't change)
+S:065e:02:Have Red Medicine
+S:0671:ff:Have All Triforce Pieces
+S:0674:01:Have Boomerang
+S:0675:01:Have Magical Boomerang
+S:065a:01:Have Bow
+S:0659:02:Have Silver Arrows
+S:065b:02:Have Red Candle
+S:0644:01:Have Magic Key
+S:065c:01:Have Flute
+S:065d:01:Have Bait
+S:065f:01:Have Magical Rod
+S:0660:01:Have Raft
+S:0661:01:Have Book
+S:0663:01:Have Step Ladder
+S:0665:01:Have Bracelet
+S:0667:ff:Have First 8 Compasses
+S:0668:ff:Have First 8 Maps
+S:0669:01:Have Level 9 Compass
+S:066a:01:Have Level 9 Map

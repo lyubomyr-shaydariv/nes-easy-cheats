@@ -1,3 +1,17 @@
+SC:cacd:09:03:Start With 9 Lives
+SC:cacd:63:03:Start With 99 Lives
 S:008e:09:Infinite Lives
 S:05d0:06:Infinite Hit Points
 S:008c:09:Infinite Keys
+SC:afce:fb:fd:High Jump
+SC:aff4:fa:fc:High Jump Out of Water (1/2)
+SC:b001:f9:fb:High Jump Out of Water (1/2)
+S:0660:ff:Fly Forever As Bee (Must turn off between stages)
+SC:cab9:01:00:Start On Level 2
+SC:cab9:02:00:Start On Level 3
+SC:cab9:03:00:Start On Level 4
+SC:cab9:04:00:Start On Level 5
+SC:cab9:05:00:Start On Level 6
+SC:cab9:06:00:Start On Level 7
+SC:cab9:07:00:Start On Level 8
+SC:cab9:08:00:Start On Level 8, Part 2

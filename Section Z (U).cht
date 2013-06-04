@@ -1,8 +1,8 @@
 S:0049:09:Infinite Lives
-S:005a:09:Infinite Hit Points
-S:03E4:01:Always Have Flash Buster
-S:03e4:02:Always Have Megasmasher
-S:03e4:03:Always Have Mega Buster
-S:03db:02:Always Have High Speed
-S:0060:01:Always Have Flash Bomb
-S:0061:01:Always Have Crash Ball
+S:005a:09:Infinite Hit Points (Must turn off at the end of a main section)
+S:03e4:01:Have Flash Buster
+S:03e4:02:Have Megasmasher
+S:03e4:03:Have Mega Buster
+S:03db:02:Have High Speed
+S:0060:01:Have Flash Bomb
+S:0061:01:Have Crash Ball

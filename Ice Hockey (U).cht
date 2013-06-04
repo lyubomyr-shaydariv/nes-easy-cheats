@@ -1,7 +1,8 @@
-042F:63:P1 Starts with 99 (Won't display until the first goal)
-0430:63:P2 Starts with 99 (Won't display until the first goal)
-CEC2:0A:Timer Runs Twice As Fast
-CEC2:05:Timer Runs Four Times As Fast
-CEC2:3F:Game Seconds Are Real Seconds
-9BDC:01:Game Lasts 1 Period.
-9BDC:04:Game Lasts 4 Periods.
+S:042f:63:P1 Has 99 Goals (Updates on first goal)
+S:0430:63:P2 Has 99 Goals (Updates on first goal)
+SC:cec2:0a:13:Timer Runs Twice As Fast
+SC:cec2:05:13:Timer Runs Four Times As Fast
+SC:cec2:00:13:Max Timer Speed
+SC:cec2:3f:13:Game Seconds Are Real Seconds
+SC:9bdc:01:03:Games Last 1 Period
+SC:9bdc:04:03:Games Last 4 Periods

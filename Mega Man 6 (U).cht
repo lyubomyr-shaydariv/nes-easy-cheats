@@ -1,13 +1,13 @@
 S:00A9:08:Infinite Lives
 S:03E5:1B:Infinite Hit Points
-S:06A1:02:Infinite Energy Canisters
-S:068D:1B:Infinite Plant Barrier Energy (After you get it)
-S:0689:1B:Infinite Y. Spear Energy (After you get it)
-S:068C:1B:Infinite Fire Blast Energy (After you get it)
-S:068B:1B:Infinite Blizzard Attack Energy (After you get it)
-S:068E:1B:Infinite Knight C. Energy (After you get it)
-S:068A:1B:Infinite Wind Storm Energy (After you get it)
-S:068F:1B:Infinite Silver T. Energy (After you get it)
-S:0690:1B:Infinite Charge Flash Energy (After you get it)
-S:009C:13:Infinite Jet Energy (After you get it)
-S:03ED:00:All Bosses One Hit Point (Turn on after boss's hit points fill)
+S:06A1:02:Infinite Tanks
+S:068D:1B:Infinite Plant Barrier (After you get it)
+S:0689:1B:Infinite Y. Spear (After you get it)
+S:068C:1B:Infinite Fire Blast (After you get it)
+S:068B:1B:Infinite Blizzard Attack (After you get it)
+S:068E:1B:Infinite Knight C. (After you get it)
+S:068A:1B:Infinite Wind Storm (After you get it)
+S:068F:1B:Infinite Silver T. (After you get it)
+S:0690:1B:Infinite Charge Flash (After you get it)
+S:009C:13:Infinite Jet (After you get it)
+S:03ED:00:Kill Bosses In 1 Hit (Turn on after boss's hit points fill)

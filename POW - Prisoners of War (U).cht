@@ -1,4 +1,4 @@
 S:043a:02:Infinite Lives
 S:0424:20:Infinite Hit Points
-S:0438:58:Always Have Gun (Must turn off "Always Have Grenades")
-S:0438:30:Always Have Grenades (Must turn off "Always Have Gun")
+S:0438:58:Have Gun (Must turn off "Have Grenades")
+S:0438:30:Have Grenades (Must turn off "Have Gun")
