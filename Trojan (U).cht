@@ -4,7 +4,7 @@ S:0335:09:Infinite Hit Points
 S:03cd:01:x2 Attack Power
 S:03cd:02:x3 Attack Power
 S:03cd:08:x9 Attack Power
-S:03cb:01:Always Have High Jump
-S:03cc:01:Always Have Speed Up
-S:0386:02:Always Have Key
+S:03cb:01:Have High Jump
+S:03cc:01:Have Speed Up
+S:0386:02Have Key
 S:0334:09:Infinite Time

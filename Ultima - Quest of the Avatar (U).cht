@@ -1,11 +1,11 @@
-S:6871:ff:Infinite HP: Mariah
-S:6873:ff:Infinite HP: Iolo
-S:6875:ff:Infinite HP: Geoff
-S:6877:ff:Infinite HP: Jaana
-S:6879:ff:Infinite HP: Dupre
-S:687b:ff:Infinite HP: Julius
-S:687d:ff:Infinite HP: Shamino
-S:687f:ff:Infinite HP: Katrina
+S:6871:ff:Infinite HP: Mariah (Mage)
+S:6873:ff:Infinite HP: Iolo (Bard)
+S:6875:ff:Infinite HP: Geoff (Fighter)
+S:6877:ff:Infinite HP: Jaana (Druid)
+S:6879:ff:Infinite HP: Dupre (Paladin)
+S:687b:ff:Infinite HP: Julius (Tinker)
+S:687d:ff:Infinite HP: Shamino (Ranger)
+S:687f:ff:Infinite HP: Katrina (Shepherd)
 S:6891:63:Infinite MP: Mariah
 S:6892:63:Infinite MP: Iolo
 S:6893:63:Infinite MP: Geoff
@@ -15,7 +15,7 @@ S:6897:63:Infinite MP: Shamino
 S:6896:63:Infinite MP: Julius
 S:6898:63:Infinite MP: Katrina
 S:6828:25:Infinite Gold
-S:682b:01:Always Have Key
+S:682b:01:Have Key
 S:681a:ff:Start With All Runes
 S:6819:ff:Start With All Stones
 S:00d9:00:No Random Encounters

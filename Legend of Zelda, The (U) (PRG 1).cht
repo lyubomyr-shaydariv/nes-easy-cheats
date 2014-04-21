@@ -1,6 +1,6 @@
 S:066f:ff:Infinite Hit Points (1/2)
 S:0670:fc:Infinite Hit Points (2/2)
-S:04f0:01:Invincible
+S:04f0:04:Invincible
 S:066d:ff:Infinite Rupees
 S:066e:09:Infinite Keys
 S:0658:10:Infinite Bombs
@@ -14,7 +14,7 @@ S:0675:01:Have Magical Boomerang
 S:065a:01:Have Bow
 S:0659:02:Have Silver Arrows
 S:065b:02:Have Red Candle
-S:0644:01:Have Magic Key
+S:0664:01:Have Magic Key
 S:065c:01:Have Flute
 S:065d:01:Have Bait
 S:065f:01:Have Magical Rod
