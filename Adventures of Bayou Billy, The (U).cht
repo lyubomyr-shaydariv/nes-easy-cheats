@@ -1,7 +1,7 @@
 SC:e400:09:02:Start With 9 Lives
 SC:e400:63:02:Start With 99 Lives
-S0:039:09:Infinite Lives
-S0:7c5:07:Infinite Hit Points
+S:0039:09:Infinite Lives
+S:07c5:07:Infinite Hit Points
 S:07c1:01:Have a Gun
 S:07c0:ff:Infinite Bullets
 S:07c1:05:Have Whip

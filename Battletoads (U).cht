@@ -11,7 +11,7 @@ S:04b2:20:P2 Has a Weapon
 SC:8e53:e4:d8:High Jump
 SC:8e53:f0:d8:Super High Jump
 SC:a6b5:00:01:Faster Attack
-SC:8320:02:00:Start On Level 2
+SC8320:02:00:Start On Level 2
 SC:8320:03:00:Start On Level 3
 SC:8320:04:00:Start On Level 4
 SC:8320:05:00:Start On Level 5
