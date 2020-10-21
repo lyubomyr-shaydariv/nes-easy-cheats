@@ -1,0 +1,14 @@
+e001	09	02	System Bus	1	Start With 9 Lives	b	h	0	Equal	
+e001	63	02	System Bus	1	Start With 99 Lives	b	h	0	Equal	
+0039	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+07c5	07	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+07c1	01	N	System Bus	1	Have Gun	b	h	0	None	
+07c0	ff	N	System Bus	1	Infinite Bullets	b	h	0	None	
+07c1	05	N	System Bus	1	Have Whip	b	h	0	None	
+07c1	03	N	System Bus	1	Have Bat	b	h	0	None	
+07c1	02	N	System Bus	1	Have Knife	b	h	0	None	
+07ce	08	N	System Bus	1	Have Bulletproof Vest	b	h	0	None	
+e001	00	02	System Bus	1	Start With 1 Life	b	h	0	Equal	
+0039	00	N	System Bus	1	Start With 1 Life, No 1-Ups	b	h	0	None	
+07c1	00	N	System Bus	1	Can't Use Weapons	b	h	0	None	
+07ce	00	N	System Bus	1	Can't Use Bulletproof Vests	b	h	0	None	

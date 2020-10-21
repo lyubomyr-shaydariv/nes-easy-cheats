@@ -1,0 +1,16 @@
+0736	63	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+0737	63	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+00ed	01	N	System Bus	1	Have Super Mushroom	b	h	0	None	
+00ed	02	N	System Bus	1	Have Fire Suit	b	h	0	None	
+00ed	03	N	System Bus	1	Have Raccoon Suit	b	h	0	None	
+00ed	04	N	System Bus	1	Have Frog Suit	b	h	0	None	
+00ed	05	N	System Bus	1	Have Tanookie Suit	b	h	0	None	
+00ed	06	N	System Bus	1	Have Hammer Suit	b	h	0	None	
+0553	09	N	System Bus	1	Invincible	b	h	0	None	
+03dd	7f	N	System Bus	1	P-Meter Always Full	b	h	0	None	
+056e	3f	N	System Bus	1	Fly Forever	b	h	0	None	
+acb4	01	05	System Bus	1	Moon Gravity	b	h	0	Equal	
+00f0	05	N	System Bus	1	Slow Fall Rate (Huge P-Jumps)	b	h	0	None	
+acc5	00	01	System Bus	1	No Max Jump Height	b	h	0	Equal	
+afba	4d	ce	System Bus	1	Infinite Time	b	h	0	Equal	
+00ed	00	N	System Bus	1	Always Small	b	h	0	None	

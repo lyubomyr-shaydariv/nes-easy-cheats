@@ -1,0 +1,23 @@
+906a	09	02	System Bus	1	Start With 9 Lives (Both players)	b	h	0	Equal	
+906a	63	02	System Bus	1	Start With 99 Lives (Both players)	b	h	0	Equal	
+075a	08	N	System Bus	1	Infinite Lives (Both Players)	b	h	0	None	
+0754	00	N	System Bus	1	Have Super Mushroom	b	h	0	None	
+0756	02	N	System Bus	1	Have Fire Flower (Use with Have Super Mushroom)	b	h	0	None	
+079f	0f	N	System Bus	1	Invincible	b	h	0	None	
+912e	09	04	System Bus	1	Start With 900 Time (1/2)	b	h	0	Equal	
+912f	09	03	System Bus	1	Start With 900 Time (2/2)	b	h	0	Equal	
+0787	01	N	System Bus	1	Infinite Time	b	h	0	None	
+070a	07	N	System Bus	1	Moon Gravity	b	h	0	None	
+0709	20	N	System Bus	1	Slow Jumps	b	h	0	None	
+070c	01	N	System Bus	1	Silly Walking	b	h	0	None	
+9087	07	ff	System Bus	1	Start On World 8 (1/3)	b	h	0	Equal	
+9089	5f	a0	System Bus	1	Start On World 8 (1/3)	b	h	0	Equal	
+908a	07	03	System Bus	1	Start On World 8 (1/3)	b	h	0	Equal	
+07fc	01	N	System Bus	1	Start On 2nd Quest	b	h	0	None	
+906a	00	02	System Bus	1	Start With 1 Life (Both players)	b	h	0	Equal	
+075a	00	N	System Bus	1	Start With 1, No 1-Ups (Both players)	b	h	0	None	
+0754	01	N	System Bus	1	Always Regular Mario (1/2)	b	h	0	None	
+0756	00	N	System Bus	1	Always Regular Mario (2/2)	b	h	0	None	
+07ee	00	N	System Bus	1	P1 Can't Get Coins	b	h	0	None	
+07f4	00	N	System Bus	1	P2 Can't Get Coins	b	h	0	None	
+079f	00	N	System Bus	1	Stars Don't Make You Invincible	b	h	0	None	

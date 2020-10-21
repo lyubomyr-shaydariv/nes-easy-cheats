@@ -1,0 +1,5 @@
+0480	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+0489	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+0478	05	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+00de	01	N	System Bus	1	Have Long Shot Bubbles	b	h	0	None	
+00dc	09	N	System Bus	1	Infinite Continues	b	h	0	None	

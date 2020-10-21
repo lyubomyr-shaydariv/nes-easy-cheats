@@ -1,0 +1,25 @@
+e5f0	08	03	System Bus	1	Start With 9 Lives (Both players)	b	h	0	Equal	
+e5f0	62	03	System Bus	1	Start With 99 Lives (Both players)	b	h	0	Equal	
+0011	05	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+051a	2f	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None	
+0574	7e	N	System Bus	1	P1 Invulnerable (Must turn off at various times)	b	h	0	None	
+04b1	20	N	System Bus	1	P1 Has a Weapon	b	h	0	None	
+0012	05	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+051b	2f	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None	
+0575	7e	N	System Bus	1	P2 Invulnerable (Must turn off at various times)	b	h	0	None	
+04b2	20	N	System Bus	1	P2 Has a Weapon	b	h	0	None	
+8e4e	e4	d8	System Bus	1	High Jump	b	h	0	Equal	
+8e4e	f0	d8	System Bus	1	Super High Jump	b	h	0	Equal	
+a6c4	00	01	System Bus	1	Faster Attack	b	h	0	Equal	
+8320	02	00	System Bus	1	Start On Level 2	b	h	0	Equal	
+8320	03	00	System Bus	1	Start On Level 3	b	h	0	Equal	
+8320	04	00	System Bus	1	Start On Level 4	b	h	0	Equal	
+8320	05	00	System Bus	1	Start On Level 5	b	h	0	Equal	
+8320	06	00	System Bus	1	Start On Level 6	b	h	0	Equal	
+8320	07	00	System Bus	1	Start On Level 7	b	h	0	Equal	
+8320	08	00	System Bus	1	Start On Level 8	b	h	0	Equal	
+8320	09	00	System Bus	1	Start On Level 9	b	h	0	Equal	
+8320	0a	00	System Bus	1	Start On Level 10	b	h	0	Equal	
+8320	0b	00	System Bus	1	Start On Level 11	b	h	0	Equal	
+8320	0c	00	System Bus	1	Start On Level 12	b	h	0	Equal	
+e5f0	00	03	System Bus	1	Start With 1 Life (Both players)	b	h	0	Equal	

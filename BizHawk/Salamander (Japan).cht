@@ -1,0 +1,14 @@
+EAC7	64	03	System Bus	1	Start With 99 Lives (Both players)	b	h	0	Equal	
+0034	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+0070	03	N	System Bus	1	P1 Have Fast Speed	b	h	0	None	
+0076	02	N	System Bus	1	P1 Have Missiles	b	h	0	None	
+0066	01	N	System Bus	1	P1 Have Ripple	b	h	0	None	
+0066	02	N	System Bus	1	P1 Have Laser	b	h	0	None	
+0068	05	N	System Bus	1	P1 Power Up Level At Option (Players must share 2 options)	b	h	0	None	
+0035	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+0071	03	N	System Bus	1	P2 Have Fast Speed	b	h	0	None	
+0077	02	N	System Bus	1	P2 Have Missiles	b	h	0	None	
+0067	01	N	System Bus	1	P2 Have Ripple	b	h	0	None	
+0067	02	N	System Bus	1	P2 Have Laser	b	h	0	None	
+0069	05	N	System Bus	1	P2 Power Up Level At Option (Players must share 2 options)	b	h	0	None	
+EAC7	00	03	System Bus	1	Start With 1 Life (Both players)	b	h	0	Equal	

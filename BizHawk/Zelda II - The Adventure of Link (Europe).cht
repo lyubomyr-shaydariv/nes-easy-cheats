@@ -1,0 +1,8 @@
+0700	0a	N	System Bus	1	Infinite Lives	b	h	0	None	
+0773	f8	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0518	03	N	System Bus	1	Invulnerable	b	h	0	None	
+0774	f8	N	System Bus	1	Infinite Magic Points	b	h	0	None	
+0777	09	N	System Bus	1	Level 9 Attack	b	h	0	None	
+0778	09	N	System Bus	1	Level 9 Magic	b	h	0	None	
+0779	09	N	System Bus	1	Level 9 Life	b	h	0	None	
+0793	09	N	System Bus	1	Infinite Keys	b	h	0	None	

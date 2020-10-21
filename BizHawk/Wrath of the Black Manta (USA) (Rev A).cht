@@ -1,0 +1,14 @@
+8699	09	02	System Bus	1	Start With 9 Lives	b	h	0	Equal	
+0547	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+8694	08	03	System Bus	1	Start With Max Hit Points	b	h	0	Equal	
+98b5	08	03	System Bus	1	Respawn With Max Hit Points	b	h	0	Equal	
+0549	08	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0589	01	N	System Bus	1	Invulnerable (Turn off to get notes)	b	h	0	None	
+0548	38	N	System Bus	1	Max POW	b	h	0	None	
+ac42	0f	09	System Bus	1	Fast Standing Jump	b	h	0	Equal	
+868a	09	04	System Bus	1	Start With 9 Continues	b	h	0	Equal	
+0565	09	N	System Bus	1	Infinite Continues	b	h	0	None	
+8699	00	02	System Bus	1	Start With 1 Life	b	h	0	Equal	
+98b5	01	03	System Bus	1	Respawn With 1 Hit Point	b	h	0	Equal	
+0548	18	N	System Bus	1	No POW Bonuses	b	h	0	None	
+0565	00	N	System Bus	1	No Continues	b	h	0	None	

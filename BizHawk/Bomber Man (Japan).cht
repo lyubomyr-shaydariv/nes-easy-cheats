@@ -1,0 +1,4 @@
+0068	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+0074	07	N	System Bus	1	Full Bomb Count	b	h	0	None	
+0073	a0	N	System Bus	1	Maximum Bomb Length	b	h	0	None	
+0093	c8	N	System Bus	1	Infinite Time	b	h	0	None	

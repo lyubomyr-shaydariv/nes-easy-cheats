@@ -1,0 +1,5 @@
+03b3	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+0363	0f	N	System Bus	1	Infinite Hit Points (In combat)	b	h	0	None	
+0365	00	N	System Bus	1	No Combat Fatigue	b	h	0	None	
+0362	00	N	System Bus	1	Enemies Immediately Die (In combat)	b	h	0	None	
+0364	0f	N	System Bus	1	Full Enemy Combat Fatigue	b	h	0	None	

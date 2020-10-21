@@ -1,0 +1,12 @@
+00b2	ff	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None	
+00ae	09	N	System Bus	1	P1 Infinite Keys	b	h	0	None	
+00b0	09	N	System Bus	1	P1 Infinite Potions	b	h	0	None	
+00ac	3e	N	System Bus	1	P1 All Artifacts	b	h	0	None	
+00b3	ff	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None	
+00af	09	N	System Bus	1	P2 Infinite Keys	b	h	0	None	
+00b1	09	N	System Bus	1	P2 Infinite Potions	b	h	0	None	
+00ad	3e	N	System Bus	1	P2 All Artifacts	b	h	0	None	
+00c0	63	N	System Bus	1	Infinite Time In Treasure/Secret Rooms	b	h	0	None	
+833a	00	78	System Bus	1	Immune to Stun Tiles	b	h	0	Equal	
+830f	08	3c	System Bus	1	Enter Teleporters Faster	b	h	0	Equal	
+84c3	08	3c	System Bus	1	Exit Teleporters Faster	b	h	0	Equal	

@@ -1,0 +1,12 @@
+de38	7f	3f	System Bus	1	Slower Timer	b	h	0	Equal	
+de38	ff	3f	System Bus	1	Much Slower Timer	b	h	0	Equal	
+de3b	45	c6	System Bus	1	Infinite Time	b	h	0	Equal	
+c581	02	00	System Bus	1	Fast Acceleration	b	h	0	Equal	
+cec5	e3	e5	System Bus	1	Start On Course X (Part 1)	b	h	0	Equal	
+c029	01	00	System Bus	1	Start On Course 2 (Use with part 1)	b	h	0	Equal	
+c029	02	00	System Bus	1	Start On Course 3 (Use with part 1)	b	h	0	Equal	
+c029	03	00	System Bus	1	Start On Course 4 (Use with part 1)	b	h	0	Equal	
+c029	04	00	System Bus	1	Start On Course 5 (Use with part 1)	b	h	0	Equal	
+c029	05	00	System Bus	1	Start On Course 6 (Use with part 1)	b	h	0	Equal	
+c029	06	00	System Bus	1	Start On Course 7 (Use with part 1)	b	h	0	Equal	
+c029	07	00	System Bus	1	Start On Course 8 (Use with part 1)	b	h	0	Equal	
