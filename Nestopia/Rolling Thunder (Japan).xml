@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xE07E</address>
+		<value>0x0A</value>
+		<compare>0x03</compare>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE07E</address>
+		<value>0x64</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0088</address>
+		<value>0x0A</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0089</address>
+		<value>0x02</value>
+		<description>Infinite Hit Points (Bullets & grenades still kill)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A0</address>
+		<value>0xFF</value>
+		<description>Infinite Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A1</address>
+		<value>0xFF</value>
+		<description>Infinite Magnum Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE1F6</address>
+		<value>0xEA</value>
+		<compare>0xC6</compare>
+		<description>Infinite Time (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE1F7</address>
+		<value>0xEA</value>
+		<compare>0x59</compare>
+		<description>Infinite Time (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE07E</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0089</address>
+		<value>0x01</value>
+		<description>Any Hit Kills You</description>
+	</cheat>
+</cheats>

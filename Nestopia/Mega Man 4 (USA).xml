@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00A1</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x9C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x003C</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A2</address>
+		<value>0x09</value>
+		<description>Infinite Energy Tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B8</address>
+		<value>0x9C</value>
+		<description>Infinite Ring Boomerang</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B7</address>
+		<value>0x9C</value>
+		<description>Infinite Dive Missile</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BD</address>
+		<value>0x9C</value>
+		<description>Infinite Skull Barrier</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BB</address>
+		<value>0x9C</value>
+		<description>Infinite Pharaoh Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BC</address>
+		<value>0x9C</value>
+		<description>Infinite Flash Stopper</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B4</address>
+		<value>0x9C</value>
+		<description>Infinite Rain Flush</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B9</address>
+		<value>0x9C</value>
+		<description>Infinite Drill Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BA</address>
+		<value>0x9C</value>
+		<description>Infinite Dust Crusher</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B1</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Coil</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B3</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Marine</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B2</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Jet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B5</address>
+		<value>0x9C</value>
+		<description>Infinite Wire Adaptor</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B6</address>
+		<value>0x9C</value>
+		<description>Infinite Balloon Adaptor</description>
+	</cheat>
+</cheats>

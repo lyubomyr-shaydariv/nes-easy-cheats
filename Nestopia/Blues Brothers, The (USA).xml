@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0428</address>
+		<value>0x04</value>
+		<description>Jake - Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x042A</address>
+		<value>0x04</value>
+		<description>Jake - Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03C2</address>
+		<value>0x10</value>
+		<description>Jake - Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0429</address>
+		<value>0x04</value>
+		<description>Elwood - Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x042B</address>
+		<value>0x04</value>
+		<description>Elwood - Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03C3</address>
+		<value>0x10</value>
+		<description>Elwood - Invulnerable</description>
+	</cheat>
+</cheats>

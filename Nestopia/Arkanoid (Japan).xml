@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x000D</address>
+		<value>0x07</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0100</address>
+		<value>0x05</value>
+		<description>Have Slow (Most of the time)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0129</address>
+		<value>0x04</value>
+		<description>Have Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0129</address>
+		<value>0x02</value>
+		<description>Have Extension</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0128</address>
+		<value>0x01</value>
+		<description>Have Catch</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0138</address>
+		<value>0x10</value>
+		<description>Catch Doesn't Automatically Release</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C45</address>
+		<value>0x05</value>
+		<compare>0x01</compare>
+		<description>Start On Round 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C45</address>
+		<value>0x09</value>
+		<compare>0x01</compare>
+		<description>Start On Round 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0129</address>
+		<value>0x00</value>
+		<description>No Laser or Extend</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0100</address>
+		<value>0x09</value>
+		<description>Ball Always Moves Fast</description>
+	</cheat>
+</cheats>

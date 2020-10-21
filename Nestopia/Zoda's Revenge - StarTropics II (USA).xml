@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0117</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0111</address>
+		<value>0x14</value>
+		<description>Full Heart Containers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0112</address>
+		<value>0x28</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0031</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0036</address>
+		<value>0x0A</value>
+		<description>Infinite Fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x003C</address>
+		<value>0x09</value>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004E</address>
+		<value>0x0C</value>
+		<description>Infinite Hit Points (Missiles still kill you)</description>
+	</cheat>
+</cheats>

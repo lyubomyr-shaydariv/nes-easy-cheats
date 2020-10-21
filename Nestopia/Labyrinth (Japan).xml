@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x04BD</address>
+		<value>0x59</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04CA</address>
+		<value>0xFF</value>
+		<description>Infinite Jewelry</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C8</address>
+		<value>0x09</value>
+		<description>Infinite Orbs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04CB</address>
+		<value>0x09</value>
+		<description>Infinite Boxes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04CC</address>
+		<value>0x09</value>
+		<description>Infinite Books</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C4</address>
+		<value>0x09</value>
+		<description>Hoggle Full Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C5</address>
+		<value>0x09</value>
+		<description>Ludo Full Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C6</address>
+		<value>0x09</value>
+		<description>Didymus Full Power</description>
+	</cheat>
+</cheats>

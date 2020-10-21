@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0410</address>
+		<value>0x09</value>
+		<description>Infinite Energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x040E</address>
+		<value>0x0C</value>
+		<description>Invulnerable (Graphic glitches)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04F6</address>
+		<value>0x09</value>
+		<description>Infinite Weapon Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0402</address>
+		<value>0x02</value>
+		<description>Have Long Spread</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0402</address>
+		<value>0x07</value>
+		<description>Have Double Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0402</address>
+		<value>0x09</value>
+		<description>Have Double Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0402</address>
+		<value>0x0A</value>
+		<description>Have Double Laser</description>
+	</cheat>
+</cheats>

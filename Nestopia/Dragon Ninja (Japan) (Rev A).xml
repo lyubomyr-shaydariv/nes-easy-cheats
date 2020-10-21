@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x02AE</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02AF</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x029B</address>
+		<value>0x0B</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0292</address>
+		<value>0x01</value>
+		<description>Have Knife</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0292</address>
+		<value>0x02</value>
+		<description>Have Nun-chucks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0204</address>
+		<value>0x40</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02AE</address>
+		<value>0x01</value>
+		<description>Start With 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02AF</address>
+		<value>0x00</value>
+		<description>No Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0292</address>
+		<value>0x00</value>
+		<description>Can't Use Weapons</description>
+	</cheat>
+</cheats>

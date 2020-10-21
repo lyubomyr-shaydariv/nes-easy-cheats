@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00DB</address>
+		<value>0x18</value>
+		<description>Infinite Energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DF</address>
+		<value>0x18</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D2</address>
+		<value>0xAA</value>
+		<description>Full Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DA</address>
+		<value>0xFF</value>
+		<description>All Ship Types</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D1</address>
+		<value>0x00</value>
+		<description>No Delay Between Ship Changes</description>
+	</cheat>
+</cheats>

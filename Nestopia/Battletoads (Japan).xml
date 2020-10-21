@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xE610</address>
+		<value>0x08</value>
+		<compare>0x05</compare>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE610</address>
+		<value>0x62</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0011</address>
+		<value>0x05</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x051A</address>
+		<value>0x2F</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0574</address>
+		<value>0x7E</value>
+		<description>P1 Invulnerable (Must turn off at various times)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04B1</address>
+		<value>0x20</value>
+		<description>P1 Has a Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0012</address>
+		<value>0x05</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x051B</address>
+		<value>0x2F</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0575</address>
+		<value>0x7E</value>
+		<description>P2 Invulnerable (Must turn off at various times)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04B2</address>
+		<value>0x20</value>
+		<description>P2 Has a Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8E32</address>
+		<value>0xE4</value>
+		<compare>0xD8</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8E32</address>
+		<value>0xF0</value>
+		<compare>0xD8</compare>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA6A5</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>Faster Attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x02</value>
+		<compare>0x00</compare>
+		<description>Start On Level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x03</value>
+		<compare>0x00</compare>
+		<description>Start On Level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x04</value>
+		<compare>0x00</compare>
+		<description>Start On Level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x05</value>
+		<compare>0x00</compare>
+		<description>Start On Level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x06</value>
+		<compare>0x00</compare>
+		<description>Start On Level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x07</value>
+		<compare>0x00</compare>
+		<description>Start On Level 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x08</value>
+		<compare>0x00</compare>
+		<description>Start On Level 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x09</value>
+		<compare>0x00</compare>
+		<description>Start On Level 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x0A</value>
+		<compare>0x00</compare>
+		<description>Start On Level 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x0B</value>
+		<compare>0x00</compare>
+		<description>Start On Level 11</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8328</address>
+		<value>0x0C</value>
+		<compare>0x00</compare>
+		<description>Start On Level 12</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE610</address>
+		<value>0x00</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+</cheats>

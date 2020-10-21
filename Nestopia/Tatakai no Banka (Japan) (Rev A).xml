@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x03D0</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E0</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0335</address>
+		<value>0x09</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CD</address>
+		<value>0x01</value>
+		<description>x2 Attack Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CD</address>
+		<value>0x02</value>
+		<description>x3 Attack Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CD</address>
+		<value>0x08</value>
+		<description>x9 Attack Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CB</address>
+		<value>0x01</value>
+		<description>Have High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CC</address>
+		<value>0x01</value>
+		<description>Have Speed Up</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0386</address>
+		<value>0x02</value>
+		<description>Have Key</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0334</address>
+		<value>0x09</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

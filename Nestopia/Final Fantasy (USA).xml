@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x610B</address>
+		<value>0x02</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6120</address>
+		<value>0xFF</value>
+		<description>P1 Max Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6121</address>
+		<value>0xFF</value>
+		<description>P1 Max Hit %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6122</address>
+		<value>0xFF</value>
+		<description>P1 Max Absorb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6123</address>
+		<value>0xFF</value>
+		<description>P1 Max Evade %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x614B</address>
+		<value>0x02</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6160</address>
+		<value>0xFF</value>
+		<description>P2 Max Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6161</address>
+		<value>0xFF</value>
+		<description>P2 Max Hit %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6162</address>
+		<value>0xFF</value>
+		<description>P2 Max Absorb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6163</address>
+		<value>0xFF</value>
+		<description>P2 Max Evade %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x618B</address>
+		<value>0x02</value>
+		<description>P3 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61A0</address>
+		<value>0xFF</value>
+		<description>P3 Max Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61A1</address>
+		<value>0xFF</value>
+		<description>P3 Max Hit %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61A2</address>
+		<value>0xFF</value>
+		<description>P3 Max Absorb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61A3</address>
+		<value>0xFF</value>
+		<description>P3 Max Evade %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61CB</address>
+		<value>0x02</value>
+		<description>P4 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61E0</address>
+		<value>0xFF</value>
+		<description>P4 Max Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61E1</address>
+		<value>0xFF</value>
+		<description>P4 Max Hit %</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61E2</address>
+		<value>0xFF</value>
+		<description>P4 Max Absorb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x61E3</address>
+		<value>0xFF</value>
+		<description>P4 Max Evade %</description>
+	</cheat>
+</cheats>

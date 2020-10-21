@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0096</address>
+		<value>0x99</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0091</address>
+		<value>0x14</value>
+		<description>Infinite Hit Points (Must turn off at end of round)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0093</address>
+		<value>0x14</value>
+		<description>Infinite Spell Points (Must turn off at end of round)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x10</value>
+		<description>Invulnerable (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0xFE</value>
+		<description>Invulnerable (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0089</address>
+		<value>0x14</value>
+		<description>Max Attack Power Full</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008E</address>
+		<value>0x14</value>
+		<description>Current Attack Power Full (Looks empty)</description>
+	</cheat>
+</cheats>

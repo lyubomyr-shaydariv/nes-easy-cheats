@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0099</address>
+		<value>0x03</value>
+		<description>Infinite Hit Points (Don't use red potions)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009B</address>
+		<value>0xFF</value>
+		<description>Infinite Ludder</description>
+	</cheat>
+</cheats>

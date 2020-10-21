@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0020</address>
+		<value>0x63</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0021</address>
+		<value>0x63</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0045</address>
+		<value>0x02</value>
+		<description>Have Both Options</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0046</address>
+		<value>0x05</value>
+		<description>Have Force Field Barrier</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0044</address>
+		<value>0x01</value>
+		<description>Have Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0044</address>
+		<value>0x02</value>
+		<description>Have Double</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0041</address>
+		<value>0x01</value>
+		<description>Have Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0040</address>
+		<value>0x07</value>
+		<description>Fast Speed</description>
+	</cheat>
+</cheats>

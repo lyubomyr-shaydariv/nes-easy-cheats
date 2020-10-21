@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x6871</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Mariah (Mage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6873</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Iolo (Bard)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6875</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Geoff (Fighter)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6877</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Jaana (Druid)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6879</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Dupre (Paladin)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x687B</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Julius (Tinker)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x687D</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Shamino (Ranger)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x687F</address>
+		<value>0xFF</value>
+		<description>Infinite HP: Katrina (Shepherd)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6891</address>
+		<value>0x63</value>
+		<description>Infinite MP: Mariah</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6892</address>
+		<value>0x63</value>
+		<description>Infinite MP: Iolo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6893</address>
+		<value>0x63</value>
+		<description>Infinite MP: Geoff</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6894</address>
+		<value>0x63</value>
+		<description>Infinite MP: Jaana</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6895</address>
+		<value>0x63</value>
+		<description>Infinite MP: Dupre</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6897</address>
+		<value>0x63</value>
+		<description>Infinite MP: Shamino</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6896</address>
+		<value>0x63</value>
+		<description>Infinite MP: Julius</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6898</address>
+		<value>0x63</value>
+		<description>Infinite MP: Katrina</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6828</address>
+		<value>0x25</value>
+		<description>Infinite Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x682B</address>
+		<value>0x01</value>
+		<description>Have Key</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x681A</address>
+		<value>0xFF</value>
+		<description>Have All Runes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6819</address>
+		<value>0xFF</value>
+		<description>Have All Stones</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D9</address>
+		<value>0x00</value>
+		<description>No Random Encounters</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x681B</address>
+		<value>0xFF</value>
+		<description>Full Spells (1/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x681C</address>
+		<value>0x7F</value>
+		<description>Full Spells (2/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x681D</address>
+		<value>0xF7</value>
+		<description>Full Spells (3/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x681E</address>
+		<value>0x0B</value>
+		<description>Full Spells (4/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x681F</address>
+		<value>0x63</value>
+		<description>Infinite Ash</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6820</address>
+		<value>0x63</value>
+		<description>Infinite Ginseng</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6821</address>
+		<value>0x63</value>
+		<description>Infinite Garlic</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6822</address>
+		<value>0x63</value>
+		<description>Infinite Silkweb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6823</address>
+		<value>0x63</value>
+		<description>Infinite Moss</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6824</address>
+		<value>0x63</value>
+		<description>Infinite Pearl</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6825</address>
+		<value>0x63</value>
+		<description>Infinite Fungus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6826</address>
+		<value>0x63</value>
+		<description>Infinite Manroot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x680C</address>
+		<value>0x64</value>
+		<description>Avatarship In Honesty</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x680D</address>
+		<value>0x64</value>
+		<description>Avatarship In Compassion</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x680E</address>
+		<value>0x64</value>
+		<description>Avatarship In Valor</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x680F</address>
+		<value>0x64</value>
+		<description>Avatarship In Justice</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6810</address>
+		<value>0x64</value>
+		<description>Avatarship In Sacrifice</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6811</address>
+		<value>0x64</value>
+		<description>Avatarship In Honor</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6812</address>
+		<value>0x64</value>
+		<description>Avatarship In Spirituality</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6813</address>
+		<value>0x64</value>
+		<description>Avatarship In Humility</description>
+	</cheat>
+</cheats>

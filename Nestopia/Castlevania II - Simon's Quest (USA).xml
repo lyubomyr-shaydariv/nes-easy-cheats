@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0031</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04F8</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0049</address>
+		<value>0x99</value>
+		<description>Infinite Hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0434</address>
+		<value>0x04</value>
+		<description>Have Flame Whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004A</address>
+		<value>0xFF</value>
+		<description>Have All Weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0091</address>
+		<value>0xFF</value>
+		<description>Have All Dracula's Parts</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0092</address>
+		<value>0xFF</value>
+		<description>Have All Items</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004C</address>
+		<value>0x09</value>
+		<description>Infinite Laurels (Use with "Have All Items")</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004D</address>
+		<value>0x09</value>
+		<description>Infinite Garlic (Use with "Have All Items")</description>
+	</cheat>
+</cheats>

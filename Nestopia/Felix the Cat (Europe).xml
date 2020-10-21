@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xC433</address>
+		<value>0x19</value>
+		<compare>0x12</compare>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03A6</address>
+		<value>0x19</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CD</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xF79C</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>Infinite Magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03A8</address>
+		<value>0x19</value>
+		<description>Each Felix Head Gives a Bonus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD7BA</address>
+		<value>0xF8</value>
+		<compare>0xFA</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD7BA</address>
+		<value>0xF6</value>
+		<compare>0xFA</compare>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03AF</address>
+		<value>0x01</value>
+		<description>Air Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xF7B0</address>
+		<value>0xA9</value>
+		<compare>0xAC</compare>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03F9</address>
+		<value>0x0A</value>
+		<description>Infinite Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x03</value>
+		<compare>0x00</compare>
+		<description>Start On World 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x06</value>
+		<compare>0x00</compare>
+		<description>Start On World 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x09</value>
+		<compare>0x00</compare>
+		<description>Start On World 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x0C</value>
+		<compare>0x00</compare>
+		<description>Start On World 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x0F</value>
+		<compare>0x00</compare>
+		<description>Start On World 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x11</value>
+		<compare>0x00</compare>
+		<description>Start On World 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x13</value>
+		<compare>0x00</compare>
+		<description>Start On World 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC343</address>
+		<value>0x14</value>
+		<compare>0x00</compare>
+		<description>Start On World 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC433</address>
+		<value>0x10</value>
+		<compare>0x12</compare>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03F9</address>
+		<value>0x01</value>
+		<description>No Continues</description>
+	</cheat>
+</cheats>

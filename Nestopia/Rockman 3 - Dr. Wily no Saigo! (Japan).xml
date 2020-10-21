@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00AE</address>
+		<value>0x99</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A2</address>
+		<value>0x9C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0039</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AF</address>
+		<value>0x99</value>
+		<description>Infinite Energy Tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A3</address>
+		<value>0x9C</value>
+		<description>Infinite Gemini Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A4</address>
+		<value>0x9C</value>
+		<description>Infinite Needle Cannon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A5</address>
+		<value>0x9C</value>
+		<description>Infinite Hard Kunckle</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A6</address>
+		<value>0x9C</value>
+		<description>Infinite Magnet Missile</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A7</address>
+		<value>0x9C</value>
+		<description>Infinite Top Spin</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A8</address>
+		<value>0x9C</value>
+		<description>Infinite Search Snake</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x9C</value>
+		<description>Infinite Spark Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AC</address>
+		<value>0x9C</value>
+		<description>Infinite Shadow Blade</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A9</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Catapult</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Boat</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AD</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Jet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04FF</address>
+		<value>0x00</value>
+		<description>1-Hit Boss Kills</description>
+	</cheat>
+</cheats>
