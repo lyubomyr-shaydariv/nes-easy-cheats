@@ -1,0 +1,17 @@
+S:0032:09:P1 Infinite Lives
+S:00b0:7f:P1 Invincible (B Power Up)
+S:00aa:13:P1 Has Spray
+S:00aa:11:P1 Has Machine Gun
+S:00aa:12:P1 Has Flame Thrower
+S:00aa:14:P1 Has Laser
+S:0033:09:P2 Infinite Lives
+S:00b1:7f:P2 Invincible (B Power Up)
+S:00ab:13:P2 Has Spray
+S:00ab:11:P2 Has Machine Gun
+S:00ab:12:P2 Has Flame Thrower
+S:00ab:14:P2 Has Laser
+SC:dad3:2c:95:Keep Gun After Dying
+S:0032:00:P1 Start With 1 Life, No 1-Ups
+S:0033:00:P2 Start With 1 Life, No 1-Ups
+S:00aa:00:P1 No Special Guns
+S:00ab:00:P2 No Special Guns
