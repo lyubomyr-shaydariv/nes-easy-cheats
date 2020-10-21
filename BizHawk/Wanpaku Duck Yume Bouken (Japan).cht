@@ -1,0 +1,13 @@
+da16	09	02	System Bus	1	Start With 9 Lives	b	h	0	Equal	
+0361	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+034a	00	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0075	01	N	System Bus	1	Invincible (Must turn off to end stage)	b	h	0	None	
+007d	01	N	System Bus	1	Invulnerable	b	h	0	None	
+00a1	01	N	System Bus	1	Have Remote Control	b	h	0	None	
+00a3	06	N	System Bus	1	Have Both Keys	b	h	0	None	
+07a0	05	N	System Bus	1	High Jump	b	h	0	None	
+07a0	06	N	System Bus	1	Super High Jump	b	h	0	None	
+8bac	03	01	System Bus	1	Magic Coin Lasts Longer	b	h	0	Equal	
+00b0	3c	N	System Bus	1	Infinite Time	b	h	0	None	
+da16	00	02	System Bus	1	Start With 1 Life	b	h	0	Equal	
+0361	00	N	System Bus	1	1 Life, No 1-Ups	b	h	0	None	

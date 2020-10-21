@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x09</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03B4</address>
+		<value>0x40</value>
+		<description>Infinite Hit Points (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0040</address>
+		<value>0x06</value>
+		<description>Have All Skills (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0505</address>
+		<value>0x99</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0396</address>
+		<value>0x80</value>
+		<description>Have a Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039E</address>
+		<value>0x00</value>
+		<description>Held Weapon Is a Bat</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039E</address>
+		<value>0x02</value>
+		<description>Held Weapon Is a Whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039E</address>
+		<value>0x04</value>
+		<description>Held Weapon Is a Oil Drum</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039E</address>
+		<value>0x05</value>
+		<description>Held Weapon Is a Crate</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039E</address>
+		<value>0x06</value>
+		<description>Held Weapon Is a Rock</description>
+	</cheat>
+</cheats>

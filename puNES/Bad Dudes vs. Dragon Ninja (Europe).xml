@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x010A</address>
+		<value>0x09</value>
+		<description>Start With 9 Lives and 9 Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x010A</address>
+		<value>0x63</value>
+		<description>Start With 99 Lives and 99 Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BE</address>
+		<value>0x09</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BF</address>
+		<value>0x09</value>
+		<description>Infinite Continues (Both Players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESGASZE</genie>
+		<description>Start With More Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEEKOEZE</genie>
+		<description>Start With More Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02AB</address>
+		<value>0x0B</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02A2</address>
+		<value>0x01</value>
+		<description>Have Knife</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02A2</address>
+		<value>0x02</value>
+		<description>Have Nunchucks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0204</address>
+		<value>0x40</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x010A</address>
+		<value>0x01</value>
+		<description>Start With 1 Life and 1 Continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BE</address>
+		<value>0x01</value>
+		<description>Start With 1 Life and No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BF</address>
+		<value>0x00</value>
+		<description>No Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02A2</address>
+		<value>0x00</value>
+		<description>Can't Use Weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESGASZA</genie>
+		<description>Start With Fewer Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEKOEZA</genie>
+		<description>Start With Fewer Hit Points (2/2)</description>
+	</cheat>
+</cheats>

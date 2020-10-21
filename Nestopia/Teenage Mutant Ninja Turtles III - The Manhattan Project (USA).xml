@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x006A</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04F1</address>
+		<value>0x7F</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04FF</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable (Must jump out of pits)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006B</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04F2</address>
+		<value>0x7F</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0500</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable (Must jump out of pits)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0621</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (1/8) (Must turn off for stone warriors)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0622</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (2/8)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0623</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (3/8)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0624</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (4/8)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0625</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (5/8)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0626</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (6/8)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0627</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (7/8)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0628</address>
+		<value>0x01</value>
+		<description>Enemies Take 1 Hit (8/8)</description>
+	</cheat>
+</cheats>

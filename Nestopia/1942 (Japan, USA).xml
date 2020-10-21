@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xB7DE</address>
+		<value>0x09</value>
+		<compare>0x02</compare>
+		<description>P1 Starts With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB7E0</address>
+		<value>0x31</value>
+		<compare>0x02</compare>
+		<description>P1 Starts With 20 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB859</address>
+		<value>0x09</value>
+		<compare>0x02</compare>
+		<description>P2 Starts With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB85B</address>
+		<value>0x31</value>
+		<compare>0x02</compare>
+		<description>P2 Starts With 20 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0432</address>
+		<value>0x09</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x048E</address>
+		<value>0x8A</value>
+		<description>Invincible With POW Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0436</address>
+		<value>0x09</value>
+		<description>Infinite Retreats (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB7DE</address>
+		<value>0x00</value>
+		<compare>0x02</compare>
+		<description>P1 Starts With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB859</address>
+		<value>0x00</value>
+		<compare>0x02</compare>
+		<description>P2 Starts With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0431</address>
+		<value>0x00</value>
+		<description>Both Players Start With 1 Life, No 1-Ups</description>
+	</cheat>
+</cheats>

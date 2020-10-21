@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZIOZPUGU</genie>
+		<description>Start With 90 Seconds (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0044</address>
+		<value>0x63</value>
+		<description>P1 Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0045</address>
+		<value>0x63</value>
+		<description>P2 Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x01</value>
+		<description>Infinite Time (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANUZIZTG</genie>
+		<description>Slower Timer (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANKZPZTG</genie>
+		<description>Slower Timer (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENUZIZTG</genie>
+		<description>Super Slower Timer (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENKZPZTG</genie>
+		<description>Super Slower Timer (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZOZPUGU</genie>
+		<description>Start With 40 Seconds (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TUUZIZTG</genie>
+		<description>Faster Timer (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TUKZPZTG</genie>
+		<description>Faster Timer (2/2)</description>
+	</cheat>
+</cheats>

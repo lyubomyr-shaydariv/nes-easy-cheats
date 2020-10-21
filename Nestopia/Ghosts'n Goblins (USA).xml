@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0715</address>
+		<value>0x0A</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0716</address>
+		<value>0x0A</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE3D6</address>
+		<value>0xC5</value>
+		<compare>0xF0</compare>
+		<description>Always Have Armor</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0647</address>
+		<value>0x03</value>
+		<description>Stay Invulnerable After Hit (Turn off to pickup items/Fall through some platforms)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x053A</address>
+		<value>0x42</value>
+		<description>Have Dagger</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x053A</address>
+		<value>0x4F</value>
+		<description>Have Cross</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x053A</address>
+		<value>0x40</value>
+		<description>Have Spear</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x053A</address>
+		<value>0x36</value>
+		<description>Have Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x053A</address>
+		<value>0x44</value>
+		<description>Have Torch</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xED3B</address>
+		<value>0x10</value>
+		<compare>0x0A</compare>
+		<description>Cross Shoots Farther</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06FC</address>
+		<value>0x09</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00E0</address>
+		<value>0x09</value>
+		<description>Infinite Lives (Display unaffected)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00E3</address>
+		<value>0x01</value>
+		<description>Invincible to Enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00E1</address>
+		<value>0x01</value>
+		<description>Have Rocket</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008B</address>
+		<value>0x13</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

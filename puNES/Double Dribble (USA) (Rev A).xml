@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x07F5</address>
+		<value>0x09</value>
+		<description>P1 Starts With 900 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07F9</address>
+		<value>0x09</value>
+		<description>P2 Starts With 900 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0034</address>
+		<value>0x04</value>
+		<description>Start In 4th Quarter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKGETGA</genie>
+		<description>Game Ends After 1st Period</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKGETGA</genie>
+		<description>Game Ends At Half</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKPAKYO</genie>
+		<description>Timer Twice As Fast</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x9C13</address>
+		<value>0x09</value>
+		<compare>0x03</compare>
+		<description>Start With 9 Lives (1 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C13</address>
+		<value>0x63</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives (1 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C2A</address>
+		<value>0x09</value>
+		<compare>0x03</compare>
+		<description>Start With 9 Lives (2 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C2A</address>
+		<value>0x63</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives (2 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x000D</address>
+		<value>0x03</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0100</address>
+		<value>0x05</value>
+		<description>Have Slow (Most of the time)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0129</address>
+		<value>0x04</value>
+		<description>Have Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0129</address>
+		<value>0x02</value>
+		<description>Have Extension</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0128</address>
+		<value>0x01</value>
+		<description>Have Catch</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0138</address>
+		<value>0x10</value>
+		<description>Catch Doesn't Automatically Release</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x05</value>
+		<compare>0x01</compare>
+		<description>Start On Round 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x0A</value>
+		<compare>0x01</compare>
+		<description>Start On Round 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x0F</value>
+		<compare>0x01</compare>
+		<description>Start On Round 15</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x14</value>
+		<compare>0x01</compare>
+		<description>Start On Round 20</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x19</value>
+		<compare>0x01</compare>
+		<description>Start On Round 25</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x1E</value>
+		<compare>0x01</compare>
+		<description>Start On Round 30</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x23</value>
+		<compare>0x01</compare>
+		<description>Start On Round 35</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C1F</address>
+		<value>0x24</value>
+		<compare>0x01</compare>
+		<description>Start On Final Round</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C13</address>
+		<value>0x01</value>
+		<description>Start With 1 Life (1 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9C2A</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life (2 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0129</address>
+		<value>0x00</value>
+		<description>No Laser or Extend</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0100</address>
+		<value>0x09</value>
+		<description>Ball Always Moves Fast</description>
+	</cheat>
+</cheats>

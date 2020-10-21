@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0087</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0089</address>
+		<value>0x01</value>
+		<description>Invincible to Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0095</address>
+		<value>0x01</value>
+		<description>Have 4 Barriers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008B</address>
+		<value>0x03</value>
+		<description>High Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008B</address>
+		<value>0x05</value>
+		<description>Highest Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008C</address>
+		<value>0x01</value>
+		<description>Have Ring Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008C</address>
+		<value>0x02</value>
+		<description>Have Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008C</address>
+		<value>0x04</value>
+		<description>Have Full Spread</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x037D</address>
+		<value>0x01</value>
+		<description>Have Straight Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x037D</address>
+		<value>0x02</value>
+		<description>Have Heat-Seeking Missiles</description>
+	</cheat>
+</cheats>

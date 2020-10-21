@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x057C</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AD</address>
+		<value>0x08</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A8</address>
+		<value>0x50</value>
+		<description>Invincible (Pogo stick)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A9</address>
+		<value>0x3B</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050C</address>
+		<value>0x05</value>
+		<description>Infinite Balloons</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x056D</address>
+		<value>0x27</value>
+		<description>Infinite Crystals</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x057A</address>
+		<value>0x80</value>
+		<description>Power Canister (Turn on, shoot once, turn off to enable)</description>
+	</cheat>
+</cheats>

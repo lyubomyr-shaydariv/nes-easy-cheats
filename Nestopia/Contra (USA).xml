@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xC462</address>
+		<value>0x08</value>
+		<compare>0x02</compare>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC462</address>
+		<value>0x62</value>
+		<compare>0x02</compare>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0032</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x7F</value>
+		<description>P1 Invincible (B Power Up)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x13</value>
+		<description>P1 Has Spray</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x11</value>
+		<description>P1 Has Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x12</value>
+		<description>P1 Has Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x14</value>
+		<description>P1 Has Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B1</address>
+		<value>0x7F</value>
+		<description>P2 Invincible (B Power Up)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x13</value>
+		<description>P2 Has Spray</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x11</value>
+		<description>P2 Has Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x12</value>
+		<description>P2 Has Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x14</value>
+		<description>P2 Has Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDAD3</address>
+		<value>0x2C</value>
+		<compare>0x95</compare>
+		<description>Keep Gun After Dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD6E9</address>
+		<value>0xFA</value>
+		<compare>0xFB</compare>
+		<description>High Jump In Side View</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD6EF</address>
+		<value>0xFB</value>
+		<compare>0xFC</compare>
+		<description>High Jump In Bases</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC462</address>
+		<value>0x00</value>
+		<compare>0x02</compare>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0032</address>
+		<value>0x00</value>
+		<description>P1 Start With 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x00</value>
+		<description>P2 Start With 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x00</value>
+		<description>P1 No Special Guns</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x00</value>
+		<description>P2 No Special Guns</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8A90</address>
+		<value>0x40</value>
+		<compare>0x80</compare>
+		<description>Snipers Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8472</address>
+		<value>0x18</value>
+		<compare>0x30</compare>
+		<description>Gray Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x85A3</address>
+		<value>0x28</value>
+		<compare>0x50</compare>
+		<description>Red Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x90F4</address>
+		<value>0x28</value>
+		<compare>0x50</compare>
+		<description>Base Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xF10D</address>
+		<value>0x10</value>
+		<compare>0x30</compare>
+		<description>Big Gunners Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB83D</address>
+		<value>0x70</value>
+		<compare>0xC0</compare>
+		<description>Spider Turrets Shoot More</description>
+	</cheat>
+</cheats>

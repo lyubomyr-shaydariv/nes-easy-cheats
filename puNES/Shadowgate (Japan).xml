@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x04F4</address>
+		<value>0xFF</value>
+		<description>Torch Lasts Forever</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04FA</address>
+		<value>0x00</value>
+		<description>Shield Won't Melt</description>
+	</cheat>
+</cheats>

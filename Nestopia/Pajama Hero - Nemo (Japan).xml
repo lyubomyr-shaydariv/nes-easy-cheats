@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xCAD4</address>
+		<value>0x09</value>
+		<compare>0x03</compare>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAD4</address>
+		<value>0x63</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008D</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05D0</address>
+		<value>0x06</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0630</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008B</address>
+		<value>0x09</value>
+		<description>Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAFC4</address>
+		<value>0x18</value>
+		<compare>0x0A</compare>
+		<description>Nemo High Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAFCE</address>
+		<value>0xFB</value>
+		<compare>0xFD</compare>
+		<description>Nemo Fast Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAFC4</address>
+		<value>0x40</value>
+		<compare>0x0A</compare>
+		<description>Nemo Super High Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAFCE</address>
+		<value>0xF8</value>
+		<compare>0xFD</compare>
+		<description>Nemo Super Fast Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB1D7</address>
+		<value>0x04</value>
+		<compare>0x01</compare>
+		<description>Nemo Long Jumps - Right</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB13D</address>
+		<value>0xFB</value>
+		<compare>0xFE</compare>
+		<description>Nemo Long Jumps - Left</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD84D</address>
+		<value>0x10</value>
+		<compare>0x40</compare>
+		<description>Moon Gravity</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAFF4</address>
+		<value>0xFA</value>
+		<compare>0xFC</compare>
+		<description>Nemo High Jump Out of Water - Right</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB001</address>
+		<value>0xF9</value>
+		<compare>0xFB</compare>
+		<description>Nemo High Jump Out of Water - Left</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB1A3</address>
+		<value>0x03</value>
+		<compare>0x01</compare>
+		<description>Nemo Runs - Right</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB109</address>
+		<value>0xFC</value>
+		<compare>0xFE</compare>
+		<description>Nemo Runs - Left</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB5CE</address>
+		<value>0xFF</value>
+		<compare>0xB4</compare>
+		<description>Fly Longer As Hornet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB650</address>
+		<value>0x24</value>
+		<compare>0x21</compare>
+		<description>Fly Forever As Hornet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDE7D</address>
+		<value>0xFF</value>
+		<compare>0x78</compare>
+		<description>Stun Lasts Longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDE42</address>
+		<value>0x01</value>
+		<compare>0x3C</compare>
+		<description>Animals Instant-Chew Candy</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB25E</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Toads Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB29F</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Moles Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB013</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Lizards Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB280</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Gorillas Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xB56F</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Hornets Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x01</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x02</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x03</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x04</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x05</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x06</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x07</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAC0</address>
+		<value>0x08</value>
+		<compare>0x00</compare>
+		<description>Start On Dream 8, Part 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCAD4</address>
+		<value>0x00</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008D</address>
+		<value>0x00</value>
+		<description>Start With 1 Life, No 1-Ups</description>
+	</cheat>
+</cheats>

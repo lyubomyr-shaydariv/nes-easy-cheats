@@ -1,0 +1,20 @@
+d2ad	09	03	System Bus	1	Start With 9 Lives	b	h	0	Equal	
+d2ad	99	03	System Bus	1	Start With 99 Lives	b	h	0	Equal	
+0049	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+f933	00	01	System Bus	1	No Damage From Bullets	b	h	0	Equal	
+9d4e	00	05	System Bus	1	No Damage From Dying	b	h	0	Equal	
+86f7	04	02	System Bus	1	Start With 40 Hit Points (1/2)	b	h	0	Equal	
+86f9	04	02	System Bus	1	Start With 40 Hit Points (2/2)	b	h	0	Equal	
+86f7	09	02	System Bus	1	Start With 90 Hit Points (1/2)	b	h	0	Equal	
+86f9	09	02	System Bus	1	Start With 90 Hit Points (2/2)	b	h	0	Equal	
+005a	09	N	System Bus	1	Infinite Hit Points (Turn off at the end of stage)	b	h	0	None	
+03d0	81	N	System Bus	1	Invulnerable (Turn off to interact with environment) 	b	h	0	None	
+03e4	01	N	System Bus	1	Have Flash Buster	b	h	0	None	
+03e4	02	N	System Bus	1	Have Megasmasher	b	h	0	None	
+03e4	03	N	System Bus	1	Have Mega Buster	b	h	0	None	
+03db	02	N	System Bus	1	Have High Speed	b	h	0	None	
+0060	01	N	System Bus	1	Have Flash Bomb	b	h	0	None	
+0061	01	N	System Bus	1	Have Crash Ball	b	h	0	None	
+d2ad	01	03	System Bus	1	Start With 1 Life	b	h	0	Equal	
+86f7	01	02	System Bus	1	Start With 10 Hit Points (1/2)	b	h	0	Equal	
+86f9	01	02	System Bus	1	Start With 10 Hit Points (2/2)	b	h	0	Equal	

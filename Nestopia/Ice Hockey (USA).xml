@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x042F</address>
+		<value>0x63</value>
+		<description>P1 Has 99 Goals (Updates on first goal)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0430</address>
+		<value>0x63</value>
+		<description>P2 Has 99 Goals (Updates on first goal)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEC2</address>
+		<value>0x0A</value>
+		<compare>0x13</compare>
+		<description>Timer Twice As Fast</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEC2</address>
+		<value>0x05</value>
+		<compare>0x13</compare>
+		<description>Timer Four Times As Fast</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEC2</address>
+		<value>0x00</value>
+		<compare>0x13</compare>
+		<description>Max Timer Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEC2</address>
+		<value>0x3F</value>
+		<compare>0x13</compare>
+		<description>Game Seconds Are Real Seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9BDC</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Games Last 1 Period</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9BDC</address>
+		<value>0x04</value>
+		<compare>0x03</compare>
+		<description>Games Last 4 Periods</description>
+	</cheat>
+</cheats>

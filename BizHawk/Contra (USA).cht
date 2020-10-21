@@ -1,0 +1,28 @@
+c462	08	02	System Bus	1	Start With 9 Lives (Both players)	b	h	0	Equal	
+c462	62	02	System Bus	1	Start With 99 Lives (Both players)	b	h	0	Equal	
+0032	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+00b0	7f	N	System Bus	1	P1 Invincible (B Power Up)	b	h	0	None	
+00aa	13	N	System Bus	1	P1 Has Spray	b	h	0	None	
+00aa	11	N	System Bus	1	P1 Has Machine Gun	b	h	0	None	
+00aa	12	N	System Bus	1	P1 Has Flame Thrower	b	h	0	None	
+00aa	14	N	System Bus	1	P1 Has Laser	b	h	0	None	
+0033	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+00b1	7f	N	System Bus	1	P2 Invincible (B Power Up)	b	h	0	None	
+00ab	13	N	System Bus	1	P2 Has Spray	b	h	0	None	
+00ab	11	N	System Bus	1	P2 Has Machine Gun	b	h	0	None	
+00ab	12	N	System Bus	1	P2 Has Flame Thrower	b	h	0	None	
+00ab	14	N	System Bus	1	P2 Has Laser	b	h	0	None	
+dad3	2c	95	System Bus	1	Keep Gun After Dying	b	h	0	Equal	
+d6e9	fa	fb	System Bus	1	High Jump In Side View	b	h	0	Equal	
+d6ef	fb	fc	System Bus	1	High Jump In Bases	b	h	0	Equal	
+c462	00	02	System Bus	1	Start With 1 Life (Both players)	b	h	0	Equal	
+0032	00	N	System Bus	1	P1 Start With 1 Life, No 1-Ups	b	h	0	None	
+0033	00	N	System Bus	1	P2 Start With 1 Life, No 1-Ups	b	h	0	None	
+00aa	00	N	System Bus	1	P1 No Special Guns	b	h	0	None	
+00ab	00	N	System Bus	1	P2 No Special Guns	b	h	0	None	
+8a90	40	80	System Bus	1	Snipers Shoot More	b	h	0	Equal	
+8472	18	30	System Bus	1	Gray Turrets Shoot More	b	h	0	Equal	
+85a3	28	50	System Bus	1	Red Turrets Shoot More	b	h	0	Equal	
+90f4	28	50	System Bus	1	Base Turrets Shoot More	b	h	0	Equal	
+f10d	10	30	System Bus	1	Big Gunners Shoot More	b	h	0	Equal	
+b83d	70	c0	System Bus	1	Spider Turrets Shoot More	b	h	0	Equal	

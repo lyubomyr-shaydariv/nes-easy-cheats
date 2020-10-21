@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x010A</address>
+		<value>0x09</value>
+		<description>Start With 9 Lives and 9 Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x010A</address>
+		<value>0x63</value>
+		<description>Start With 99 Lives and 99 Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BE</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BF</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC5D0</address>
+		<value>0x0F</value>
+		<compare>0x0A</compare>
+		<description>More Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC889</address>
+		<value>0x0F</value>
+		<compare>0x0A</compare>
+		<description>More Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02AB</address>
+		<value>0x0B</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02A2</address>
+		<value>0x01</value>
+		<description>Have Knife</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02A2</address>
+		<value>0x02</value>
+		<description>Have Nun-chucks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x89A8</address>
+		<value>0xA9</value>
+		<compare>0xB9</compare>
+		<description>1-Hit Kills (1/3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x89A9</address>
+		<value>0x01</value>
+		<compare>0x83</compare>
+		<description>1-Hit Kills (2/3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x89AA</address>
+		<value>0xEA</value>
+		<compare>0x90</compare>
+		<description>1-Hit Kills (3/3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0204</address>
+		<value>0x40</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x010A</address>
+		<value>0x01</value>
+		<description>Start With 1 Life and 1 Continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BE</address>
+		<value>0x01</value>
+		<description>Start With 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC5D0</address>
+		<value>0x06</value>
+		<compare>0x0A</compare>
+		<description>Fewer Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC889</address>
+		<value>0x06</value>
+		<compare>0x0A</compare>
+		<description>Fewer Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02A2</address>
+		<value>0x00</value>
+		<description>Can't Use Weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x02BF</address>
+		<value>0x00</value>
+		<description>No Continues</description>
+	</cheat>
+</cheats>

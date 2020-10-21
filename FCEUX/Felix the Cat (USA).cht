@@ -1,0 +1,20 @@
+SC:c430:19:12:Start With 9 Lives
+S:03a6:19:Infinite Lives
+S:03cd:01:Invulnerable
+SC:f797:00:01:Infinite Magic
+S:03a8:19:Each Felix Head Gives a Bonus
+SC:d7c5:f8:fa:High Jump
+SC:d7c5:f6:fa:Super High Jump
+S:03af:01:Air Jump
+SC:f7bb:ab:ac:Infinite Time
+S:03f9:0a:Infinite Continues
+SC:c340:03:00:Start On World 2
+SC:c340:06:00:Start On World 3
+SC:c340:09:00:Start On World 4
+SC:c340:0c:00:Start On World 5
+SC:c340:0f:00:Start On World 6
+SC:c340:11:00:Start On World 7
+SC:c340:13:00:Start On World 8
+SC:c340:14:00:Start On World 9
+SC:c430:10:12:Start With 1 Life
+S:03f9:01:No Continues

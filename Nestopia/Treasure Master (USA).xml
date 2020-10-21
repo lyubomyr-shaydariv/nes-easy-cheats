@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00F5</address>
+		<value>0x03</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00F6</address>
+		<value>0x04</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E4</address>
+		<value>0xFF</value>
+		<description>Invincible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0435</address>
+		<value>0x7D</value>
+		<description>Infinite Oxygen</description>
+	</cheat>
+</cheats>

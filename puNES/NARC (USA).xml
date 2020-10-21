@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0097</address>
+		<value>0x05</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A0</address>
+		<value>0x4E</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07AD</address>
+		<value>0x39</value>
+		<description>P1 Infinite Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07B1</address>
+		<value>0x39</value>
+		<description>P1 Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0098</address>
+		<value>0x05</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A1</address>
+		<value>0x58</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07AF</address>
+		<value>0x39</value>
+		<description>P2 Infinite Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07B3</address>
+		<value>0x39</value>
+		<description>P2 Infinite Missiles</description>
+	</cheat>
+</cheats>

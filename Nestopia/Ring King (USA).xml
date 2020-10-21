@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0369</address>
+		<value>0xFF</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x038D</address>
+		<value>0x09</value>
+		<description>P1 90 Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x038F</address>
+		<value>0x09</value>
+		<description>P1 90 Punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0391</address>
+		<value>0x09</value>
+		<description>P1 90 Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0393</address>
+		<value>0x09</value>
+		<description>P1 90 Stamina</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0319</address>
+		<value>0xFF</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x033D</address>
+		<value>0x09</value>
+		<description>P2 90 Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x033F</address>
+		<value>0x09</value>
+		<description>P2 90 Punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0341</address>
+		<value>0x09</value>
+		<description>P2 90 Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0343</address>
+		<value>0x09</value>
+		<description>P2 90 Stamina</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06E5</address>
+		<value>0x09</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

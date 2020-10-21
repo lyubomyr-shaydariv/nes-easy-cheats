@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0700</address>
+		<value>0x0A</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0773</address>
+		<value>0xF8</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0518</address>
+		<value>0x03</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0774</address>
+		<value>0xF8</value>
+		<description>Infinite Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0777</address>
+		<value>0x09</value>
+		<description>Level 9 Attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0778</address>
+		<value>0x09</value>
+		<description>Level 9 Magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0779</address>
+		<value>0x09</value>
+		<description>Level 9 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0793</address>
+		<value>0x09</value>
+		<description>Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XYNPZKKN</genie>
+		<description>High Jump (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OYNPLKKN</genie>
+		<description>High Jump (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05CA</address>
+		<value>0xF3</value>
+		<description>Longer Sword Bolt Range</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUUPLUAO</genie>
+		<description>Faster Walking Speed (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EKUPGUEV</genie>
+		<description>Faster Walking Speed (2/2)</description>
+	</cheat>
+</cheats>

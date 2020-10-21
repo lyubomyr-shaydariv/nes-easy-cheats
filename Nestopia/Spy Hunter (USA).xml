@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xAD8C</address>
+		<value>0x08</value>
+		<compare>0x00</compare>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0111</address>
+		<value>0x03</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0163</address>
+		<value>0xFF</value>
+		<description>Infinite Oil (Upon pickup)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0150</address>
+		<value>0xFF</value>
+		<description>Infinite Smoke (Upon pickup)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06BE</address>
+		<value>0xFF</value>
+		<description>Infinite Missiles (Upon pickup)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C6</address>
+		<value>0x00</value>
+		<description>No Enemy Cars</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06A7</address>
+		<value>0x04</value>
+		<description>No Helicopters (sound glitches)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C5</address>
+		<value>0x00</value>
+		<description>No Civilian Cars</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0698</address>
+		<value>0x01</value>
+		<description>No Water Slick</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAD07</address>
+		<value>0x0F</value>
+		<compare>0x07</compare>
+		<description>Slower Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAD07</address>
+		<value>0x3F</value>
+		<compare>0x07</compare>
+		<description>Super Slow Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xAD07</address>
+		<value>0x00</value>
+		<compare>0x07</compare>
+		<description>Faster Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C6</address>
+		<value>0x04</value>
+		<description>More Enemy Cars (Don't use "No civilian cars")</description>
+	</cheat>
+</cheats>

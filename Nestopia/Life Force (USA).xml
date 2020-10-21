@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xEECF</address>
+		<value>0x64</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0034</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0084</address>
+		<value>0xFF</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0080</address>
+		<value>0x03</value>
+		<description>P1 Have Fast Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0086</address>
+		<value>0x02</value>
+		<description>P1 Have Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x01</value>
+		<description>P1 Have Ripple</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x02</value>
+		<description>P1 Have Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0082</address>
+		<value>0x01</value>
+		<description>P1 Have Force Field</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0078</address>
+		<value>0x05</value>
+		<description>P1 Power Up Level At Option (Players must share 2 options)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0035</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0085</address>
+		<value>0xFF</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0081</address>
+		<value>0x03</value>
+		<description>P2 Have Fast Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0087</address>
+		<value>0x02</value>
+		<description>P2 Have Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0077</address>
+		<value>0x01</value>
+		<description>P2 Have Ripple</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0077</address>
+		<value>0x02</value>
+		<description>P2 Have Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0083</address>
+		<value>0x01</value>
+		<description>P2 Have Force Field</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0079</address>
+		<value>0x05</value>
+		<description>P2 Power Up Level At Option (Players must share 2 options)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xEECF</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,17 @@
+0032	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+00b0	7f	N	System Bus	1	P1 Invincible (B Power Up)	b	h	0	None	
+00aa	13	N	System Bus	1	P1 Has Spray	b	h	0	None	
+00aa	11	N	System Bus	1	P1 Has Machine Gun	b	h	0	None	
+00aa	12	N	System Bus	1	P1 Has Flame Thrower	b	h	0	None	
+00aa	14	N	System Bus	1	P1 Has Laser	b	h	0	None	
+0033	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+00b1	7f	N	System Bus	1	P2 Invincible (B Power Up)	b	h	0	None	
+00ab	13	N	System Bus	1	P2 Has Spray	b	h	0	None	
+00ab	11	N	System Bus	1	P2 Has Machine Gun	b	h	0	None	
+00ab	12	N	System Bus	1	P2 Has Flame Thrower	b	h	0	None	
+00ab	14	N	System Bus	1	P2 Has Laser	b	h	0	None	
+dad3	2c	95	System Bus	1	Keep Gun After Dying	b	h	0	Equal	
+0032	00	N	System Bus	1	P1 Start With 1 Life, No 1-Ups	b	h	0	None	
+0033	00	N	System Bus	1	P2 Start With 1 Life, No 1-Ups	b	h	0	None	
+00aa	00	N	System Bus	1	P1 No Special Guns	b	h	0	None	
+00ab	00	N	System Bus	1	P2 No Special Guns	b	h	0	None	

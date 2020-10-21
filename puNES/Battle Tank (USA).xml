@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x053E</address>
+		<value>0x29</value>
+		<description>Infinite 150mm Shots</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0541</address>
+		<value>0x09</value>
+		<description>Infinite Smoke</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0540</address>
+		<value>0x09</value>
+		<description>Infinite Wire</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0542</address>
+		<value>0x8A</value>
+		<description>Infinite 50 Cal. Shots</description>
+	</cheat>
+</cheats>

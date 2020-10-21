@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0594</address>
+		<value>0x4F</value>
+		<description>Infinite Hit Points For Orin</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0595</address>
+		<value>0x4F</value>
+		<description>Infinite Hit Points For Cutrus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x030E</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0596</address>
+		<value>0x4F</value>
+		<description>Infinite Item Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009C</address>
+		<value>0xFF</value>
+		<description>Doors Remain Open</description>
+	</cheat>
+</cheats>

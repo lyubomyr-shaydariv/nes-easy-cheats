@@ -1,0 +1,13 @@
+SC:ad8c:08:00:Start With 9 Lives
+S:0111:03:Infinite Lives
+S:0163:ff:Infinite Oil (Upon pickup)
+S:0150:ff:Infinite Smoke (Upon pickup)
+S:06be:ff:Infinite Missiles (Upon pickup)
+S:00c6:00:No Enemy Cars
+S:06a7:04:No Helicopters (sound glitches)
+S:00c5:00:No Civilian Cars
+S:0698:01:No Water Slick
+SC:ad07:0f:07:Slower Timer
+SC:ad07:3f:07:Super Slow Timer
+SC:ad07:00:07:Faster Timer
+S:00c6:04:More Enemy Cars (Don't use "No civilian cars")

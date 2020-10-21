@@ -1,0 +1,13 @@
+00c5	ff	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+00c6	ff	N	System Bus	1	Infinite Magic Points	b	h	0	None	
+00bd	ff	N	System Bus	1	Infinite Gold	b	h	0	None	
+00be	ff	N	System Bus	1	Have Best Equipment	b	h	0	None	
+00e2	00	N	System Bus	1	Kill Enemies In One Hit	b	h	0	None	
+00bf	09	N	System Bus	1	Infinite Magic Keys	b	h	0	None	
+00ce	ff	N	System Bus	1	All Spells (1/2)	b	h	0	None	
+00cf	33	N	System Bus	1	All Spells (2/2)	b	h	0	None	
+00db	03	N	System Bus	1	Repel Lasts Forever	b	h	0	None	
+00d0	07	N	System Bus	1	See In the Dark	b	h	0	None	
+cde3	00	02	System Bus	1	No Damage From Swamps	b	h	0	Equal	
+ce48	00	0f	System Bus	1	No Damage From Barriers	b	h	0	Equal	
+e344	ff	78	System Bus	1	First Chest Has 255 Gold	b	h	0	Equal	

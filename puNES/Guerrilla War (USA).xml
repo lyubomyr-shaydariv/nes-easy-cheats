@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEUGVPGE</genie>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVUGVPGA</genie>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0028</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0680</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x02</value>
+		<description>P1 Has T</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x03</value>
+		<description>P1 Has F</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x04</value>
+		<description>P1 Has L</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x01</value>
+		<description>P1 Has S</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x24</value>
+		<description>P1 Has Atomic Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0029</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0681</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x02</value>
+		<description>P2 Has T</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x03</value>
+		<description>P2 Has F</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x04</value>
+		<description>P2 Has L</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x01</value>
+		<description>P2 Has S</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x24</value>
+		<description>P2 Has Atomic Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXXKUPSX</genie>
+		<description>Start On Level X (Part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKKOPL</genie>
+		<description>Start On Level 2 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXKKOPL</genie>
+		<description>Start On Level 3 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXKKOPL</genie>
+		<description>Start On Level 4 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXKKOPL</genie>
+		<description>Start On Level 5 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXKKOPL</genie>
+		<description>Start On Level 6 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXKKOPL</genie>
+		<description>Start On Level 7 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXKKOPL</genie>
+		<description>Start On Level 8 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXKKOPU</genie>
+		<description>Start On Level 9 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKKOPU</genie>
+		<description>Start On Level 10 (Use with part 1)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUGVPGA</genie>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0028</address>
+		<value>0x00</value>
+		<description>P1 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x00</value>
+		<description>P1 Has Regular Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0029</address>
+		<value>0x00</value>
+		<description>P2 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x00</value>
+		<description>P2 Has Regular Gun</description>
+	</cheat>
+</cheats>

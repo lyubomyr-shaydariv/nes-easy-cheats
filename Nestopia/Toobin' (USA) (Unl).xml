@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x006E</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004C</address>
+		<value>0x09</value>
+		<description>Infinite Cans</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0066</address>
+		<value>0x09</value>
+		<description>Have x9 Multiplier</description>
+	</cheat>
+</cheats>

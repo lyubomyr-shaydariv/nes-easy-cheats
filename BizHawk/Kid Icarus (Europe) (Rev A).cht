@@ -1,0 +1,20 @@
+00a6	27	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0728	80	N	System Bus	1	Invulnerable	b	h	0	None	
+014b	03	N	System Bus	1	Infinite Hearts	b	h	0	None	
+0152	04	N	System Bus	1	Full Strength (5 Arrows)	b	h	0	None	
+013e	02	N	System Bus	1	Have Fireball Powerup	b	h	0	None	
+013f	02	N	System Bus	1	Have Bow Powerup	b	h	0	None	
+0140	02	N	System Bus	1	Have Crystal Powerup	b	h	0	None	
+0150	63	N	System Bus	1	Infinite Angel Feathers	b	h	0	None	
+0151	48	N	System Bus	1	Infinite Bottles	b	h	0	None	
+d23b	c0	e5	System Bus	1	High Jump	b	h	0	Equal	
+d23b	80	e5	System Bus	1	Super High Jump	b	h	0	Equal	
+00a5	08	N	System Bus	1	Fly Forever (Turn off to enter doors)	b	h	0	None	
+006b	01	N	System Bus	1	1-Hit Boss Kills	b	h	0	None	
+014f	63	N	System Bus	1	Infinite Sledge Hammers	b	h	0	None	
+0156	63	N	System Bus	1	Infinite Centurion Helpers	b	h	0	None	
+013a	01	N	System Bus	1	Have Torch	b	h	0	None	
+013b	01	N	System Bus	1	Have Pencil	b	h	0	None	
+013d	01	N	System Bus	1	Have Checkbook	b	h	0	None	
+014e	01	N	System Bus	1	Have Credit Card	b	h	0	None	
+006f	00	N	System Bus	1	Immune to Eggplant Curse	b	h	0	None	

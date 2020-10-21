@@ -1,0 +1,4 @@
+0031	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+0036	0a	N	System Bus	1	Infinite Fuel	b	h	0	None	
+003c	09	N	System Bus	1	Infinite Missiles	b	h	0	None	
+004e	0c	N	System Bus	1	Infinite Hit Points (Missiles still kill you)	b	h	0	None	

@@ -1,0 +1,14 @@
+0022	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+0507	08	N	System Bus	1	Full Hit Point Containers	b	h	0	None	
+0503	80	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0516	01	N	System Bus	1	Invulnerable	b	h	0	None	
+050e	63	N	System Bus	1	Infinite Slingshot	b	h	0	None	
+0501	63	N	System Bus	1	Infinite Bombs	b	h	0	None	
+0502	63	N	System Bus	1	Infinite Molotov Cocktails	b	h	0	None	
+0500	08	N	System Bus	1	Infinite Keys	b	h	0	None	
+050b	1f	N	System Bus	1	Have All Weapons	b	h	0	None	
+0509	ff	N	System Bus	1	Have All Items (1/2)	b	h	0	None	
+050a	ff	N	System Bus	1	Have All Items (2/2)	b	h	0	None	
+0508	ff	N	System Bus	1	Have All Magic Locator Devices	b	h	0	None	
+89b1	04	02	System Bus	1	High Jump Without Spring Shoes	b	h	0	Equal	
+050d	3f	N	System Bus	1	All Goonies Rescued	b	h	0	None	

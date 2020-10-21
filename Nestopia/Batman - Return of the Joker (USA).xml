@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0478</address>
+		<value>0x0E</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0477</address>
+		<value>0x0E</value>
+		<description>Full Bat Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0476</address>
+		<value>0x01</value>
+		<description>Have B Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0476</address>
+		<value>0x02</value>
+		<description>Have C Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0476</address>
+		<value>0x03</value>
+		<description>Have N Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0476</address>
+		<value>0x04</value>
+		<description>Have S Weapon</description>
+	</cheat>
+</cheats>

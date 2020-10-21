@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xDAF7</address>
+		<value>0x09</value>
+		<compare>0x02</compare>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0361</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x034A</address>
+		<value>0x00</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0075</address>
+		<value>0x01</value>
+		<description>Invincible (Must turn off to end stage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A1</address>
+		<value>0x01</value>
+		<description>Have Remote Control</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A3</address>
+		<value>0x06</value>
+		<description>Have Both Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07A0</address>
+		<value>0x06</value>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07A0</address>
+		<value>0x07</value>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8BAC</address>
+		<value>0x03</value>
+		<compare>0x01</compare>
+		<description>Magic Coin Lasts Longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x3C</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDAF7</address>
+		<value>0x00</value>
+		<compare>0x02</compare>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0361</address>
+		<value>0x00</value>
+		<description>1 Life, No 1-Ups</description>
+	</cheat>
+</cheats>

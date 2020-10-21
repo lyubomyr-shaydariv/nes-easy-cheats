@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0083</address>
+		<value>0x99</value>
+		<description>P1 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0084</address>
+		<value>0x99</value>
+		<description>P2 Has 99 Points</description>
+	</cheat>
+</cheats>

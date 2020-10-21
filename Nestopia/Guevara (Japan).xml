@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0028</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0680</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x02</value>
+		<description>P1 Has T</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x03</value>
+		<description>P1 Has F</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x04</value>
+		<description>P1 Has L</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x01</value>
+		<description>P1 Has S</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0029</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0681</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x02</value>
+		<description>P2 Has T</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x03</value>
+		<description>P2 Has F</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x04</value>
+		<description>P2 Has L</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x01</value>
+		<description>P2 Has S</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0028</address>
+		<value>0x00</value>
+		<description>P1 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x00</value>
+		<description>P1 Has Regular Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0029</address>
+		<value>0x00</value>
+		<description>P2 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x00</value>
+		<description>P2 Has Regular Gun</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x05E7</address>
+		<value>0x30</value>
+		<description>Infinite Hit Points (Both players)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00C5</address>
+		<value>0xFF</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C6</address>
+		<value>0xFF</value>
+		<description>Infinite Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BD</address>
+		<value>0xFF</value>
+		<description>Infinite Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BE</address>
+		<value>0xFF</value>
+		<description>Have Best Equipment</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00E2</address>
+		<value>0x00</value>
+		<description>Kill Enemies In One Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BF</address>
+		<value>0x09</value>
+		<description>Infinite Magic Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00CE</address>
+		<value>0xFF</value>
+		<description>All Spells (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00CF</address>
+		<value>0x33</value>
+		<description>All Spells (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DB</address>
+		<value>0x03</value>
+		<description>Repel Lasts Forever</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D0</address>
+		<value>0x07</value>
+		<description>See In the Dark</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCDE3</address>
+		<value>0x00</value>
+		<compare>0x02</compare>
+		<description>No Damage From Swamps</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCE48</address>
+		<value>0x00</value>
+		<compare>0x0F</compare>
+		<description>No Damage From Barriers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xE344</address>
+		<value>0xFF</value>
+		<compare>0x78</compare>
+		<description>First Chest Has 255 Gold</description>
+	</cheat>
+</cheats>

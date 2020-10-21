@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x006A</address>
+		<value>0x00</value>
+		<description>Time Stays At Zero</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03B6</address>
+		<value>0x00</value>
+		<description>Heat Never Rises</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNUKGEAO</genie>
+		<description>Faster Acceleration With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNUKIEYU</genie>
+		<description>Faster Acceleration With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESGPALA</genie>
+		<description>Higher Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESGZALA</genie>
+		<description>Higher Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESGPALA</genie>
+		<description>Super High Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESGZALA</genie>
+		<description>Super High Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXIKOYA</genie>
+		<description>Recover Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUKGEAO</genie>
+		<description>Lower Acceleration With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOUKIEYU</genie>
+		<description>Lower Acceleration With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESGPALA</genie>
+		<description>Lower Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESGZALA</genie>
+		<description>Lower Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESGPALA</genie>
+		<description>Super Low Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESGZALA</genie>
+		<description>Super Low Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXSZGAE</genie>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PZXSGGAO</genie>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXSLKIX</genie>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPXIIGZE</genie>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPXSPGZE</genie>
+		<description></description>
+	</cheat>
+</cheats>

@@ -1,0 +1,9 @@
+06e8	0A	N	System Bus	1	Infinite Lives	b	h	0	None	
+06f8	04	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+06e2	01	N	System Bus	1	Infinite Machinegun Bullets	b	h	0	None	
+908f	f7	fa	System Bus	1	High Jump - Standing	b	h	0	Equal	
+9093	f7	fa	System Bus	1	High Jump - Walking (1/2)	b	h	0	Equal	
+9097	f7	fa	System Bus	1	High Jump - Walking (2/2)	b	h	0	Equal	
+90af	f4	f9	System Bus	1	High Jump - Up	b	h	0	Equal	
+06e6	fe	N	System Bus	1	Infinite Time (Turn off at end of stage)	b	h	0	None	
+0756	09	N	System Bus	1	Infinite Continues	b	h	0	None	

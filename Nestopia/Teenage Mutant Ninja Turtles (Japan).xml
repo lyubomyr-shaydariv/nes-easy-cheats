@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x004D</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0568</address>
+		<value>0x3C</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0091</address>
+		<value>0x00</value>
+		<description>P1 No Ground Knockdowns</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004E</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x056A</address>
+		<value>0x3C</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0092</address>
+		<value>0x00</value>
+		<description>P2 No Ground Knockdowns</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x00</value>
+		<description>Both Players Are Leonardo (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0034</address>
+		<value>0x00</value>
+		<description>Both Players Are Leonardo (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x01</value>
+		<description>Both Players Are Michelangelo (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0034</address>
+		<value>0x01</value>
+		<description>Both Players Are Michelangelo (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x02</value>
+		<description>Both Players Are Donatello (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0034</address>
+		<value>0x02</value>
+		<description>Both Players Are Donatello (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x03</value>
+		<description>Both Players Are Raphael (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0034</address>
+		<value>0x03</value>
+		<description>Both Players Are Raphael (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03D3</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+</cheats>

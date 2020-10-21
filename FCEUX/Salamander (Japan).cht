@@ -1,0 +1,14 @@
+SC:EAC7:64:03:Start With 99 Lives (Both players)
+S:0034:09:P1 Infinite Lives
+S:0070:03:P1 Have Fast Speed
+S:0076:02:P1 Have Missiles
+S:0066:01:P1 Have Ripple
+S:0066:02:P1 Have Laser
+S:0068:05:P1 Power Up Level At Option (Players must share 2 options)
+S:0035:09:P2 Infinite Lives
+S:0071:03:P2 Have Fast Speed
+S:0077:02:P2 Have Missiles
+S:0067:01:P2 Have Ripple
+S:0067:02:P2 Have Laser
+S:0069:05:P2 Power Up Level At Option (Players must share 2 options)
+SC:EAC7:00:03:Start With 1 Life (Both players)

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0532</address>
+		<value>0x22</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0701</address>
+		<value>0x7F</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x055B</address>
+		<value>0x63</value>
+		<description>Infinite Grenades</description>
+	</cheat>
+</cheats>

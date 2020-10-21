@@ -1,0 +1,24 @@
+0391	60	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0324	09	N	System Bus	1	Infinite Hearts (Stamina)	b	h	0	None	
+0342	09	N	System Bus	1	Infinite Stars (Uppercuts)	b	h	0	None	
+0398	00	N	System Bus	1	1-Hit Knockdowns	b	h	0	None	
+03ca	03	N	System Bus	1	1-Knockdown TKOs	b	h	0	None	
+03d8	80	N	System Bus	1	Can Gain Hit Points Every Round	b	h	0	None	
+0305	00	N	System Bus	1	Infinite Time	b	h	0	None	
+a185	01	00	System Bus	1	Start On Von Kaiser	b	h	0	Equal	
+a185	02	00	System Bus	1	Start On Piston Honda	b	h	0	Equal	
+a185	03	00	System Bus	1	Start On Don Flamenco	b	h	0	Equal	
+a185	04	00	System Bus	1	Start On King Hippo	b	h	0	Equal	
+a185	05	00	System Bus	1	Start On Great Tiger	b	h	0	Equal	
+a185	06	00	System Bus	1	Start On Bald Bull	b	h	0	Equal	
+a185	07	00	System Bus	1	Start On Piston Honda #2	b	h	0	Equal	
+a185	08	00	System Bus	1	Start On Soda Popinski	b	h	0	Equal	
+a185	09	00	System Bus	1	Start On Bald Bull #2	b	h	0	Equal	
+a185	0a	00	System Bus	1	Start On Don Flamenco #2	b	h	0	Equal	
+a185	0b	00	System Bus	1	Start On Mr. Sandman	b	h	0	Equal	
+a185	0c	00	System Bus	1	Start On Super Macho Man	b	h	0	Equal	
+a185	0d	00	System Bus	1	Start On Mike Tyson	b	h	0	Equal	
+03d8	01	N	System Bus	1	No Extra Hit Points Between Rounds	b	h	0	None	
+86eb	bd	9d	System Bus	1	No Points (Can't win by decision)	b	h	0	Equal	
+0308	08	04	System Bus	1	Faster Clock	b	h	0	Equal	
+0308	01	04	System Bus	1	Slower Clock	b	h	0	Equal	

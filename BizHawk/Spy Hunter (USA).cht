@@ -1,0 +1,13 @@
+ad8c	08	00	System Bus	1	Start With 9 Lives	b	h	0	Equal	
+0111	03	N	System Bus	1	Infinite Lives	b	h	0	None	
+0163	ff	N	System Bus	1	Infinite Oil (Upon pickup)	b	h	0	None	
+0150	ff	N	System Bus	1	Infinite Smoke (Upon pickup)	b	h	0	None	
+06be	ff	N	System Bus	1	Infinite Missiles (Upon pickup)	b	h	0	None	
+00c6	00	N	System Bus	1	No Enemy Cars	b	h	0	None	
+06a7	04	N	System Bus	1	No Helicopters (sound glitches)	b	h	0	None	
+00c5	00	N	System Bus	1	No Civilian Cars	b	h	0	None	
+0698	01	N	System Bus	1	No Water Slick	b	h	0	None	
+ad07	0f	07	System Bus	1	Slower Timer	b	h	0	Equal	
+ad07	3f	07	System Bus	1	Super Slow Timer	b	h	0	Equal	
+ad07	00	07	System Bus	1	Faster Timer	b	h	0	Equal	
+00c6	04	N	System Bus	1	More Enemy Cars (Don't use "No civilian cars")	b	h	0	None	

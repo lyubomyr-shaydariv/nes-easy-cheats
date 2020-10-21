@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0077</address>
+		<value>0x80</value>
+		<description>Infinite Hit Points - Leonardo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0078</address>
+		<value>0x80</value>
+		<description>Infinite Hit Points - Raphael</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0079</address>
+		<value>0x80</value>
+		<description>Infinite Hit Points - Michelangelo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007A</address>
+		<value>0x80</value>
+		<description>Infinite Hit Points - Donatello</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0500</address>
+		<value>0x04</value>
+		<description>Invulnerable (After first hit)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0540</address>
+		<value>0x11</value>
+		<description>Invincible (Spin)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0073</address>
+		<value>0x04</value>
+		<description>Have Scroll - Leonardo (Use with Infinite Ammo)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0074</address>
+		<value>0x04</value>
+		<description>Have Scroll - Raphael (Use with Infinite Ammo)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0075</address>
+		<value>0x04</value>
+		<description>Have Scroll - Michelangelo (Use with Infinite Ammo)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x04</value>
+		<description>Have Scroll - Donatello (Use with Infinite Ammo)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A8</address>
+		<value>0x63</value>
+		<description>Infinite Ammo - Leonardo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A9</address>
+		<value>0x63</value>
+		<description>Infinite Ammo - Raphael</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x63</value>
+		<description>Infinite Ammo - Michelangelo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x63</value>
+		<description>Infinite Ammo - Donatello</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BF</address>
+		<value>0x63</value>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BB</address>
+		<value>0x78</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A7</address>
+		<value>0x63</value>
+		<description>Infinite Rope</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xD2AD</address>
+		<value>0x09</value>
+		<compare>0x03</compare>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD2AD</address>
+		<value>0x99</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0049</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xF933</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>No Damage From Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9D4E</address>
+		<value>0x00</value>
+		<compare>0x05</compare>
+		<description>No Damage From Dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86F7</address>
+		<value>0x04</value>
+		<compare>0x02</compare>
+		<description>Start With 40 Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86F9</address>
+		<value>0x04</value>
+		<compare>0x02</compare>
+		<description>Start With 40 Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86F7</address>
+		<value>0x09</value>
+		<compare>0x02</compare>
+		<description>Start With 90 Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86F9</address>
+		<value>0x09</value>
+		<compare>0x02</compare>
+		<description>Start With 90 Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005A</address>
+		<value>0x09</value>
+		<description>Infinite Hit Points (Turn off at the end of stage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03D0</address>
+		<value>0x81</value>
+		<description>Invulnerable (Turn off to interact with environment) </description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E4</address>
+		<value>0x01</value>
+		<description>Have Flash Buster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E4</address>
+		<value>0x02</value>
+		<description>Have Megasmasher</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E4</address>
+		<value>0x03</value>
+		<description>Have Mega Buster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03DB</address>
+		<value>0x02</value>
+		<description>Have High Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0060</address>
+		<value>0x01</value>
+		<description>Have Flash Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0061</address>
+		<value>0x01</value>
+		<description>Have Crash Ball</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD2AD</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86F7</address>
+		<value>0x01</value>
+		<compare>0x02</compare>
+		<description>Start With 10 Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86F9</address>
+		<value>0x01</value>
+		<compare>0x02</compare>
+		<description>Start With 10 Hit Points (2/2)</description>
+	</cheat>
+</cheats>

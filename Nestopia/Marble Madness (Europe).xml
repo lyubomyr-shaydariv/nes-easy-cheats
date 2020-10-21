@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xA311</address>
+		<value>0x5A</value>
+		<compare>0x3C</compare>
+		<description>Start With 90 Seconds (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0044</address>
+		<value>0x63</value>
+		<description>P1 Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0045</address>
+		<value>0x63</value>
+		<description>P2 Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x01</value>
+		<description>Infinite Time (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA2B5</address>
+		<value>0x70</value>
+		<compare>0x46</compare>
+		<description>Slower Timer (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA2C1</address>
+		<value>0x70</value>
+		<compare>0x46</compare>
+		<description>Slower Timer (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA2B5</address>
+		<value>0xF0</value>
+		<compare>0x46</compare>
+		<description>Super Slower Timer (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA2C1</address>
+		<value>0xF0</value>
+		<compare>0x46</compare>
+		<description>Super Slower Timer (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA311</address>
+		<value>0x28</value>
+		<compare>0x3C</compare>
+		<description>Start With 40 Seconds (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA2B5</address>
+		<value>0x36</value>
+		<compare>0x46</compare>
+		<description>Faster Timer (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA2C1</address>
+		<value>0x36</value>
+		<compare>0x46</compare>
+		<description>Faster Timer (2/2)</description>
+	</cheat>
+</cheats>

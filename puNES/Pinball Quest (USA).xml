@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x06F8</address>
+		<value>0x63</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F9</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06FA</address>
+		<value>0x09</value>
+		<description>P3 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06FB</address>
+		<value>0x09</value>
+		<description>P4 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0084</address>
+		<value>0x03</value>
+		<description>Infinite Money In RPG Mode</description>
+	</cheat>
+</cheats>

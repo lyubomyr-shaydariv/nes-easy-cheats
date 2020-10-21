@@ -1,0 +1,18 @@
+c9b6	09	04	System Bus	1	Start With 9 Lives (Both players)	b	h	0	Equal	
+c9b6	63	04	System Bus	1	Start With 99 Lives (Both players)	b	h	0	Equal	
+0028	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+0680	01	N	System Bus	1	P1 Invulnerable	b	h	0	None	
+0600	02	N	System Bus	1	P1 Has T	b	h	0	None	
+0600	03	N	System Bus	1	P1 Has F	b	h	0	None	
+0600	04	N	System Bus	1	P1 Has L	b	h	0	None	
+0600	01	N	System Bus	1	P1 Has S	b	h	0	None	
+0029	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+0681	01	N	System Bus	1	P2 Invulnerable	b	h	0	None	
+0601	02	N	System Bus	1	P2 Has T	b	h	0	None	
+0601	03	N	System Bus	1	P2 Has F	b	h	0	None	
+0601	04	N	System Bus	1	P2 Has L	b	h	0	None	
+0601	01	N	System Bus	1	P2 Has S	b	h	0	None	
+0028	00	N	System Bus	1	P1 1 Life, No 1-Ups	b	h	0	None	
+0600	00	N	System Bus	1	P1 Has Regular Gun	b	h	0	None	
+0029	00	N	System Bus	1	P2 1 Life, No 1-Ups	b	h	0	None	
+0601	00	N	System Bus	1	P2 Has Regular Gun	b	h	0	None	

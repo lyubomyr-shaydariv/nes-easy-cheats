@@ -1,0 +1,20 @@
+006a	00	N	System Bus	1	Time Stays At Zero	b	h	0	None	
+03b6	00	N	System Bus	1	Heat Never Rises	b	h	0	None	
+c0bc	ff	18	System Bus	1	Faster Acceleration With A	b	h	0	Equal	
+c0bd	ff	3f	System Bus	1	Faster Acceleration With B	b	h	0	Equal	
+c0d1	05	03	System Bus	1	Higher Top Speed With A	b	h	0	Equal	
+c0d2	05	03	System Bus	1	Higher Top Speed With B	b	h	0	Equal	
+c0d1	07	03	System Bus	1	Super High Top Speed With A	b	h	0	Equal	
+c0d2	07	03	System Bus	1	Super High Top Speed With B	b	h	0	Equal	
+d9a4	00	0f	System Bus	1	Recover Faster	b	h	0	Equal	
+c0bc	0c	18	System Bus	1	Lower Acceleration With A	b	h	0	Equal	
+c0bd	1f	3f	System Bus	1	Lower Acceleration With B	b	h	0	Equal	
+c0d1	02	03	System Bus	1	Lower Top Speed With A	b	h	0	Equal	
+c0d2	02	03	System Bus	1	Lower Top Speed With B	b	h	0	Equal	
+c0d1	01	03	System Bus	1	Super Low Top Speed With A	b	h	0	Equal	
+c0d2	01	03	System Bus	1	Super Low Top Speed With B	b	h	0	Equal	
+d42a	08	00	System Bus	1		b	h	0	Equal	
+d42c	29	10	System Bus	1		b	h	0	Equal	
+d42b	0b	2d	System Bus	1		b	h	0	Equal	
+d425	19	02	System Bus	1		b	h	0	Equal	
+d429	19	02	System Bus	1		b	h	0	Equal	

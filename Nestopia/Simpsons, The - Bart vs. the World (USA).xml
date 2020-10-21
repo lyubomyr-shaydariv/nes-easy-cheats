@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x06C1</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06BC</address>
+		<value>0x05</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06BE</address>
+		<value>0x09</value>
+		<description>Infinite Cherry Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0592</address>
+		<value>0x09</value>
+		<description>Infinite Turns In Match Game</description>
+	</cheat>
+</cheats>

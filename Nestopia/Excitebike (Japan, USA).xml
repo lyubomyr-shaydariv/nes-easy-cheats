@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x006A</address>
+		<value>0x00</value>
+		<description>Time Stays At Zero</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03B6</address>
+		<value>0x00</value>
+		<description>Heat Never Rises</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0BC</address>
+		<value>0xFF</value>
+		<compare>0x18</compare>
+		<description>Faster Acceleration With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0BD</address>
+		<value>0xFF</value>
+		<compare>0x3F</compare>
+		<description>Faster Acceleration With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D1</address>
+		<value>0x05</value>
+		<compare>0x03</compare>
+		<description>Higher Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D2</address>
+		<value>0x05</value>
+		<compare>0x03</compare>
+		<description>Higher Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D1</address>
+		<value>0x07</value>
+		<compare>0x03</compare>
+		<description>Super High Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D2</address>
+		<value>0x07</value>
+		<compare>0x03</compare>
+		<description>Super High Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD9A4</address>
+		<value>0x00</value>
+		<compare>0x0F</compare>
+		<description>Recover Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0BC</address>
+		<value>0x0C</value>
+		<compare>0x18</compare>
+		<description>Lower Acceleration With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0BD</address>
+		<value>0x1F</value>
+		<compare>0x3F</compare>
+		<description>Lower Acceleration With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D1</address>
+		<value>0x02</value>
+		<compare>0x03</compare>
+		<description>Lower Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D2</address>
+		<value>0x02</value>
+		<compare>0x03</compare>
+		<description>Lower Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D1</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Super Low Top Speed With A</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC0D2</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Super Low Top Speed With B</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD42A</address>
+		<value>0x08</value>
+		<compare>0x00</compare>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD42C</address>
+		<value>0x29</value>
+		<compare>0x10</compare>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD42B</address>
+		<value>0x0B</value>
+		<compare>0x2D</compare>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD425</address>
+		<value>0x19</value>
+		<compare>0x02</compare>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD429</address>
+		<value>0x19</value>
+		<compare>0x02</compare>
+		<description></description>
+	</cheat>
+</cheats>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAUVLIZE</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTUVLIZA</genie>
+		<description>Start With 99 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPUVYIAO</genie>
+		<description>Start With More Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZONTILAO</genie>
+		<description>Start With More Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0065</address>
+		<value>0x10</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0095</address>
+		<value>0x30</value>
+		<description>Invulnerable (After hit)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C9</address>
+		<value>0x81</value>
+		<description>Have Throwing Star</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C9</address>
+		<value>0x82</value>
+		<description>Have Windmill Star</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C9</address>
+		<value>0x85</value>
+		<description>Have Jump-N-Slash</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C9</address>
+		<value>0x80</value>
+		<description>Have Fire Wheel</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C9</address>
+		<value>0x84</value>
+		<description>Have Fire Ring (Glitched in some areas)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVIXLIE</genie>
+		<description>Blue Boxes Give Double Ninja Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOVIVUZA</genie>
+		<description>Red Boxes Give Double Ninja Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVVIXLIA</genie>
+		<description>Blue Boxes Give 99 Ninja Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVVIVUZA</genie>
+		<description>Red Boxes Give 99 Ninja Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0064</address>
+		<value>0x63</value>
+		<description>Infinite Ninja Points (Turn off at end of act)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVTNYLA</genie>
+		<description>Throwing Star Costs 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXVVYIA</genie>
+		<description>Windmill Star Costs 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEVSTIA</genie>
+		<description>Jump-N-Slash Costs 1 (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVVOIIA</genie>
+		<description>Jump-N-Slash Costs 1 (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAETUYIA</genie>
+		<description>Fire Wheel Costs 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVTNYLA</genie>
+		<description>Throwing Star Is Free</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXVVYIA</genie>
+		<description>Windmill Star Is Free</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEVSTIA</genie>
+		<description>Jump-N-Slash Is Free (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVVOIIA</genie>
+		<description>Jump-N-Slash Is Free (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APVIEKAA</genie>
+		<description>Fire Ring Lasts Twice As Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAVIEKAA</genie>
+		<description>Fire Ring Lasts Ten Times As Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYETKSKN</genie>
+		<description>High Jump (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNXVESKN</genie>
+		<description>High Jump (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENYAYPA</genie>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUVLIZA</genie>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUVYIAO</genie>
+		<description>Start With Fewer Hit Points (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENTILAO</genie>
+		<description>Start With Fewer Hit Points (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUVYIAP</genie>
+		<description>Start With 1 Hit Point (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENTILAP</genie>
+		<description>Start With 1 Hit Point (2/2)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00A5</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0080</address>
+		<value>0x10</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AE</address>
+		<value>0x7F</value>
+		<description>Infinite Ninja Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x09</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

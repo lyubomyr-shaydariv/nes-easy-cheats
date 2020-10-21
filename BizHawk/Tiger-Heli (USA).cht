@@ -1,0 +1,7 @@
+053f	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+0540	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+0544	00	N	System Bus	1	Invulnerable	b	h	0	None	
+0545	80	N	System Bus	1	Have Left Little Heli	b	h	0	None	
+0546	80	N	System Bus	1	Have Right Little Heli	b	h	0	None	
+0547	80	N	System Bus	1	Have Right Bomb	b	h	0	None	
+0548	80	N	System Bus	1	Have Left Bomb	b	h	0	None	

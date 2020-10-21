@@ -1,0 +1,20 @@
+003f	99	N	System Bus	1	P1 Score Is 99 (Doesn't display)	b	h	0	None	
+0044	99	N	System Bus	1	P2 Score Is 99 (Doesn't display)	b	h	0	None	
+8527	05	04	System Bus	1	P1 Gets 5 Downs	b	h	0	Equal	
+8527	09	04	System Bus	1	P1 Gets 9 Downs	b	h	0	Equal	
+912e	05	04	System Bus	1	P2 Gets 5 Downs	b	h	0	Equal	
+912e	09	04	System Bus	1	P2 Gets 9 Downs	b	h	0	Equal	
+008e	00	N	System Bus	1	Infinite Downs (Turn off to end)	b	h	0	None	
+059f	01	N	System Bus	1	CPU Kicks Poorly	b	h	0	None	
+8516	02	01	System Bus	1	1st Quarter Is 2:30 Long	b	h	0	Equal	
+8539	02	01	System Bus	1	2nd Quarter Is 2:30 Long	b	h	0	Equal	
+8568	02	01	System Bus	1	3rd Quarter Is 2:30 Long	b	h	0	Equal	
+858b	02	01	System Bus	1	4th Quarter Is 2:30 Long	b	h	0	Equal	
+8516	00	01	System Bus	1	1st Quarter Is 0:30 Long	b	h	0	Equal	
+8539	00	01	System Bus	1	2nd Quarter Is 0:30 Long	b	h	0	Equal	
+8568	00	01	System Bus	1	3rd Quarter Is 0:30 Long	b	h	0	Equal	
+858b	00	01	System Bus	1	4th Quarter Is 0:30 Long	b	h	0	Equal	
+8527	03	04	System Bus	1	P1 Gets 3 Downs	b	h	0	Equal	
+8527	01	04	System Bus	1	P1 Gets 1 Down	b	h	0	Equal	
+912e	03	04	System Bus	1	P2 Gets 3 Downs	b	h	0	Equal	
+912e	01	04	System Bus	1	P2 Gets 1 Down	b	h	0	Equal	

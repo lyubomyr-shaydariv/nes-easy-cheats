@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x05E6</address>
+		<value>0x79</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05B4</address>
+		<value>0x80</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05BE</address>
+		<value>0x79</value>
+		<description>Infinite Gas Energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCBC3</address>
+		<value>0x06</value>
+		<compare>0x04</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCBC3</address>
+		<value>0x09</value>
+		<compare>0x04</compare>
+		<description>Super Jump</description>
+	</cheat>
+</cheats>

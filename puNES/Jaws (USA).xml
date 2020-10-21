@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0387</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0391</address>
+		<value>0x08</value>
+		<description>Power Level 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0390</address>
+		<value>0x63</value>
+		<description>Infinite Shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0393</address>
+		<value>0x09</value>
+		<description>Infinite Strobes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0389</address>
+		<value>0x00</value>
+		<description>1 Hit Kill Jaws</description>
+	</cheat>
+</cheats>

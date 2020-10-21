@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00B2</address>
+		<value>0xFF</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AE</address>
+		<value>0x09</value>
+		<description>P1 Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x09</value>
+		<description>P1 Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AC</address>
+		<value>0x3E</value>
+		<description>P1 All Artifacts</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B3</address>
+		<value>0xFF</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AF</address>
+		<value>0x09</value>
+		<description>P2 Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B1</address>
+		<value>0x09</value>
+		<description>P2 Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AD</address>
+		<value>0x3E</value>
+		<description>P2 All Artifacts</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C0</address>
+		<value>0x63</value>
+		<description>Infinite Time In Treasure/Secret Rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x833A</address>
+		<value>0x00</value>
+		<compare>0x78</compare>
+		<description>Immune to Stun Tiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x830F</address>
+		<value>0x08</value>
+		<compare>0x3C</compare>
+		<description>Enter Teleporters Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x84C3</address>
+		<value>0x08</value>
+		<compare>0x3C</compare>
+		<description>Exit Teleporters Faster</description>
+	</cheat>
+</cheats>

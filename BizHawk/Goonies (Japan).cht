@@ -1,0 +1,8 @@
+0046	09	N	System Bus	1	Infinite Lives	b	h	0	None	
+00a0	17	N	System Bus	1	Infinite Hit Points	b	h	0	None	
+0049	7f	N	System Bus	1	Have All Power Ups	b	h	0	None	
+0090	99	N	System Bus	1	Infinite Time	b	h	0	None	
+05f3	01	N	System Bus	1	Have a Bomb	b	h	0	None	
+05f2	63	N	System Bus	1	Infinite Slingshot Stones	b	h	0	None	
+a795	04	03	System Bus	1	High Jump	b	h	0	Equal	
+a795	05	03	System Bus	1	Super High Jump	b	h	0	Equal	

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x007A</address>
+		<value>0x63</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x63</value>
+		<description>Infinite Shots (Turn on after intro)</description>
+	</cheat>
+</cheats>

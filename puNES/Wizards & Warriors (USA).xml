@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0077</address>
+		<value>0x03</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x0C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00FC</address>
+		<value>0x01</value>
+		<description>Invincible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0073</address>
+		<value>0x09</value>
+		<description>Infinite Gems</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0630</address>
+		<value>0x01</value>
+		<description>Have Blue Key</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0631</address>
+		<value>0x01</value>
+		<description>Have Red Key</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0632</address>
+		<value>0x01</value>
+		<description>Have Pink Key</description>
+	</cheat>
+</cheats>

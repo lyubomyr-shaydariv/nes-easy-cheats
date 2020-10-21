@@ -1,0 +1,10 @@
+0043	09	N	System Bus	1	Infinite Lives (Both players)	b	h	0	None	
+03b4	40	N	System Bus	1	Infinite Hit Points (Both players)	b	h	0	None	
+0040	06	N	System Bus	1	Have All Skills (Both players)	b	h	0	None	
+0505	99	N	System Bus	1	Infinite Time	b	h	0	None	
+0396	80	N	System Bus	1	Have a Weapon	b	h	0	None	
+039e	00	N	System Bus	1	Held Weapon Is a Bat	b	h	0	None	
+039e	02	N	System Bus	1	Held Weapon Is a Whip	b	h	0	None	
+039e	04	N	System Bus	1	Held Weapon Is a Oil Drum	b	h	0	None	
+039e	05	N	System Bus	1	Held Weapon Is a Crate	b	h	0	None	
+039e	06	N	System Bus	1	Held Weapon Is a Rock	b	h	0	None	

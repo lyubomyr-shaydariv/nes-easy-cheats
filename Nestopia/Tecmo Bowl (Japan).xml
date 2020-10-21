@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x003F</address>
+		<value>0x99</value>
+		<description>P1 Score Is 99 (Doesn't display)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0044</address>
+		<value>0x99</value>
+		<description>P2 Score Is 99 (Doesn't display)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8527</address>
+		<value>0x05</value>
+		<compare>0x04</compare>
+		<description>P1 Gets 5 Downs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8527</address>
+		<value>0x09</value>
+		<compare>0x04</compare>
+		<description>P1 Gets 9 Downs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x912E</address>
+		<value>0x05</value>
+		<compare>0x04</compare>
+		<description>P2 Gets 5 Downs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x912E</address>
+		<value>0x09</value>
+		<compare>0x04</compare>
+		<description>P2 Gets 9 Downs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008E</address>
+		<value>0x00</value>
+		<description>Infinite Downs (Turn off to end)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x059F</address>
+		<value>0x01</value>
+		<description>CPU Kicks Poorly</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8516</address>
+		<value>0x02</value>
+		<compare>0x01</compare>
+		<description>1st Quarter Is 2:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8539</address>
+		<value>0x02</value>
+		<compare>0x01</compare>
+		<description>2nd Quarter Is 2:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8568</address>
+		<value>0x02</value>
+		<compare>0x01</compare>
+		<description>3rd Quarter Is 2:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x858B</address>
+		<value>0x02</value>
+		<compare>0x01</compare>
+		<description>4th Quarter Is 2:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8516</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>1st Quarter Is 0:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8539</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>2nd Quarter Is 0:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8568</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>3rd Quarter Is 0:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x858B</address>
+		<value>0x00</value>
+		<compare>0x01</compare>
+		<description>4th Quarter Is 0:30 Long</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8527</address>
+		<value>0x03</value>
+		<compare>0x04</compare>
+		<description>P1 Gets 3 Downs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8527</address>
+		<value>0x01</value>
+		<compare>0x04</compare>
+		<description>P1 Gets 1 Down</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x912E</address>
+		<value>0x03</value>
+		<compare>0x04</compare>
+		<description>P2 Gets 3 Downs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x912E</address>
+		<value>0x01</value>
+		<compare>0x04</compare>
+		<description>P2 Gets 1 Down</description>
+	</cheat>
+</cheats>

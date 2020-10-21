@@ -1,0 +1,6 @@
+0076	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+03d2	80	N	System Bus	1	P1 Invulnerable (Turn off to start floor)	b	h	0	None	
+0078	06	N	System Bus	1	P1 Have Max Snow Power	b	h	0	None	
+0077	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+03d3	80	N	System Bus	1	P2 Invulnerable (Turn off to start floor)	b	h	0	None	
+0079	06	N	System Bus	1	P2 Have Max Snow Power	b	h	0	None	

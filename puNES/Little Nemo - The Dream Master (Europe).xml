@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEKKSZLE</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVKKSZLA</genie>
+		<description>Start With 99 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008D</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05D0</address>
+		<value>0x06</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0630</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008B</address>
+		<value>0x09</value>
+		<description>Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKZKNZE</genie>
+		<description>Nemo High Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNKXVNSN</genie>
+		<description>Nemo Fast Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKKZKNZA</genie>
+		<description>Nemo Super High Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENKXVNSN</genie>
+		<description>Nemo Super Fast Jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESLYPPA</genie>
+		<description>Nemo Long Jumps - Right</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYUUIOVN</genie>
+		<description>Nemo Long Jumps - Left</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APKIVAAG</genie>
+		<description>Moon Gravity</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNNZKNKN</genie>
+		<description>Nemo High Jump Out of Water - Right</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OYELPEUN</genie>
+		<description>Nemo High Jump Out of Water - Left</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXLLPPA</genie>
+		<description>Nemo Runs - Right</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYEUPOVN</genie>
+		<description>Nemo Runs - Left</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNKUTIKU</genie>
+		<description>Fly Longer As Hornet</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSLATPZ</genie>
+		<description>Fly Forever As Hornet</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNSSVAN</genie>
+		<description>Stun Lasts Longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUSUVGL</genie>
+		<description>Animals Instant-Chew Candy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASUTZLA</genie>
+		<description>Toads Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOUYZLA</genie>
+		<description>Moles Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOLLALA</genie>
+		<description>Lizards Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEELAZLA</genie>
+		<description>Gorillas Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVUYILA</genie>
+		<description>Hornets Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUKOZAA</genie>
+		<description>Start On Dream 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUKOZAA</genie>
+		<description>Start On Dream 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUKOZAA</genie>
+		<description>Start On Dream 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUKOZAA</genie>
+		<description>Start On Dream 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUKOZAA</genie>
+		<description>Start On Dream 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUKOZAA</genie>
+		<description>Start On Dream 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUKOZAA</genie>
+		<description>Start On Dream 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUKOZAE</genie>
+		<description>Start On Dream 8, Part 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKKSZLA</genie>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008D</address>
+		<value>0x00</value>
+		<description>Start With 1 Life, No 1-Ups</description>
+	</cheat>
+</cheats>

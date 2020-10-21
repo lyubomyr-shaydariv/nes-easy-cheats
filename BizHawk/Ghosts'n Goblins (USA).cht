@@ -1,0 +1,11 @@
+0715	0a	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+0716	0a	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+e3d6	c5	f0	System Bus	1	Always Have Armor	b	h	0	Equal	
+0647	03	N	System Bus	1	Stay Invulnerable After Hit (Turn off to pickup items/Fall through some platforms)	b	h	0	None	
+053a	42	N	System Bus	1	Have Dagger	b	h	0	None	
+053a	4f	N	System Bus	1	Have Cross	b	h	0	None	
+053a	40	N	System Bus	1	Have Spear	b	h	0	None	
+053a	36	N	System Bus	1	Have Axe	b	h	0	None	
+053a	44	N	System Bus	1	Have Torch	b	h	0	None	
+ed3b	10	0a	System Bus	1	Cross Shoots Farther	b	h	0	Equal	
+06fc	09	N	System Bus	1	Infinite Time	b	h	0	None	

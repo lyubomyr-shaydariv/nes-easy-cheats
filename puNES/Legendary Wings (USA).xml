@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0058</address>
+		<value>0x0A</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007A</address>
+		<value>0x04</value>
+		<description>P1 Level 4 Power Up</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0059</address>
+		<value>0x0A</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007B</address>
+		<value>0x04</value>
+		<description>P2 Level 4 Power Up</description>
+	</cheat>
+</cheats>

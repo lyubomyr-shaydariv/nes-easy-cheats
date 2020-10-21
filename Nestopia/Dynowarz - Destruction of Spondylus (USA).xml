@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xECF7</address>
+		<value>0x8A</value>
+		<compare>0x60</compare>
+		<description>Infinite Shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDC51</address>
+		<value>0x60</value>
+		<compare>0xA5</compare>
+		<description>No Damage From Spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xF96E</address>
+		<value>0x00</value>
+		<compare>0x03</compare>
+		<description>No Damage From Dinosaurs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD3A7</address>
+		<value>0x07</value>
+		<compare>0x03</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD27D</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Speed Up</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC123</address>
+		<value>0x06</value>
+		<compare>0x01</compare>
+		<description>Start On Level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC123</address>
+		<value>0x0A</value>
+		<compare>0x01</compare>
+		<description>Start On Level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC123</address>
+		<value>0x0E</value>
+		<compare>0x01</compare>
+		<description>Start On Level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC123</address>
+		<value>0x12</value>
+		<compare>0x01</compare>
+		<description>Start On Level 5</description>
+	</cheat>
+</cheats>

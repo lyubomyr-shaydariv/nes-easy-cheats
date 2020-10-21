@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x04ED</address>
+		<value>0x0A</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C2</address>
+		<value>0x3F</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C3</address>
+		<value>0x02</value>
+		<description>Have Full Health</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0085</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04E0</address>
+		<value>0x01</value>
+		<description>Invincibility (Turn off to catch eggs)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04C9</address>
+		<value>0x3C</value>
+		<description>Infinite Float During Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04CA</address>
+		<value>0x3C</value>
+		<description>Super Jump Charged</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0555</address>
+		<value>0x02</value>
+		<description>High Jump (Not Luigi)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0555</address>
+		<value>0x01</value>
+		<description>Super High Jump (Not Luigi)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0099</address>
+		<value>0x00</value>
+		<description>Air Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0555</address>
+		<value>0x00</value>
+		<description>Infinite Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x062B</address>
+		<value>0x01</value>
+		<description>Infinite Coins (Turn off to end)</description>
+	</cheat>
+</cheats>

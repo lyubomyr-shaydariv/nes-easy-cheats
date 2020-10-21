@@ -1,0 +1,36 @@
+722e	0a	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None	
+726e	0a	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None	
+72ae	0a	N	System Bus	1	P3 Infinite Hit Points	b	h	0	None	
+72ee	0a	N	System Bus	1	P4 Infinite Hit Points	b	h	0	None	
+722f	63	N	System Bus	1	P1 Infinite Magic Points	b	h	0	None	
+726f	63	N	System Bus	1	P2 Infinite Magic Points	b	h	0	None	
+72af	63	N	System Bus	1	P3 Infinite Magic Points	b	h	0	None	
+72ef	63	N	System Bus	1	P4 Infinite Magic Points	b	h	0	None	
+7231	0a	N	System Bus	1	P1 Infinite Gold	b	h	0	None	
+7271	0a	N	System Bus	1	P2 Infinite Gold	b	h	0	None	
+72b1	0a	N	System Bus	1	P3 Infinite Gold	b	h	0	None	
+72f1	0a	N	System Bus	1	P4 Infinite Gold	b	h	0	None	
+7207	63	N	System Bus	1	P1 Full Strength	b	h	0	None	
+7247	63	N	System Bus	1	P2 Full Strength	b	h	0	None	
+7287	63	N	System Bus	1	P3 Full Strength	b	h	0	None	
+72c7	63	N	System Bus	1	P4 Full Strength	b	h	0	None	
+7208	63	N	System Bus	1	P1 Full Dexterity	b	h	0	None	
+7248	63	N	System Bus	1	P2 Full Dexterity	b	h	0	None	
+7288	63	N	System Bus	1	P3 Full Dexterity	b	h	0	None	
+72c8	63	N	System Bus	1	P4 Full Dexterity	b	h	0	None	
+7209	63	N	System Bus	1	P1 Full Intelligence	b	h	0	None	
+7249	63	N	System Bus	1	P2 Full Intelligence	b	h	0	None	
+7289	63	N	System Bus	1	P3 Full Intelligence	b	h	0	None	
+72c9	63	N	System Bus	1	P4 Full Intelligence	b	h	0	None	
+720a	63	N	System Bus	1	P1 Full Wisdom	b	h	0	None	
+724a	63	N	System Bus	1	P2 Full Wisdom	b	h	0	None	
+728a	63	N	System Bus	1	P3 Full Wisdom	b	h	0	None	
+72ca	63	N	System Bus	1	P4 Full Wisdom	b	h	0	None	
+720b	00	N	System Bus	1	P1 Good Status	b	h	0	None	
+724b	00	N	System Bus	1	P2 Good Status	b	h	0	None	
+728b	00	N	System Bus	1	P3 Good Status	b	h	0	None	
+72cb	00	N	System Bus	1	P4 Good Status	b	h	0	None	
+722c	0a	N	System Bus	1	P1 Infinite Food	b	h	0	None	
+726c	0a	N	System Bus	1	P2 Infinite Food	b	h	0	None	
+72ac	0a	N	System Bus	1	P3 Infinite Food	b	h	0	None	
+72ec	0a	N	System Bus	1	P4 Infinite Food	b	h	0	None	

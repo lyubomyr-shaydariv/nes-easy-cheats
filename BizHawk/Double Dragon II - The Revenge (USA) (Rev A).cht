@@ -1,0 +1,8 @@
+0432	0a	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
+041e	7f	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None	
+03cc	fe	N	System Bus	1	P1 Invulnerable	b	h	0	None	
+0433	0a	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
+041f	7f	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None	
+03cd	fe	N	System Bus	1	P2 Invulnerable	b	h	0	None	
+8353	10	09	System Bus	1	High Jump (Standing)	b	h	0	Equal	
+83bd	10	09	System Bus	1	High Jump (Walking)	b	h	0	Equal	

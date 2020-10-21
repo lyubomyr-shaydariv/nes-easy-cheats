@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x012B</address>
+		<value>0x7F</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0157</address>
+		<value>0x7F</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+</cheats>

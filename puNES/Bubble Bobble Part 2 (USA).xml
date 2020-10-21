@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0480</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0489</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0478</address>
+		<value>0x05</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DE</address>
+		<value>0x01</value>
+		<description>Have Long Shot Bubbles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DC</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+</cheats>
