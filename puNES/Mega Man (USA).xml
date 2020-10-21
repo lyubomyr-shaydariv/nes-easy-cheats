@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00A6</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006A</address>
+		<value>0x1C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0055</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005D</address>
+		<value>0xFF</value>
+		<description>Have All Weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006B</address>
+		<value>0x1C</value>
+		<description>Infinite Cutman Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006C</address>
+		<value>0x1C</value>
+		<description>Infinite Iceman Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006D</address>
+		<value>0x1C</value>
+		<description>Infinite Bombman Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006E</address>
+		<value>0x1C</value>
+		<description>Infinite Fireman Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006F</address>
+		<value>0x1C</value>
+		<description>Infinite Elecman Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0070</address>
+		<value>0x1C</value>
+		<description>Infinite Gutsman Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0071</address>
+		<value>0x1C</value>
+		<description>Infinite Magnet Beam</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOOYTGA</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOOYTGE</genie>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06C1</address>
+		<value>0x00</value>
+		<description>1-Hit Boss Kills</description>
+	</cheat>
+</cheats>

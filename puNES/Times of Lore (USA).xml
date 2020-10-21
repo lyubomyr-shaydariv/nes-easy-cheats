@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x052E</address>
+		<value>0xD0</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04D3</address>
+		<value>0x26</value>
+		<description>Infinite Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0084</address>
+		<value>0x63</value>
+		<description>Infinite Food</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05F3</address>
+		<value>0x15</value>
+		<description>Have Magic Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05F4</address>
+		<value>0x06</value>
+		<description>Have Boots</description>
+	</cheat>
+</cheats>

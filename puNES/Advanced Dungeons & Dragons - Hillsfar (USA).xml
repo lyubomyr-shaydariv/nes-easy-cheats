@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x008C</address>
+		<value>0x05</value>
+		<description>Guards Always Frozen</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E5</address>
+		<value>0x10</value>
+		<description>Infinite Hit Points In Colosseum</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03EA</address>
+		<value>0x00</value>
+		<description>Enemy Has No Hit Points In Colosseum</description>
+	</cheat>
+</cheats>

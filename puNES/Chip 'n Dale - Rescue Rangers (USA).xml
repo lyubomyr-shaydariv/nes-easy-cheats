@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x05B4</address>
+		<value>0x89</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0210</address>
+		<value>0x18</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005E</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable to Most Enemies (Can be stunned)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05E4</address>
+		<value>0x89</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0224</address>
+		<value>0x18</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005F</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable to Most Enemies (Can be stunned)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXKNPTE</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXGUPGE</genie>
+		<description>High Jump With Object</description>
+	</cheat>
+</cheats>

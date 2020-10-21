@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0058</address>
+		<value>0x6D</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0085</address>
+		<value>0x6D</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0059</address>
+		<value>0x6D</value>
+		<description>Infinite Magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005C</address>
+		<value>0x20</value>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005D</address>
+		<value>0x09</value>
+		<description>Super Powerful Attacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005E</address>
+		<value>0x05</value>
+		<description>Maximum Projectile</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005F</address>
+		<value>0x40</value>
+		<description>Full Attack Range</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0088</address>
+		<value>0x01</value>
+		<description>Scroll Speed Boost</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005A</address>
+		<value>0x6D</value>
+		<description>Infinite Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x005B</address>
+		<value>0x6D</value>
+		<description>Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0060</address>
+		<value>0x63</value>
+		<description>Infinite Wings</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0061</address>
+		<value>0x63</value>
+		<description>Infinite Armor</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0062</address>
+		<value>0x63</value>
+		<description>Infinite Mattocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0063</address>
+		<value>0x63</value>
+		<description>Infinite Gloves</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0064</address>
+		<value>0x63</value>
+		<description>Infinite Rods</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0065</address>
+		<value>0x63</value>
+		<description>Infinite Power Boots</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0066</address>
+		<value>0x63</value>
+		<description>Infinite Jump Shoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0067</address>
+		<value>0x63</value>
+		<description>Infinite Key Wands</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0068</address>
+		<value>0x63</value>
+		<description>Infinite Power Knuckles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0069</address>
+		<value>0x63</value>
+		<description>Infinite Firewands</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006A</address>
+		<value>0x63</value>
+		<description>Infinite Shields</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006B</address>
+		<value>0x63</value>
+		<description>Infinite Magic Bottles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006C</address>
+		<value>0x63</value>
+		<description>Infinite Elixirs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006D</address>
+		<value>0x63</value>
+		<description>Infinite Crystal Balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006E</address>
+		<value>0x63</value>
+		<description>Infinite Crowns</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006F</address>
+		<value>0x63</value>
+		<description>Infinite Dragon Slayers</description>
+	</cheat>
+</cheats>

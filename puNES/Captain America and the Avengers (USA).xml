@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x03D9</address>
+		<value>0x14</value>
+		<description>Infinite Hit Points - Captain America</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03D7</address>
+		<value>0x03</value>
+		<description>Full Power - Captain America</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03DA</address>
+		<value>0x14</value>
+		<description>Infinite Hit Points - Hawkeye</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03D8</address>
+		<value>0x03</value>
+		<description>Full Power - Hawkeye</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00A6</address>
+		<value>0x27</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0728</address>
+		<value>0x80</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x014B</address>
+		<value>0x03</value>
+		<description>Infinite Hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0152</address>
+		<value>0x04</value>
+		<description>Full Strength (5 Arrows)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x013E</address>
+		<value>0x02</value>
+		<description>Have Fireball Powerup</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x013F</address>
+		<value>0x02</value>
+		<description>Have Bow Powerup</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0140</address>
+		<value>0x02</value>
+		<description>Have Crystal Powerup</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0150</address>
+		<value>0x63</value>
+		<description>Infinite Angel Feathers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0151</address>
+		<value>0x48</value>
+		<description>Infinite Bottles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EGEILZST</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAEILZST</genie>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A5</address>
+		<value>0x08</value>
+		<description>Fly Forever (Turn off to enter doors)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006B</address>
+		<value>0x01</value>
+		<description>1-Hit Boss Kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x014F</address>
+		<value>0x63</value>
+		<description>Infinite Sledge Hammers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0156</address>
+		<value>0x63</value>
+		<description>Infinite Centurion Helpers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x013A</address>
+		<value>0x01</value>
+		<description>Have Torch</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x013B</address>
+		<value>0x01</value>
+		<description>Have Pencil</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x013D</address>
+		<value>0x01</value>
+		<description>Have Checkbook</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x014E</address>
+		<value>0x01</value>
+		<description>Have Credit Card</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006F</address>
+		<value>0x00</value>
+		<description>Immune to Eggplant Curse</description>
+	</cheat>
+</cheats>

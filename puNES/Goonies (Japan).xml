@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0046</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A0</address>
+		<value>0x17</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0049</address>
+		<value>0x7F</value>
+		<description>Have All Power Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0090</address>
+		<value>0x99</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05F3</address>
+		<value>0x01</value>
+		<description>Have a Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05F2</address>
+		<value>0x63</value>
+		<description>Infinite Slingshot Stones</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOZIYLA</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOZIYLA</genie>
+		<description>Super High Jump</description>
+	</cheat>
+</cheats>

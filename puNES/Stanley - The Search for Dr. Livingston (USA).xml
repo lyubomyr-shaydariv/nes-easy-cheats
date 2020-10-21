@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x057B</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x057E</address>
+		<value>0x38</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0497</address>
+		<value>0x01</value>
+		<description>Have Machete</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0496</address>
+		<value>0x01</value>
+		<description>Have Grapnel</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x049D</address>
+		<value>0x63</value>
+		<description>Infinite Knives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x049C</address>
+		<value>0x63</value>
+		<description>Infinite Spears</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x049B</address>
+		<value>0x63</value>
+		<description>Infinite Arrows</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x049E</address>
+		<value>0x63</value>
+		<description>Infinite Axes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0498</address>
+		<value>0x63</value>
+		<description>Infinite Rocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0499</address>
+		<value>0x63</value>
+		<description>Infinite Darts</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x049A</address>
+		<value>0x63</value>
+		<description>Infinite Golden Fists</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNUETENY</genie>
+		<description>Fly With Helicopter</description>
+	</cheat>
+</cheats>

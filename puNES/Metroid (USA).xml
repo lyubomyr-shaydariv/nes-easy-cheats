@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0107</address>
+		<value>0x79</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6877</address>
+		<value>0x06</value>
+		<description>All Energy Tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENSXLIE</genie>
+		<description>Gain Double Missiles At Pickup</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENSXLIE</genie>
+		<description>Gain Triple Missiles At Pickup</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6879</address>
+		<value>0xFF</value>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6878</address>
+		<value>0x7F</value>
+		<description>Have All Items and Wave Beam</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6878</address>
+		<value>0xBF</value>
+		<description>Have All Items and Ice Beam</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNSGNNKN</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ONSGNNKN</genie>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNKTTUXY</genie>
+		<description>Non-Stop Jump (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNSGNNKY</genie>
+		<description>Non-Stop Jump (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x687B</address>
+		<value>0x82</value>
+		<description>Kraid Statue Up</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x687C</address>
+		<value>0x82</value>
+		<description>Ridley Statue Up</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x010B</address>
+		<value>0x99</value>
+		<description>Infinite Escape Time (Use only after Mother Brain is dead)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x6872</address>
+		<value>0x05</value>
+		<description>Have Best Ending</description>
+	</cheat>
+</cheats>

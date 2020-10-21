@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x04E5</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04E6</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0090</address>
+		<value>0x08</value>
+		<description>P1 Have Full Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0093</address>
+		<value>0x0C</value>
+		<description>P1 Have Max Fire</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B3</address>
+		<value>0x04</value>
+		<description>P1 Have Max Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AF</address>
+		<value>0x01</value>
+		<description>P1 Have Detonator</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AD</address>
+		<value>0x01</value>
+		<description>P1 Have Walk Through Walls</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x02</value>
+		<description>P1 Invulnerable to Bombs (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B1</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable to Bombs (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x055A</address>
+		<value>0xFF</value>
+		<description>Infinite Time (Must turn off for bonus stages)</description>
+	</cheat>
+</cheats>

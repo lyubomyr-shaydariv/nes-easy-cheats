@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x009E</address>
+		<value>0x2C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0384</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0058</address>
+		<value>0x00</value>
+		<description>Have Key (Turn off at final boss)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0366</address>
+		<value>0x00</value>
+		<description>1-Hit Boss Kills</description>
+	</cheat>
+</cheats>

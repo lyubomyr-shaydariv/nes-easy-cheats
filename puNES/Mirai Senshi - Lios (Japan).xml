@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x040A</address>
+		<value>0xBE</value>
+		<description>Infinite Hit Points: Base</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x041A</address>
+		<value>0x96</value>
+		<description>Infinite Hit Points: Main Robot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050A</address>
+		<value>0x01</value>
+		<description>1-Hit Kill: Enemy's Base</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x051A</address>
+		<value>0x01</value>
+		<description>1-Hit Kill: Enemy's Main Robot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0014</address>
+		<value>0xA8</value>
+		<description>Reset Game to See Ending</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0739</address>
+		<value>0xFF</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0743</address>
+		<value>0x01</value>
+		<description>P1 Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0748</address>
+		<value>0x01</value>
+		<description>P1 Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0702</address>
+		<value>0x3F</value>
+		<description>P1 All Power Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07A8</address>
+		<value>0x00</value>
+		<description>P1 Can Shoot Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x071B</address>
+		<value>0x01</value>
+		<description>P1 Has Super Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0707</address>
+		<value>0x01</value>
+		<description>P1 Invisible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0711</address>
+		<value>0x01</value>
+		<description>P1 Repulsive</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0716</address>
+		<value>0x01</value>
+		<description>P1 Has Reflective Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0720</address>
+		<value>0x01</value>
+		<description>P1 Has Transportability</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x073A</address>
+		<value>0xFF</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0744</address>
+		<value>0x01</value>
+		<description>P2 Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0749</address>
+		<value>0x01</value>
+		<description>P2 Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0703</address>
+		<value>0x3F</value>
+		<description>P2 All Power Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07A9</address>
+		<value>0x00</value>
+		<description>P2 Can Shoot Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x071C</address>
+		<value>0x01</value>
+		<description>P2 Has Super Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0708</address>
+		<value>0x01</value>
+		<description>P2 Invisible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0712</address>
+		<value>0x01</value>
+		<description>P2 Repulsive</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0717</address>
+		<value>0x01</value>
+		<description>P2 Has Reflective Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0721</address>
+		<value>0x01</value>
+		<description>P2 Has Transportability</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x073B</address>
+		<value>0xFF</value>
+		<description>P3 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0745</address>
+		<value>0x01</value>
+		<description>P3 Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x074A</address>
+		<value>0x01</value>
+		<description>P3 Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0704</address>
+		<value>0x3F</value>
+		<description>P3 All Power Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07AA</address>
+		<value>0x00</value>
+		<description>P3 Can Shoot Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x071D</address>
+		<value>0x01</value>
+		<description>P3 Has Super Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0709</address>
+		<value>0x01</value>
+		<description>P3 Invisible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0713</address>
+		<value>0x01</value>
+		<description>P3 Repulsive</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0718</address>
+		<value>0x01</value>
+		<description>P3 Has Reflective Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0722</address>
+		<value>0x01</value>
+		<description>P3 Has Transportability</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x073C</address>
+		<value>0xFF</value>
+		<description>P4 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0746</address>
+		<value>0x01</value>
+		<description>P4 Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x074B</address>
+		<value>0x01</value>
+		<description>P4 Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0705</address>
+		<value>0x3F</value>
+		<description>P4 All Power Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07AB</address>
+		<value>0x00</value>
+		<description>P4 Can Shoot Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x071E</address>
+		<value>0x01</value>
+		<description>P4 Has Super Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x070A</address>
+		<value>0x01</value>
+		<description>P4 Invisible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0714</address>
+		<value>0x01</value>
+		<description>P4 Repulsive</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0719</address>
+		<value>0x01</value>
+		<description>P4 Has Reflective Shot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0723</address>
+		<value>0x01</value>
+		<description>P4 Has Transportability</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x060B</address>
+		<value>0x7F</value>
+		<description>Infinite Time In Treasure/Secret Rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0070</address>
+		<value>0x00</value>
+		<description>Nobody Is Ever "It"</description>
+	</cheat>
+</cheats>

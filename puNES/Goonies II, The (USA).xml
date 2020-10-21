@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAOSZGLE</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0022</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUIZGZE</genie>
+		<description>Start With Full Hit Point Containers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAUIYIAZ</genie>
+		<description>Start With Full Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0507</address>
+		<value>0x08</value>
+		<description>Full Hit Point Containers</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0503</address>
+		<value>0x80</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0516</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050E</address>
+		<value>0x63</value>
+		<description>Infinite Slingshot</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0501</address>
+		<value>0x63</value>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0502</address>
+		<value>0x63</value>
+		<description>Infinite Molotov Cocktails</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0500</address>
+		<value>0x08</value>
+		<description>Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPVIAGPE</genie>
+		<description>Start With All Weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050B</address>
+		<value>0x1F</value>
+		<description>Have All Weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0509</address>
+		<value>0xFF</value>
+		<description>Have All Items (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050A</address>
+		<value>0xFF</value>
+		<description>Have All Items (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0508</address>
+		<value>0xFF</value>
+		<description>Have All Magic Locator Devices</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUAOPZA</genie>
+		<description>High Jump Without Spring Shoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050D</address>
+		<value>0x3F</value>
+		<description>All Goonies Rescued</description>
+	</cheat>
+</cheats>

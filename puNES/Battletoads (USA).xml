@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AENVZILE</genie>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZVNVZILA</genie>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0011</address>
+		<value>0x05</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x051A</address>
+		<value>0x2F</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0574</address>
+		<value>0x7E</value>
+		<description>P1 Invulnerable (Must turn off at various times)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04B1</address>
+		<value>0x20</value>
+		<description>P1 Has a Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0012</address>
+		<value>0x05</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x051B</address>
+		<value>0x2F</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0575</address>
+		<value>0x7E</value>
+		<description>P2 Invulnerable (Must turn off at various times)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04B2</address>
+		<value>0x20</value>
+		<description>P2 Has a Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KTSAUVEI</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYSAUVEI</genie>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUZITPA</genie>
+		<description>Faster Attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXAALAA</genie>
+		<description>Start On Level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXAALAA</genie>
+		<description>Start On Level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXAALAA</genie>
+		<description>Start On Level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXAALAA</genie>
+		<description>Start On Level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXAALAA</genie>
+		<description>Start On Level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAXAALAA</genie>
+		<description>Start On Level 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXAALAE</genie>
+		<description>Start On Level 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXAALAE</genie>
+		<description>Start On Level 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXAALAE</genie>
+		<description>Start On Level 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXAALAE</genie>
+		<description>Start On Level 11</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXAALAE</genie>
+		<description>Start On Level 12</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENVZILA</genie>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00BE</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B7</address>
+		<value>0x08</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00CC</address>
+		<value>0xA0</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B8</address>
+		<value>0x63</value>
+		<description>Infinite Weapon Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPUOAUPE</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZZUOAUPE</genie>
+		<description>Super High Jump</description>
+	</cheat>
+</cheats>

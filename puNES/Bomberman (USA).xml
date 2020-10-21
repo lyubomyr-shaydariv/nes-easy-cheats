@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0068</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0074</address>
+		<value>0x07</value>
+		<description>Full Bomb Count</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0073</address>
+		<value>0xA0</value>
+		<description>Maximum Bomb Length</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0093</address>
+		<value>0xC8</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAVGZGZE</genie>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTVGZGZA</genie>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0032</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x7F</value>
+		<description>P1 Invincible (B Power Up)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x13</value>
+		<description>P1 Has Spray</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x11</value>
+		<description>P1 Has Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x12</value>
+		<description>P1 Has Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x14</value>
+		<description>P1 Has Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B1</address>
+		<value>0x7F</value>
+		<description>P2 Invincible (B Power Up)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x13</value>
+		<description>P2 Has Spray</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x11</value>
+		<description>P2 Has Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x12</value>
+		<description>P2 Has Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x14</value>
+		<description>P2 Has Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSIUZSO</genie>
+		<description>Keep Gun After Dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNVSPVUN</genie>
+		<description>High Jump In Side View</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNVSYVKN</genie>
+		<description>High Jump In Bases</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVGZGZA</genie>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0032</address>
+		<value>0x00</value>
+		<description>P1 Start With 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0033</address>
+		<value>0x00</value>
+		<description>P2 Start With 1 Life, No 1-Ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x00</value>
+		<description>P1 No Special Guns</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x00</value>
+		<description>P2 No Special Guns</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKOAEZEA</genie>
+		<description>Snipers Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APNAZGAU</genie>
+		<description>Gray Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXALIAS</genie>
+		<description>Red Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXNPGAAS</genie>
+		<description>Base Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APENIPAL</genie>
+		<description>Big Gunners Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYUUSAEG</genie>
+		<description>Spider Turrets Shoot More</description>
+	</cheat>
+</cheats>

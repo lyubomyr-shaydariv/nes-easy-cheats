@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0031</address>
+		<value>0x0A</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0052</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0050</address>
+		<value>0x03</value>
+		<description>P1 Best Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0032</address>
+		<value>0x0A</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0053</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0051</address>
+		<value>0x03</value>
+		<description>P2 Best Missiles</description>
+	</cheat>
+</cheats>

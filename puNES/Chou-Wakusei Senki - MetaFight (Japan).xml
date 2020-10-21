@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PANKZZZE</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DD</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x040D</address>
+		<value>0xFF</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007E</address>
+		<value>0x00</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C3</address>
+		<value>0xFF</value>
+		<description>Infinite Gun Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0092</address>
+		<value>0xFF</value>
+		<description>Infinite Hover Power (If you have hover device)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F0</address>
+		<value>0x63</value>
+		<description>Infinite Heat-Seeking Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F1</address>
+		<value>0x63</value>
+		<description>Infinite Thunderbreaks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F2</address>
+		<value>0x63</value>
+		<description>Infinite Multi-Warheads</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0099</address>
+		<value>0xFF</value>
+		<description>Have All Powerups (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03FC</address>
+		<value>0xFF</value>
+		<description>Have All Powerups (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKOYLVT</genie>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANKZZZA</genie>
+		<description>Start With 1 Life</description>
+	</cheat>
+</cheats>

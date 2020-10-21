@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00D4</address>
+		<value>0xFB</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009F</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D6</address>
+		<value>0xFB</value>
+		<description>P1 Infinite Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D5</address>
+		<value>0xFB</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A0</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00D8</address>
+		<value>0xFB</value>
+		<description>P2 Infinite Grenades</description>
+	</cheat>
+</cheats>

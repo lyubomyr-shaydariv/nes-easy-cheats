@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0399</address>
+		<value>0x99</value>
+		<description>P1 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039E</address>
+		<value>0x99</value>
+		<description>P2 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEGAKY</genie>
+		<description>Get 5 Downs (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEGAKY</genie>
+		<description>Get 6 Downs (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0077</address>
+		<value>0x00</value>
+		<description>Infinite Downs (Turn off to end)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUXLZIE</genie>
+		<description>8 Minute Quarters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPUXLZIA</genie>
+		<description>15 Minute Quarters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEGAKY</genie>
+		<description>Get 3 Downs (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUXLZIA</genie>
+		<description>3 Minute Quarters</description>
+	</cheat>
+</cheats>

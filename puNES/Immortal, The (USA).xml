@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x03B3</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0363</address>
+		<value>0x0F</value>
+		<description>Infinite Hit Points (In combat)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0365</address>
+		<value>0x00</value>
+		<description>No Combat Fatigue</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0362</address>
+		<value>0x00</value>
+		<description>Enemies Immediately Die (In combat)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0364</address>
+		<value>0x0F</value>
+		<description>Full Enemy Combat Fatigue</description>
+	</cheat>
+</cheats>

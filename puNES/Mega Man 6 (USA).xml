@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00A9</address>
+		<value>0x08</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03E5</address>
+		<value>0x1B</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06A1</address>
+		<value>0x02</value>
+		<description>Infinite Energy Tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068D</address>
+		<value>0x1B</value>
+		<description>Infinite Plant Barrier</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0689</address>
+		<value>0x1B</value>
+		<description>Infinite Y. Spear</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068C</address>
+		<value>0x1B</value>
+		<description>Infinite Fire Blast</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068B</address>
+		<value>0x1B</value>
+		<description>Infinite Blizzard Attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068E</address>
+		<value>0x1B</value>
+		<description>Infinite Knight C.</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068A</address>
+		<value>0x1B</value>
+		<description>Infinite Wind Storm</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068F</address>
+		<value>0x1B</value>
+		<description>Infinite Silver T.</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0690</address>
+		<value>0x1B</value>
+		<description>Infinite Charge Flash</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009C</address>
+		<value>0x13</value>
+		<description>Infinite Rush Jet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03ED</address>
+		<value>0x00</value>
+		<description>1-Hit Boss Kills (Turn on after boss's hit points fill)</description>
+	</cheat>
+</cheats>

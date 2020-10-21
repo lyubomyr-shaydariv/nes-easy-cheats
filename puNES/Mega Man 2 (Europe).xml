@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZANALALE</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTNALALA</genie>
+		<description>Start With 99 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A8</address>
+		<value>0x0B</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06C0</address>
+		<value>0x1C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A7</address>
+		<value>0x04</value>
+		<description>Infinite Energy Tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004B</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009C</address>
+		<value>0x1C</value>
+		<description>Infinite Atomic Fire</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009D</address>
+		<value>0x1C</value>
+		<description>Infinite Air Shooter</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009E</address>
+		<value>0x1C</value>
+		<description>Infinite Leaf Shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009F</address>
+		<value>0x1C</value>
+		<description>Infinite Bubble Lead</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A0</address>
+		<value>0x1C</value>
+		<description>Infinite Quick-Boomerang</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A1</address>
+		<value>0x1C</value>
+		<description>Infinite Time-Stopper</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A2</address>
+		<value>0x1C</value>
+		<description>Infinite Metal-Blade</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A3</address>
+		<value>0x1C</value>
+		<description>Infinite Crash Bomber</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009B</address>
+		<value>0xFF</value>
+		<description>Have All Items</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A4</address>
+		<value>0x1C</value>
+		<description>Infinite Item-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A5</address>
+		<value>0x1C</value>
+		<description>Infinite Item-2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00A6</address>
+		<value>0x1C</value>
+		<description>Infinite Item-3</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009A</address>
+		<value>0xFF</value>
+		<description>All Bosses Defeated</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x003C</address>
+		<value>0x07</value>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x003C</address>
+		<value>0x10</value>
+		<description>Super High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0030</address>
+		<value>0x10</value>
+		<description>Moon Gravity (Affects some enemies)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOEAOGO</genie>
+		<description>Bosses Have Half Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOEAOGP</genie>
+		<description>Bosses Have 1 Hit Point</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAESOZGA</genie>
+		<description>Quickman's Beams Half Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANALALA</genie>
+		<description>Start With 1 Life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALOEAOGO</genie>
+		<description>Bosses Have Double Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXESTYGO</genie>
+		<description>Most Enemies Have Double Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAESOZGA</genie>
+		<description>Quickman's Beams Even Faster</description>
+	</cheat>
+</cheats>

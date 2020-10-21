@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x053F</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0540</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0544</address>
+		<value>0x00</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0545</address>
+		<value>0x80</value>
+		<description>Have Left Little Heli</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0546</address>
+		<value>0x80</value>
+		<description>Have Right Little Heli</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0547</address>
+		<value>0x80</value>
+		<description>Have Right Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0548</address>
+		<value>0x80</value>
+		<description>Have Left Bomb</description>
+	</cheat>
+</cheats>
