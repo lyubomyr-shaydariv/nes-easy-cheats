@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00B6</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BD</address>
+		<value>0x99</value>
+		<description>Infinite Time (Turn off at end of stage)</description>
+	</cheat>
+</cheats>

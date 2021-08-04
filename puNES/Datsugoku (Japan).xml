@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x043A</address>
+		<value>0x02</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0424</address>
+		<value>0x20</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0438</address>
+		<value>0x58</value>
+		<description>Have Gun (Must turn off "Have Grenades")</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0438</address>
+		<value>0x30</value>
+		<description>Have Grenades (Must turn off "Have Gun")</description>
+	</cheat>
+</cheats>

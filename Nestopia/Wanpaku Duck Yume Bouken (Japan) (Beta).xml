@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<address>0xDA16</address>
-		<value>0x09</value>
+		<address>0xDB0B</address>
+		<value>0x08</value>
 		<compare>0x02</compare>
 		<description>Start With 9 Lives</description>
 	</cheat>
@@ -58,7 +58,7 @@
 		<description>Infinite Time</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xDA16</address>
+		<address>0xDB0B</address>
 		<value>0x00</value>
 		<compare>0x02</compare>
 		<description>Start With 1 Life</description>

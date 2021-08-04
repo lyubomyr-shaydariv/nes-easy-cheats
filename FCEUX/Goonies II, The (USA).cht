@@ -1,10 +1,10 @@
-SC:d41a:09:03:Start With 9 Lives
+SC:d42a:09:03:Start With 9 Lives
 S:0022:09:Infinite Lives
 SC:d432:08:02:Start With Full Hit Point Containers
 SC:d537:80:20:Start With Full Hit Points
 S:0507:08:Full Hit Point Containers
 S:0503:80:Infinite Hit Points
-S:0516:01:Invulnerable
+S:0526:01:Invulnerable
 S:050e:63:Infinite Slingshot
 S:0501:63:Infinite Bombs
 S:0502:63:Infinite Molotov Cocktails

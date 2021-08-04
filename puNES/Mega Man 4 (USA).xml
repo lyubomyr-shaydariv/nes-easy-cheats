@@ -11,7 +11,7 @@
 		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x003C</address>
+		<address>0x0039</address>
 		<value>0x01</value>
 		<description>Invulnerable</description>
 	</cheat>

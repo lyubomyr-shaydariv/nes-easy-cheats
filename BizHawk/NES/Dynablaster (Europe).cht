@@ -1,0 +1,10 @@
+04e5	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None
+04e6	01	N	System Bus	1	P1 Invulnerable	b	h	0	None
+0090	08	N	System Bus	1	P1 Have Full Bombs	b	h	0	None
+0093	0c	N	System Bus	1	P1 Max Fire Length	b	h	0	None
+00b3	04	N	System Bus	1	P1 Max Speed	b	h	0	None
+00af	01	N	System Bus	1	P1 Have Detonator	b	h	0	None
+00ad	01	N	System Bus	1	P1 Have Walk Through Walls	b	h	0	None
+00b0	02	N	System Bus	1	P1 Immune to Bombs (1/2)	b	h	0	None
+00b1	01	N	System Bus	1	P1 Immune to Bombs (2/2)	b	h	0	None
+055a	ff	N	System Bus	1	Infinite Time (Must turn off for bonus stages)	b	h	0	None

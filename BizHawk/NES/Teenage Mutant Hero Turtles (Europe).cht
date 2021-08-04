@@ -1,0 +1,17 @@
+0077	80	N	System Bus	1	Infinite Hit Points - Leonardo	b	h	0	None
+0078	80	N	System Bus	1	Infinite Hit Points - Raphael	b	h	0	None
+0079	80	N	System Bus	1	Infinite Hit Points - Michelangelo	b	h	0	None
+007a	80	N	System Bus	1	Infinite Hit Points - Donatello	b	h	0	None
+0500	04	N	System Bus	1	Invulnerable (After first hit)	b	h	0	None
+0540	11	N	System Bus	1	Invincible (Spin)	b	h	0	None
+0073	04	N	System Bus	1	Have Scroll - Leonardo (Use with Infinite Ammo)	b	h	0	None
+0074	04	N	System Bus	1	Have Scroll - Raphael (Use with Infinite Ammo)	b	h	0	None
+0075	04	N	System Bus	1	Have Scroll - Michelangelo (Use with Infinite Ammo)	b	h	0	None
+0076	04	N	System Bus	1	Have Scroll - Donatello (Use with Infinite Ammo)	b	h	0	None
+00a8	63	N	System Bus	1	Infinite Ammo - Leonardo	b	h	0	None
+00a9	63	N	System Bus	1	Infinite Ammo - Raphael	b	h	0	None
+00aa	63	N	System Bus	1	Infinite Ammo - Michelangelo	b	h	0	None
+00ab	63	N	System Bus	1	Infinite Ammo - Donatello	b	h	0	None
+00bf	ff	N	System Bus	1	Infinite Missiles	b	h	0	None
+00bb	78	N	System Bus	1	Infinite Time	b	h	0	None
+00a7	63	N	System Bus	1	Infinite Rope	b	h	0	None

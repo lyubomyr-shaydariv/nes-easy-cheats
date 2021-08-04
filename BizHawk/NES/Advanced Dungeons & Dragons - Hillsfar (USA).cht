@@ -1,0 +1,15 @@
+0718	ff	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0719	ff	N	System Bus	1	Max Hit Points	b	h	0	None
+07b9	63	N	System Bus	1	Level 99	b	h	0	None
+0712	63	N	System Bus	1	99 Strength	b	h	0	None
+0716	63	N	System Bus	1	99 Constitution	b	h	0	None
+0715	63	N	System Bus	1	99 Dexterity	b	h	0	None
+0713	63	N	System Bus	1	99 Intelligence	b	h	0	None
+0714	63	N	System Bus	1	99 Wisdom	b	h	0	None
+0717	63	N	System Bus	1	99 Charisma	b	h	0	None
+0751	ff	N	System Bus	1	Infinite Gold	b	h	0	None
+07af	12	N	System Bus	1	18 Years Old	b	h	0	None
+03e5	10	N	System Bus	1	Infinite Hit Points in Colosseum	b	h	0	None
+03ea	00	N	System Bus	1	1-Hit Colosseum Kills	b	h	0	None
+05c8	09	N	System Bus	1	Infinite Lock Time	b	h	0	None
+008c	05	N	System Bus	1	Guards Frozen	b	h	0	None

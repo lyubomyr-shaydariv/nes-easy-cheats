@@ -1,0 +1,14 @@
+00a9	09	N	System Bus	1	Infinite Lives	b	h	0	None
+03e5	1b	N	System Bus	1	Infinite Hit Points	b	h	0	None
+06a1	02	N	System Bus	1	Infinite Energy Tanks	b	h	0	None
+0689	1b	N	System Bus	1	Infinite Y. Spear	b	h	0	None
+068a	1b	N	System Bus	1	Infinite Wind Storm	b	h	0	None
+068b	1b	N	System Bus	1	Infinite Blizzard Attack	b	h	0	None
+068c	1b	N	System Bus	1	Infinite Fire Blast	b	h	0	None
+068d	1b	N	System Bus	1	Infinite Plant Barrier	b	h	0	None
+068e	1b	N	System Bus	1	Infinite Knight C.	b	h	0	None
+068f	1b	N	System Bus	1	Infinite Silver T.	b	h	0	None
+0690	1b	N	System Bus	1	Infinite Charge Flash	b	h	0	None
+0691	1b	N	System Bus	1	Infinite Beat	b	h	0	None
+009c	13	N	System Bus	1	Infinite Rush Jet	b	h	0	None
+03ed	00	N	System Bus	1	1-Hit Boss Kills (Turn on after boss's hit points fill)	b	h	0	None

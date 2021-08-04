@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x07E5</address>
+		<value>0x99</value>
+		<description>P1 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07E6</address>
+		<value>0x99</value>
+		<description>P2 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC6B6</address>
+		<value>0x04</value>
+		<compare>0x07</compare>
+		<description>Faster Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC6B6</address>
+		<value>0x00</value>
+		<compare>0x07</compare>
+		<description>Fastest Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC6B6</address>
+		<value>0x0F</value>
+		<compare>0x07</compare>
+		<description>Slower Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEA8</address>
+		<value>0x01</value>
+		<compare>0x02</compare>
+		<description>10 Minute Periods</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEA8</address>
+		<value>0x04</value>
+		<compare>0x02</compare>
+		<description>40 Minute Periods</description>
+	</cheat>
+</cheats>

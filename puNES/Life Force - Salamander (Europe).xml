@@ -2,7 +2,11 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<genie>GVKVNTLA</genie>
-		<description>Start With 99 Lives (Both players)</description>
+		<description>Start With 99 Lives (Both players) (USA &amp; Europe)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVKTNZLA</genie>
+		<description>Start With 99 Lives (Both players) (Japan)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0034</address>
@@ -85,7 +89,11 @@
 		<description>P2 Power Up Level At Option (Players must share 2 options)</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>PEKVNTLA</genie>
-		<description>Start With 1 Life (Both players)</description>
+		<genie>AEKVNTLA</genie>
+		<description>Start With 1 Life (Both players) (USA &amp; Europe)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKTNZLA</genie>
+		<description>Start With 1 Life (Both players) (Japan)</description>
 	</cheat>
 </cheats>

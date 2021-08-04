@@ -1,0 +1,8 @@
+0097	05	N	System Bus	1	P1 Infinite Lives	b	h	0	None
+00a0	4e	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+07ad	39	N	System Bus	1	P1 Infinite Bullets	b	h	0	None
+07b1	39	N	System Bus	1	P1 Infinite Missiles	b	h	0	None
+0098	05	N	System Bus	1	P2 Infinite Lives	b	h	0	None
+00a1	4e	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None
+07af	39	N	System Bus	1	P2 Infinite Bullets	b	h	0	None
+07b3	39	N	System Bus	1	P2 Infinite Missiles	b	h	0	None

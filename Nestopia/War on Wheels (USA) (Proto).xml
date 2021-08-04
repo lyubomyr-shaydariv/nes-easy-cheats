@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x045A</address>
+		<value>0x12</value>
+		<description>Infinite Hit Points (1/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x045B</address>
+		<value>0x12</value>
+		<description>Infinite Hit Points (2/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x045C</address>
+		<value>0x12</value>
+		<description>Infinite Hit Points (3/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x045D</address>
+		<value>0x12</value>
+		<description>Infinite Hit Points (4/4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x045E</address>
+		<value>0x01</value>
+		<description>Enemy No Health (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x045F</address>
+		<value>0x01</value>
+		<description>Enemy No Health (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0460</address>
+		<value>0x01</value>
+		<description>Enemy No Health (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0461</address>
+		<value>0x01</value>
+		<description>Enemy No Health (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050A</address>
+		<value>0x05</value>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x050D</address>
+		<value>0x63</value>
+		<description>Player High Score</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0511</address>
+		<value>0x00</value>
+		<description>No Enemy Score</description>
+	</cheat>
+</cheats>

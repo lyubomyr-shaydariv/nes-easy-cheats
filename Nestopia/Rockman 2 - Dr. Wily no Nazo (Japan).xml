@@ -150,7 +150,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0xDA06</address>
-		<value>0x05</value>
+		<value>0x02</value>
 		<compare>0x04</compare>
 		<description>Quickman's Beams Even Faster</description>
 	</cheat>

@@ -1,0 +1,6 @@
+00be	08	N	System Bus	1	Infinite Lives	b	h	0	None
+00b7	08	N	System Bus	1	Infinite Hit Points	b	h	0	None
+00cc	a0	N	System Bus	1	Invulnerable	b	h	0	None
+00b8	63	N	System Bus	1	Infinite Weapon Power	b	h	0	None
+9338	1a	09	System Bus	1	High Jump	b	h	0	Equal
+9338	2a	09	System Bus	1	Super High Jump	b	h	0	Equal

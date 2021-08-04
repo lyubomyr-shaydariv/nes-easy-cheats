@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
+		<genie>PAOPUGLE</genie>
+		<description>Start With 9 Lives (1 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTOPUGLA</genie>
+		<description>Start With 99 Lives (1 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXOXGLE</genie>
+		<description>Start With 9 Lives (2 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTXOXGLA</genie>
+		<description>Start With 99 Lives (2 player game)</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x000D</address>
 		<value>0x07</value>
 		<description>Infinite Lives (Both players)</description>
@@ -28,15 +44,47 @@
 	<cheat enabled="0">
 		<address>0x0138</address>
 		<value>0x10</value>
-		<description>Catch Doesn't Automatically Release</description>
+		<description>Catch Doesn't Release Automatically</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>IAKPSGPA</genie>
+		<genie>IAOONGPA</genie>
 		<description>Start On Round 5</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>PAKPSGPE</genie>
-		<description>Start On Round 9</description>
+		<genie>ZAOONGPE</genie>
+		<description>Start On Round 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOONGPE</genie>
+		<description>Start On Round 15</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPOONGPA</genie>
+		<description>Start On Round 20</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPOONGPE</genie>
+		<description>Start On Round 25</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPOONGPE</genie>
+		<description>Start On Round 30</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LZOONGPA</genie>
+		<description>Start On Round 35</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOONGPA</genie>
+		<description>Start On Final Round</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOPUGLA</genie>
+		<description>Start With 1 Life (1 player game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXOXGLA</genie>
+		<description>Start With 1 Life (2 player game)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0129</address>

@@ -1,0 +1,15 @@
+0087	09	N	System Bus	1	Infinite Lives	b	h	0	None
+0089	01	N	System Bus	1	Invulnerable to Bullets	b	h	0	None
+d5e8	00	c0	System Bus	1	Invulnerable to Walls	b	h	0	Equal
+0095	01	N	System Bus	1	Have 4 Barriers	b	h	0	None
+008b	03	N	System Bus	1	High Speed	b	h	0	None
+008b	05	N	System Bus	1	Highest Speed	b	h	0	None
+008c	01	N	System Bus	1	Have Ring Gun	b	h	0	None
+008c	02	N	System Bus	1	Have Laser	b	h	0	None
+008c	04	N	System Bus	1	Have Full Spread	b	h	0	None
+037d	01	N	System Bus	1	Have Straight Missiles	b	h	0	None
+037d	02	N	System Bus	1	Have Heat-Seeking Missiles	b	h	0	None
+c960	02	01	System Bus	1	Start on Stage 2	b	h	0	Equal
+c960	03	01	System Bus	1	Start on Stage 3	b	h	0	Equal
+c960	04	01	System Bus	1	Start on Stage 4	b	h	0	Equal
+c960	05	01	System Bus	1	Start on Stage 5	b	h	0	Equal

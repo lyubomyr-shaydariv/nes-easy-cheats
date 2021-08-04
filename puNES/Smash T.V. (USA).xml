@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0474</address>
+		<value>0x01</value>
+		<description>Invincible 1/5 (You must die once to take effect)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0475</address>
+		<value>0x01</value>
+		<description>Invincible 2/5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x061D</address>
+		<value>0x01</value>
+		<description>Invincible 3/5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0614</address>
+		<value>0x01</value>
+		<description>Invincible 4/5</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x061E</address>
+		<value>0x01</value>
+		<description>Invincible 5/5</description>
+	</cheat>
+</cheats>

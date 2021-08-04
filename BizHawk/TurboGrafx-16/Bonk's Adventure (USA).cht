@@ -1,0 +1,4 @@
+2db1	63	N	System Bus	1	Infinite Lives	b	h	0	None
+2db4	0f	N	System Bus	1	Infinite Hit Points	b	h	0	None
+2dc3	01	N	System Bus	1	Invincible	b	h	0	None
+2dc2	01	N	System Bus	1	Power-Ups Don't Wear Off	b	h	0	None

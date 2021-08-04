@@ -1,5 +1,0 @@
-040A	BE	N	System Bus	1	Infinite Hit Points: Base	b	h	0	None	
-041A	96	N	System Bus	1	Infinite Hit Points: Main Robot	b	h	0	None	
-050A	01	N	System Bus	1	1-Hit Kill: Enemy's Base	b	h	0	None	
-051A	01	N	System Bus	1	1-Hit Kill: Enemy's Main Robot	b	h	0	None	
-0014	a8	N	System Bus	1	Reset Game to See Ending	b	h	0	None	

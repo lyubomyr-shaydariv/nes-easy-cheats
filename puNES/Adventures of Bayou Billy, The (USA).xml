@@ -24,7 +24,7 @@
 		<description>Have Gun</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x07C0</address>
+		<address>0x07C5</address>
 		<value>0xFF</value>
 		<description>Infinite Bullets</description>
 	</cheat>
@@ -49,7 +49,7 @@
 		<description>Have Bulletproof Vest</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AAETAGZA</genie>
+		<genie>PAETAGZA</genie>
 		<description>Start With 1 Life</description>
 	</cheat>
 	<cheat enabled="0">
@@ -65,6 +65,6 @@
 	<cheat enabled="0">
 		<address>0x07CE</address>
 		<value>0x00</value>
-		<description>Can't Use Bulletproof Vests</description>
+		<description>Can't Use Bulletproof Vest</description>
 	</cheat>
 </cheats>

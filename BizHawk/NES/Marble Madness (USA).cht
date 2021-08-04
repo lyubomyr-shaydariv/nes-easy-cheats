@@ -1,0 +1,11 @@
+a32e	5a	3c	System Bus	1	Start With 90 Seconds (Both players)	b	h	0	Equal
+0044	63	N	System Bus	1	P1 Infinite Time	b	h	0	None
+0045	63	N	System Bus	1	P2 Infinite Time	b	h	0	None
+0043	01	N	System Bus	1	Infinite Time (Both players)	b	h	0	None
+a2d2	70	46	System Bus	1	Slower Timer (1/2)	b	h	0	Equal
+a2de	70	46	System Bus	1	Slower Timer (2/2)	b	h	0	Equal
+a2d2	f0	46	System Bus	1	Super Slow Timer (1/2)	b	h	0	Equal
+a2de	f0	46	System Bus	1	Super Slow Timer (2/2)	b	h	0	Equal
+a32e	2	3c	System Bus	1	Start With 40 Seconds (Both players)	b	h	0	Equal
+a2d2	36	46	System Bus	1	Faster Timer (1/2)	b	h	0	Equal
+a2de	36	46	System Bus	1	Faster Timer (2/2)	b	h	0	Equal

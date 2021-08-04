@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x07BB</address>
+		<value>0x0A</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IZXOYVVK</genie>
+		<description>Infinite Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07B7</address>
+		<value>0x00</value>
+		<description>More Control After Being Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04CA</address>
+		<value>0x01</value>
+		<description>Key Is in First Target</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKEKSAPE</genie>
+		<description>Start on Final Room</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEOEPTZE</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0547</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAZTLE</genie>
+		<description>Start With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOPOALE</genie>
+		<description>Respawn With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAGTLE</genie>
+		<description>Start With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUPSALE</genie>
+		<description>Respawn With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0549</address>
+		<value>0x08</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0589</address>
+		<value>0x01</value>
+		<description>Invulnerable (Turn off to get notes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0548</address>
+		<value>0x38</value>
+		<description>Max POW</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKZXKPE</genie>
+		<description>Fast Standing Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEEZTGE</genie>
+		<description>Start With 9 Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0568</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOEPTZA</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUPSALA</genie>
+		<description>Respawn With 1 Hit Point</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0548</address>
+		<value>0x18</value>
+		<description>No POW Bonuses</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0565</address>
+		<value>0x00</value>
+		<description>No Continues</description>
+	</cheat>
+</cheats>

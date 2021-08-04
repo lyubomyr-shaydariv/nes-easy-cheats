@@ -1,0 +1,7 @@
+0074	09	N	System Bus	1	Infinite Lives	b	h	0	None
+0540	14	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0541	2f	N	System Bus	1	Infinite Hit Points For Zap	b	h	0	None
+007d	10	N	System Bus	1	Invulnerability	b	h	0	None
+0075	99	N	System Bus	1	Infinite Money	b	h	0	None
+0079	01	N	System Bus	1	Have High Jump	b	h	0	None
+009a	00	N	System Bus	1	Have Zap Whistle	b	h	0	None

@@ -1,0 +1,9 @@
+0429	63	N	System Bus	1	Infinite Lives	b	h	0	None
+0428	0c	N	System Bus	1	Infinite Hit Points	b	h	0	None
+a370	18	30	System Bus	1	Faster Enemy Hit Recovery	b	h	0	Equal
+a370	00	30	System Bus	1	Instant Enemy Hit Recovery (Use with infinite hit points)	b	h	0	Equal
+927a	18	30	System Bus	1	Faster Spike Hit Recovery	b	h	0	Equal
+927a	00	30	System Bus	1	Instant Spike Hit Recovery (Use with infinite hit points)	b	h	0	Equal
+8a00	ee	f3	System Bus	1	High Jump	b	h	0	Equal
+8a00	ee	f3	System Bus	1	Very High Jump	b	h	0	Equal
+8a4a	01	03	System Bus	1	Moon Gravity	b	h	0	Equal

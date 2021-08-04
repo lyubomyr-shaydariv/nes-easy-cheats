@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<genie>AENVZILE</genie>
+		<genie>AENVPILE</genie>
 		<description>Start With 9 Lives (Both players)</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>ZVNVZILA</genie>
+		<genie>ZVNVPILA</genie>
 		<description>Start With 99 Lives (Both players)</description>
 	</cheat>
 	<cheat enabled="0">
@@ -105,7 +105,7 @@
 		<description>Start On Level 12</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AENVZILA</genie>
+		<genie>AENVPILA</genie>
 		<description>Start With 1 Life (Both players)</description>
 	</cheat>
 </cheats>

@@ -8,7 +8,13 @@
 	<cheat enabled="0">
 		<address>0x0089</address>
 		<value>0x01</value>
-		<description>Invincible to Bullets</description>
+		<description>Invulnerable to Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD5AB</address>
+		<value>0x00</value>
+		<compare>0xC0</compare>
+		<description>Invulnerable to Walls</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0095</address>
@@ -49,5 +55,29 @@
 		<address>0x037D</address>
 		<value>0x02</value>
 		<description>Have Heat-Seeking Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCC74</address>
+		<value>0x02</value>
+		<compare>0x01</compare>
+		<description>Start on Stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCC74</address>
+		<value>0x03</value>
+		<compare>0x01</compare>
+		<description>Start on Stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCC74</address>
+		<value>0x04</value>
+		<compare>0x01</compare>
+		<description>Start on Stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCC74</address>
+		<value>0x05</value>
+		<compare>0x01</compare>
+		<description>Start on Stage 5</description>
 	</cheat>
 </cheats>

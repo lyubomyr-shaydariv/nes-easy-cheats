@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0703</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x070C</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x40</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00ED</address>
+		<value>0xFF</value>
+		<description>Have Power Mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007E</address>
+		<value>0x00</value>
+		<description>1-Knockdown Kills (1/3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007F</address>
+		<value>0x00</value>
+		<description>1-Knockdown Kills (2/3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0080</address>
+		<value>0x00</value>
+		<description>1-Knockdown Kills (3/3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0039</address>
+		<value>0x00</value>
+		<description>Fewer Enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0471</address>
+		<value>0x00</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

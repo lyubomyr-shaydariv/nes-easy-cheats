@@ -12,6 +12,18 @@
 		<description>Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x8692</address>
+		<value>0x08</value>
+		<compare>0x03</compare>
+		<description>Start With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x9891</address>
+		<value>0x08</value>
+		<compare>0x03</compare>
+		<description>Respawn With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x8698</address>
 		<value>0x08</value>
 		<compare>0x03</compare>
@@ -45,14 +57,19 @@
 		<description>Fast Standing Jump</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x0568</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x869D</address>
 		<value>0x00</value>
 		<compare>0x02</compare>
-		<description>Start With 1 Life</description>
+		<description>Start With 9 Lives</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x9701</address>
-		<value>0x01</value>
+		<value>0x00</value>
 		<compare>0x03</compare>
 		<description>Respawn With 1 Hit Point</description>
 	</cheat>
@@ -60,5 +77,10 @@
 		<address>0x0548</address>
 		<value>0x18</value>
 		<description>No POW Bonuses</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0565</address>
+		<value>0x00</value>
+		<description>No Continues</description>
 	</cheat>
 </cheats>

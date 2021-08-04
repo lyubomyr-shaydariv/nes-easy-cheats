@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0756</address>
+		<value>0x01</value>
+		<description>Have Super Mushroom</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0754</address>
+		<value>0x00</value>
+		<description>Player Is Tall (Still die from 1 hit)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0756</address>
+		<value>0x02</value>
+		<description>Have Fire Flower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x079F</address>
+		<value>0x08</value>
+		<description>Invincible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07EE</address>
+		<value>0x09</value>
+		<description>Infinite Time (Turn off at end of stage)</description>
+	</cheat>
+</cheats>

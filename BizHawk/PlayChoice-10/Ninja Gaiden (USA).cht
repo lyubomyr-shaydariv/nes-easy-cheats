@@ -1,0 +1,35 @@
+e53b	08	02	System Bus	1	Start With 9 Lives	b	h	0	Equal
+e53b	62	02	System Bus	1	Start With 99 Lives	b	h	0	Equal
+0076	09	N	System Bus	1	Infinite Lives	b	h	0	None
+e53f	1a	10	System Bus	1	Start With More Hit Points (1/2)	b	h	0	Equal
+e3f5	1a	10	System Bus	1	Start With More Hit Points (2/2)	b	h	0	Equal
+0065	10	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0095	30	N	System Bus	1	Invulnerable (After hit)	b	h	0	None
+00c9	81	N	System Bus	1	Have Throwing Star	b	h	0	None
+00c9	82	N	System Bus	1	Have Windmill Star	b	h	0	None
+00c9	85	N	System Bus	1	Have Jump-N-Slash	b	h	0	None
+00c9	80	N	System Bus	1	Have Fire Wheel	b	h	0	None
+00c9	84	N	System Bus	1	Have Fire Ring (Glitched in some areas)	b	h	0	None
+dbe2	0a	05	System Bus	1	Blue Boxes Give Double Ninja Points	b	h	0	Equal
+dbe6	14	0a	System Bus	1	Red Boxes Give Double Ninja Points	b	h	0	Equal
+dbe2	63	05	System Bus	1	Blue Boxes Give 99 Ninja Points	b	h	0	Equal
+dbe6	63	0a	System Bus	1	Red Boxes Give 99 Ninja Points	b	h	0	Equal
+0064	63	N	System Bus	1	Infinite Ninja Points (Turn off at end of act))	b	h	0	None
+ef67	01	03	System Bus	1	Throwing Star Costs 1	b	h	0	Equal
+efae	01	05	System Bus	1	Windmill Star Costs 1	b	h	0	Equal
+ed69	01	05	System Bus	1	Jump-N-Slash Costs 1 (1/2)	b	h	0	Equal
+ed0d	01	05	System Bus	1	Jump-N-Slash Costs 1 (2/2)	b	h	0	Equal
+ef67	00	03	System Bus	1	Throwing Star Is Free	b	h	0	Equal
+efae	00	05	System Bus	1	Windmill Star Is Free	b	h	0	Equal
+ed69	00	05	System Bus	1	Jump-N-Slash Is Free (1/2)	b	h	0	Equal
+ed0d	01	05	System Bus	1	Jump-N-Slash Is Free (2/2)	b	h	0	Equal
+dc60	10	08	System Bus	1	Fire Ring Lasts Twice As Long	b	h	0	Equal
+dc60	80	08	System Bus	1	Fire Ring Lasts Ten Times As Long	b	h	0	Equal
+ed04	fb	fc	System Bus	1	High Jump (1/2)	b	h	0	Equal
+eda8	fb	fc	System Bus	1	High Jump (2/2)	b	h	0	Equal
+f7f0	00	N	System Bus	1	Infinite Time	b	h	0	None
+e53b	00	02	System Bus	1	Start With 1 Life	b	h	0	Equal
+e53f	0a	10	System Bus	1	Start With Fewer Hit Points (1/2)	b	h	0	Equal
+e3f5	0a	10	System Bus	1	Start With Fewer Hit Points (2/2)	b	h	0	Equal
+e53f	01	10	System Bus	1	Start With 1 Hit Point (1/2)	b	h	0	Equal
+e3f5	01	10	System Bus	1	Start With 1 Hit Point (2/2)	b	h	0	Equal

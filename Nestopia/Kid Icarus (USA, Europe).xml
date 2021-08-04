@@ -46,13 +46,13 @@
 		<description>Infinite Bottles</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xD203</address>
+		<address>0xD103</address>
 		<value>0xC0</value>
 		<compare>0xE5</compare>
 		<description>High Jump</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xD203</address>
+		<address>0xD103</address>
 		<value>0x80</value>
 		<compare>0xE5</compare>
 		<description>Super High Jump</description>

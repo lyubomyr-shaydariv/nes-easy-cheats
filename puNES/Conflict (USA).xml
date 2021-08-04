@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0058</address>
+		<value>0x00</value>
+		<description>Blue always has 0 shells/missiles/bombs remaining in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0058</address>
+		<value>0x0F</value>
+		<description>Blue always has 15 shells/missiles/bombs remaining in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0059</address>
+		<value>0x00</value>
+		<description>Red always has 0 shells/missiles/bombs remaining in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0059</address>
+		<value>0x0F</value>
+		<description>Red always has 15 shells/missiles/bombs remaining in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAZYAA</genie>
+		<description>Blue always has 0 fame points (although the displayed tally won't reflect this immediately)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLZYAA</genie>
+		<description>Blue always has 5,000 fame points (although the displayed tally won't reflect this immediately)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTZYAA</genie>
+		<description>Blue always has 10,000 fame points (although the displayed tally won't reflect this immediately)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAZYPA</genie>
+		<description>Red always has 0 fame points (although the displayed tally won't reflect this immediately)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLZYPA</genie>
+		<description>Red always has 5,000 fame points (although the displayed tally won't reflect this immediately)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTZYPA</genie>
+		<description>Red always has 10,000 fame points (although the displayed tally won't reflect this immediately)</description>
+	</cheat>
+</cheats>

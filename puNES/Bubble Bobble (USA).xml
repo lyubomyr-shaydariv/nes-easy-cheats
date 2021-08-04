@@ -6,14 +6,14 @@
 		<description>P1 Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x003F</address>
-		<value>0x01</value>
-		<description>P1 Invulnerable</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x0042</address>
 		<value>0x0A</value>
 		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x003F</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0053</address>

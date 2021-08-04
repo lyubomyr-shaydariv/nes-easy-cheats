@@ -1,0 +1,5 @@
+0007c	1e	N	System Bus	1	Infinite Lives (Turn on after game starts)	b	h	0	None
+000b2	02	N	System Bus	1	Some Speed	b	h	0	None
+000b2	03	N	System Bus	1	More Speed	b	h	0	None
+000b2	04	N	System Bus	1	Lots of Speed	b	h	0	None
+01e06	09	N	System Bus	1	Infinite Continues	b	h	0	None

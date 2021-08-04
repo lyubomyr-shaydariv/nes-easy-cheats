@@ -16,6 +16,11 @@
 		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x077A</address>
+		<value>0x02</value>
+		<description>Invincible</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x011C</address>
 		<value>0x09</value>
 		<description>Infinite Stars</description>

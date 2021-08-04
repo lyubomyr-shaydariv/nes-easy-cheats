@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x003F</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0076</address>
+		<value>0x0A</value>
+		<description>Infinite Food</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0075</address>
+		<value>0x01</value>
+		<description>Invincible</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006D</address>
+		<value>0x01</value>
+		<description>Have Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x006E</address>
+		<value>0x01</value>
+		<description>Have Skateboard</description>
+	</cheat>
+</cheats>

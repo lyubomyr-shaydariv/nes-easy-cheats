@@ -1,0 +1,22 @@
+e0b213	05	N	M68K BUS	1	P1 Infinite Lives	b	h	0	None
+e0b273	05	N	M68K BUS	1	P2 Infinite Lives	b	h	0	None
+e0b210	01	N	M68K BUS	1	P1 Have Armor (1/2)	b	h	0	None
+e0b212	02	N	M68K BUS	1	P1 Have Armor (2/2)	b	h	0	None
+e0b270	01	N	M68K BUS	1	P2 Have Armor (1/2)	b	h	0	None
+e0b272	02	N	M68K BUS	1	P2 Have Armor (2/2)	b	h	0	None
+e0b317	ff	N	M68K BUS	1	Invulnerable	b	h	0	None
+e0b22c	00	N	M68K BUS	1	P1 Have Sword	b	h	0	None
+e0b22c	01	N	M68K BUS	1	P1 Have Dagger	b	h	0	None
+e0b22c	02	N	M68K BUS	1	P1 Have Fire Water	b	h	0	None
+e0b22c	03	N	M68K BUS	1	P1 Have Super Sword	b	h	0	None
+e0b22c	04	N	M68K BUS	1	P1 Have Big Axe	b	h	0	None
+e0b22c	05	N	M68K BUS	1	P1 Have Discus	b	h	0	None
+e0b22c	06	N	M68K BUS	1	P1 Have Magic Ball	b	h	0	None
+e0b28c	00	N	M68K BUS	1	P2 Have Sword	b	h	0	None
+e0b28c	01	N	M68K BUS	1	P2 Have Dagger	b	h	0	None
+e0b28c	02	N	M68K BUS	1	P2 Have Fire Water	b	h	0	None
+e0b28c	03	N	M68K BUS	1	P2 Have Super Sword	b	h	0	None
+e0b28c	04	N	M68K BUS	1	P2 Have Big Axe	b	h	0	None
+e0b28c	05	N	M68K BUS	1	P2 Have Discus	b	h	0	None
+e0b28c	06	N	M68K BUS	1	P2 Have Magic Ball	b	h	0	None
+e0b04b	3c	N	M68K BUS	1	Infinite Time	b	h	0	None

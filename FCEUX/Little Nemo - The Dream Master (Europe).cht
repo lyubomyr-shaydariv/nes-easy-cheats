@@ -4,10 +4,10 @@ S:008d:09:Infinite Lives
 S:05d0:06:Infinite Hit Points
 S:0630:01:Invulnerable
 S:008b:09:Infinite Keys
-SC:afc4:18:0a:Nemo High Jumps
-SC:afce:fb:fd:Nemo Fast Jumps
-SC:afc4:40:0a:Nemo Super High Jumps
-SC:afce:f8:fd:Nemo Super Fast Jumps
+SC:afc4:18:0a:High Jump
+SC:afce:fb:fd:Fast Jump
+SC:afc4:40:0a:Super High Jump
+SC:afce:f8:fd:Super Fast Jump
 SC:b1d7:04:01:Nemo Long Jumps - Right
 SC:b13d:fb:fe:Nemo Long Jumps - Left
 SC:d846:10:40:Moon Gravity
@@ -15,15 +15,15 @@ SC:aff4:fa:fc:Nemo High Jump Out of Water - Right
 SC:b001:f9:fb:Nemo High Jump Out of Water - Left
 SC:b1a3:03:01:Nemo Runs - Right
 SC:b109:fc:fe:Nemo Runs - Left
-SC:b5ce:ff:b4:Fly Longer As Hornet
-SC:b650:24:21:Fly Forever As Hornet
+SC:b5ce:ff:b4:Fly Longer As Bee
+SC:b650:24:21:Fly Forever As Bee
 SC:de7d:ff:78:Stun Lasts Longer
-SC:de3b:01:3c:Animals Instant-Chew Candy
 SC:b25e:01:03:Toads Tame Faster
 SC:b29f:01:03:Moles Tame Faster
 SC:b013:01:03:Lizards Tame Faster
 SC:b280:01:03:Gorillas Tame Faster
-SC:b56f:01:03:Hornets Tame Faster
+SC:b56f:01:03:Bees Tame Faster
+SC:de40:01:3c:Animals Instant-Chew Candy
 SC:cab9:01:00:Start On Dream 2
 SC:cab9:02:00:Start On Dream 3
 SC:cab9:03:00:Start On Dream 4
@@ -31,6 +31,5 @@ SC:cab9:04:00:Start On Dream 5
 SC:cab9:05:00:Start On Dream 6
 SC:cab9:06:00:Start On Dream 7
 SC:cab9:07:00:Start On Dream 8
-SC:cab9:08:00:Start On Dream 8, Part 2
 SC:cacd:00:03:Start With 1 Life
 S:008d:00:Start With 1 Life, No 1-Ups

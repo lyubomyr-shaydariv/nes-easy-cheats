@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0032</address>
+		<value>0x0A</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0046</address>
+		<value>0x0A</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x01</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0057</address>
+		<value>0x01</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+</cheats>

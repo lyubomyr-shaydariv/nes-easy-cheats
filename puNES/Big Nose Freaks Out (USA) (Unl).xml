@@ -3,7 +3,7 @@
 	<cheat enabled="0">
 		<address>0x0301</address>
 		<value>0x63</value>
-		<description>All Bones Found (Turn off at end of stage)</description>
+		<description>All Bones Found (Turn off to end stage)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x054B</address>

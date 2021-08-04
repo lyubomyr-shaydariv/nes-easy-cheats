@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0432</address>
+		<value>0x0A</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x041E</address>
+		<value>0x7F</value>
+		<description>P1 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CC</address>
+		<value>0xFE</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0433</address>
+		<value>0x0A</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x041F</address>
+		<value>0x7F</value>
+		<description>P2 Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03CD</address>
+		<value>0xFE</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8353</address>
+		<value>0x10</value>
+		<description>High Jump (Standing)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x83BD</address>
+		<value>0x10</value>
+		<description>High Jump (Walking)</description>
+	</cheat>
+</cheats>

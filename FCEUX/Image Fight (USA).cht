@@ -1,0 +1,19 @@
+S:0048:64:Infinite Lives (Both players)
+S:0404:01:Have Left Pod
+S:0405:00:Left Pod Is Blue
+S:0405:01:Left Pod Is Red
+S:0408:01:Have Right Pod
+S:0409:00:Right Pod Is Blue
+S:0409:01:Right Pod Is Red
+S:040c:01:Have Rear Pod
+S:040d:00:Rear Pod Is Blue
+S:040d:01:Rear Pod Is Red
+S:0043:01:Have V-Cannon
+S:0043:02:Have Rippling Laser
+S:0043:03:Have Drilling Laser
+S:0043:04:Have Seeking Missile
+S:0043:05:Have Seeking Laser
+S:0043:06:Have Shields
+S:0043:07:Have Reflecting Ball
+S:0043:08:Have 5-Way Gun
+S:0043:09:Have Side Shooter

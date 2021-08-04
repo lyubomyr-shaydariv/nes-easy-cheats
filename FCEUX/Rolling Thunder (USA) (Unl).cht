@@ -1,10 +1,15 @@
-SC:e09b:0a:03:Start With 9 Lives
-SC:e09b:64:03:Start With 99 Lives
+SC:e09b:0a:03:Start With 9 Lives (USA)
+SC:e09b:64:03:Start With 99 Lives (USA)
+SC:e07e:0a:03:Start With 9 Lives (Japan)
+SC:e07e:64:03:Start With 99 Lives (Japan)
 S:0088:0a:Infinite Lives
-S:0089:02:Infinite Hit Points (Bullets & grenades still kill)
+S:0089:02:Infinite Hit Points (Bullets &amp; grenades still kill)
 S:00a0:ff:Infinite Bullets
 S:00a1:ff:Infinite Magnum Bullets
-SC:e20f:ea:c6:Infinite Time (1/2)
-SC:e210:ea:59:Infinite Time (2/2)
-SC:e09b:01:03:Start With 1 Life
+SC:e20f:ea:c6:Infinite Time (1/2) (USA)
+SC:e210:ea:59:Infinite Time (1/2) (USA)
+SC:e1f6:ea:c6:Infinite Time (1/2) (Japan)
+SC:e1f7:ea:59:Infinite Time (1/2) (Japan)
+SC:e09b:01:03:Start With 1 Life (USA)
+SC:e07e:01:03:Start With 1 Life (Japan)
 S:0089:01:Any Hit Kills You

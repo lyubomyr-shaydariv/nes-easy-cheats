@@ -1,0 +1,12 @@
+057b	09	N	System Bus	1	Infinite Lives	b	h	0	None
+057e	38	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0497	01	N	System Bus	1	Have Machete	b	h	0	None
+0496	01	N	System Bus	1	Have Grapnel	b	h	0	None
+049d	63	N	System Bus	1	Infinite Knives	b	h	0	None
+049c	63	N	System Bus	1	Infinite Spears	b	h	0	None
+049b	63	N	System Bus	1	Infinite Arrows	b	h	0	None
+049e	63	N	System Bus	1	Infinite Axes	b	h	0	None
+0498	63	N	System Bus	1	Infinite Rocks	b	h	0	None
+0499	63	N	System Bus	1	Infinite Darts	b	h	0	None
+049a	63	N	System Bus	1	Infinite Golden Fists	b	h	0	None
+80be	f6	ff	System Bus	1	Fly With Helicopter	b	h	0	Equal

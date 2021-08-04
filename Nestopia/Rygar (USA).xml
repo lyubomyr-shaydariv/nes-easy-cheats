@@ -3,12 +3,12 @@
 	<cheat enabled="0">
 		<address>0x00CA</address>
 		<value>0x18</value>
-		<description>Full Max Hit Points</description>
+		<description>Have Full Max Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00CB</address>
 		<value>0x18</value>
-		<description>Full Hit Points (Use with Full Max Hit Points)</description>
+		<description>Have Full Hit Points (Use with "Have Full Max Hit Points")</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00C7</address>
@@ -26,13 +26,13 @@
 		<description>Have Full Mind</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x00CD</address>
+		<value>0x01</value>
+		<description>Have Attack &amp; Assail</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x00C2</address>
 		<value>0x14</value>
 		<description>Enemies Always Drop Items</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x00CD</address>
-		<value>0x01</value>
-		<description>Have Attack & Assail</description>
 	</cheat>
 </cheats>

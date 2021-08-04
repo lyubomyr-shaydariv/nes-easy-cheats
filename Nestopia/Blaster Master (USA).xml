@@ -47,6 +47,12 @@
 		<description>Infinite Multi-Warheads</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x9358</address>
+		<value>0xA5</value>
+		<compare>0xE6</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x0099</address>
 		<value>0xFF</value>
 		<description>Have All Powerups (1/2)</description>

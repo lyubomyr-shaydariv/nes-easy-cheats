@@ -2,11 +2,11 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<genie>AAVGZGZE</genie>
-		<description>Start With 9 Lives (Both players)</description>
+		<description>Start With 9 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>ZTVGZGZA</genie>
-		<description>Start With 99 Lives (Both players)</description>
+		<description>Start With 99 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0032</address>
@@ -16,7 +16,7 @@
 	<cheat enabled="0">
 		<address>0x00B0</address>
 		<value>0x7F</value>
-		<description>P1 Invincible (B Power Up)</description>
+		<description>P1 Invincible (B power up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AA</address>
@@ -46,7 +46,7 @@
 	<cheat enabled="0">
 		<address>0x00B1</address>
 		<value>0x7F</value>
-		<description>P2 Invincible (B Power Up)</description>
+		<description>P2 Invincible (B power up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AB</address>
@@ -70,19 +70,19 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>GXSIUZSO</genie>
-		<description>Keep Gun After Dying</description>
+		<description>Keep Gun After Dying (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>XNVSPVUN</genie>
-		<description>High Jump In Side View</description>
+		<description>High Jump In Side View (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>UNVSYVKN</genie>
-		<description>High Jump In Bases</description>
+		<description>High Jump In Bases (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AAVGZGZA</genie>
-		<description>Start With 1 Life (Both players)</description>
+		<description>Start With 1 Life (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0032</address>

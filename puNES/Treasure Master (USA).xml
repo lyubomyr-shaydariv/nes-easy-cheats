@@ -13,11 +13,11 @@
 	<cheat enabled="0">
 		<address>0x03E4</address>
 		<value>0xFF</value>
-		<description>Invincible</description>
+		<description>Invulnerable</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x0435</address>
-		<value>0x7D</value>
+		<address>0x03E4</address>
+		<value>0xFF</value>
 		<description>Infinite Oxygen</description>
 	</cheat>
 </cheats>

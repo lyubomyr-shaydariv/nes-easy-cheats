@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0048</address>
+		<value>0x64</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0404</address>
+		<value>0x01</value>
+		<description>Have Left Pod</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0405</address>
+		<value>0x00</value>
+		<description>Left Pod Is Blue</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0405</address>
+		<value>0x01</value>
+		<description>Left Pod Is Red</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0408</address>
+		<value>0x01</value>
+		<description>Have Right Pod</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0409</address>
+		<value>0x00</value>
+		<description>Right Pod Is Blue</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0409</address>
+		<value>0x01</value>
+		<description>Right Pod Is Red</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x040C</address>
+		<value>0x01</value>
+		<description>Have Rear Pod</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x040D</address>
+		<value>0x00</value>
+		<description>Rear Pod Is Blue</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x040D</address>
+		<value>0x01</value>
+		<description>Rear Pod Is Red</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x01</value>
+		<description>Have V-Cannon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x02</value>
+		<description>Have Rippling Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x03</value>
+		<description>Have Drilling Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x04</value>
+		<description>Have Seeking Missile</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x05</value>
+		<description>Have Seeking Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x06</value>
+		<description>Have Shields</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x07</value>
+		<description>Have Reflecting Ball</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x08</value>
+		<description>Have 5-Way Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0043</address>
+		<value>0x09</value>
+		<description>Have Side Shooter</description>
+	</cheat>
+</cheats>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<address>0x00DE</address>
-		<value>0x08</value>
-		<description>Infinite Hit Points</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x00DD</address>
 		<value>0x09</value>
 		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DE</address>
+		<value>0x08</value>
+		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>OZUUXAVK</genie>

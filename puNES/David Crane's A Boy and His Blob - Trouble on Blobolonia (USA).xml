@@ -10,13 +10,13 @@
 		<description>Invulnerable</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x00A9</address>
+		<address>0x00A0</address>
 		<value>0x09</value>
 		<description>Infinite Money</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AAVKIPPA</genie>
-		<description>Never Lose Jellybeans or Vitamins</description>
+		<description>Never Lose Jellybeans or Vitamins (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x02BE</address>

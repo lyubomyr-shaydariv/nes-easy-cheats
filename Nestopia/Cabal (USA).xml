@@ -30,4 +30,14 @@
 		<value>0xFB</value>
 		<description>P2 Infinite Grenades</description>
 	</cheat>
+	<cheat enabled="0">
+		<address>0x0078</address>
+		<value>0x02</value>
+		<description>P1 Always Have Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007A</address>
+		<value>0x02</value>
+		<description>P2 Always Have Machine Gun</description>
+	</cheat>
 </cheats>

@@ -1,0 +1,6 @@
+05e4	79	N	System Bus	1	Infinite Lives	b	h	0	None
+05b4	80	N	System Bus	1	Infinite Hit Points	b	h	0	None
+007c	01	N	System Bus	1	Invulnerable	b	h	0	None
+05be	79	N	System Bus	1	Infinite Gas Energy	b	h	0	None
+cbc3	06	04	System Bus	1	High Jump	b	h	0	Equal
+cbc3	09	04	System Bus	1	Super Jump	b	h	0	Equal

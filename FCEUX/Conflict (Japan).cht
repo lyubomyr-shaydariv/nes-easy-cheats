@@ -1,0 +1,10 @@
+S:0058:00:Blue always has 0 shells/missiles/bombs remaining in battle
+S:0058:0f:Blue always has 15 shells/missiles/bombs remaining in battle
+S:0059:00:Red always has 0 shells/missiles/bombs remaining in battle
+S:0059:0f:Red always has 15 shells/missiles/bombs remaining in battle
+S:7020:00:Blue always has 0 fame points (although the displayed tally won't reflect this immediately)
+S:7020:32:Blue always has 5,000 fame points (although the displayed tally won't reflect this immediately)
+S:7020:64:Blue always has 10,000 fame points (although the displayed tally won't reflect this immediately)
+S:7021:00:Red always has 0 fame points (although the displayed tally won't reflect this immediately)
+S:7021:32:Red always has 5,000 fame points (although the displayed tally won't reflect this immediately)
+S:7021:64:Red always has 10,000 fame points (although the displayed tally won't reflect this immediately)

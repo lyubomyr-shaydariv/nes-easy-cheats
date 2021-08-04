@@ -1,0 +1,4 @@
+043a	02	N	System Bus	1	Infinite Lives	b	h	0	None
+0424	20	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0438	58	N	System Bus	1	Have Gun (Must turn off "Have Grenades")	b	h	0	None
+0438	30	N	System Bus	1	Have Grenades (Must turn off "Have Gun")	b	h	0	None

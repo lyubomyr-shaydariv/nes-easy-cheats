@@ -72,7 +72,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00BF</address>
-		<value>0x63</value>
+		<value>0xFF</value>
 		<description>Infinite Missiles</description>
 	</cheat>
 	<cheat enabled="0">

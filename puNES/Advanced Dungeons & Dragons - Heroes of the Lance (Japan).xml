@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00B8</address>
+		<value>0x23</value>
+		<description>Infinite Hit Points - Tanis</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B9</address>
+		<value>0x24</value>
+		<description>Infinite Hit Points - Caramon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BA</address>
+		<value>0x08</value>
+		<description>Infinite Hit Points - Raistlin</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BB</address>
+		<value>0x1D</value>
+		<description>Infinite Hit Points - Sturm</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BC</address>
+		<value>0x13</value>
+		<description>Infinite Hit Points - Goldmoon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BD</address>
+		<value>0x22</value>
+		<description>Infinite Hit Points - Riverwind</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BE</address>
+		<value>0x0F</value>
+		<description>Infinite Hit Points - Tasslehoff</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BF</address>
+		<value>0x2A</value>
+		<description>Infinite Hit Points - Flint</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00C4</address>
+		<value>0x09</value>
+		<description>Infinite Money</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0070</address>
+		<value>0x05</value>
+		<description>Win Race (Activate after first lap)</description>
+	</cheat>
+</cheats>

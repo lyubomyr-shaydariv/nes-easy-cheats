@@ -1,6 +1,0 @@
-07f5	09	N	System Bus	1	P1 Starts With 900 Points	b	h	0	None	
-07f9	09	N	System Bus	1	P2 Starts With 900 Points	b	h	0	None	
-0034	04	N	System Bus	1	Start In 4th Quarter	b	h	0	None	
-ce40	01	04	System Bus	1	Game Ends After 1st Period	b	h	0	Equal	
-ce40	02	04	System Bus	1	Game Ends At Half	b	h	0	Equal	
-9440	0f	1f	System Bus	1	Timer Twice As Fast	b	h	0	Equal	

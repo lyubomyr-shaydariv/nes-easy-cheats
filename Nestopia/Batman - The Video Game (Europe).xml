@@ -2,7 +2,7 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<address>0x00BE</address>
-		<value>0x09</value>
+		<value>0x08</value>
 		<description>Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">

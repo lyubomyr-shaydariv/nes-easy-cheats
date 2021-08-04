@@ -1,0 +1,15 @@
+004d	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None
+0568	3c	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+0091	00	N	System Bus	1	P1 No Ground Knockdowns	b	h	0	None
+004e	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None
+056a	3c	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None
+0092	00	N	System Bus	1	P2 No Ground Knockdowns	b	h	0	None
+0033	00	N	System Bus	1	Both Players Are Leonardo (1/2)	b	h	0	None
+0034	00	N	System Bus	1	Both Players Are Leonardo (2/2)	b	h	0	None
+0033	01	N	System Bus	1	Both Players Are Michelangelo (1/2)	b	h	0	None
+0034	01	N	System Bus	1	Both Players Are Michelangelo (2/2)	b	h	0	None
+0033	02	N	System Bus	1	Both Players Are Donatello (1/2)	b	h	0	None
+0034	02	N	System Bus	1	Both Players Are Donatello (2/2)	b	h	0	None
+0033	03	N	System Bus	1	Both Players Are Raphael (1/2)	b	h	0	None
+0034	03	N	System Bus	1	Both Players Are Raphael (2/2)	b	h	0	None
+03d3	09	N	System Bus	1	Infinite Continues	b	h	0	None

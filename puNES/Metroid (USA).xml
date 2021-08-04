@@ -2,35 +2,31 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<address>0x0107</address>
-		<value>0x79</value>
+		<value>0x09</value>
 		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x6877</address>
-		<value>0x06</value>
+		<genie>TAYTNA</genie>
 		<description>All Energy Tanks</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>ZENSXLIE</genie>
+		<genie>ZENSOLIE</genie>
 		<description>Gain Double Missiles At Pickup</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>YENSXLIE</genie>
+		<genie>YENSOLIE</genie>
 		<description>Gain Triple Missiles At Pickup</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x6879</address>
-		<value>0xFF</value>
+		<genie>NYYVOE</genie>
 		<description>Infinite Missiles</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x6878</address>
-		<value>0x7F</value>
+		<genie>YYYVEE</genie>
 		<description>Have All Items and Wave Beam</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x6878</address>
-		<value>0xBF</value>
+		<genie>NLYVEE</genie>
 		<description>Have All Items and Ice Beam</description>
 	</cheat>
 	<cheat enabled="0">
@@ -38,7 +34,7 @@
 		<description>High Jump</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>ONSGNNKN</genie>
+		<genie>XNSGNNKN</genie>
 		<description>Super High Jump</description>
 	</cheat>
 	<cheat enabled="0">
@@ -50,13 +46,11 @@
 		<description>Non-Stop Jump (2/2)</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x687B</address>
-		<value>0x82</value>
+		<genie>XAYVUA</genie>
 		<description>Kraid Statue Up</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x687C</address>
-		<value>0x82</value>
+		<genie>XAYVKA</genie>
 		<description>Ridley Statue Up</description>
 	</cheat>
 	<cheat enabled="0">
@@ -65,8 +59,7 @@
 		<description>Infinite Escape Time (Use only after Mother Brain is dead)</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x6872</address>
-		<value>0x05</value>
+		<genie>IAYTXA</genie>
 		<description>Have Best Ending</description>
 	</cheat>
 </cheats>

@@ -1,11 +1,15 @@
 SC:869d:09:02:Start With 9 Lives
 S:0547:09:Infinite Lives
+SC:8692:08:03:Start With Max Hit Points
+SC:9891:08:03:Respawn With Max Hit Points
 SC:8698:08:03:Start With Max Hit Points
 SC:9701:08:03:Respawn With Max Hit Points
 S:0549:08:Infinite Hit Points
 S:0589:01:Invulnerable (Turn off to get notes)
 S:0548:38:Max POW
 SC:aac9:0f:09:Fast Standing Jump
-SC:869d:00:02:Start With 1 Life
-SC:9701:01:03:Respawn With 1 Hit Point
+S:0568:09:Infinite Continues
+SC:869d:00:02:Start With 9 Lives
+SC:9701:00:03:Respawn With 1 Hit Point
 S:0548:18:No POW Bonuses
+S:0565:00:No Continues

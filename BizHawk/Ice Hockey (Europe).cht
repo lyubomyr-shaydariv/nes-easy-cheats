@@ -1,8 +1,0 @@
-042f	63	N	System Bus	1	P1 Has 99 Goals (Updates on first goal)	b	h	0	None	
-0430	63	N	System Bus	1	P2 Has 99 Goals (Updates on first goal)	b	h	0	None	
-cec2	0a	13	System Bus	1	Timer Twice As Fast	b	h	0	Equal	
-cec2	05	13	System Bus	1	Timer Four Times As Fast	b	h	0	Equal	
-cec2	00	13	System Bus	1	Max Timer Speed	b	h	0	Equal	
-cec2	3f	13	System Bus	1	Game Seconds Are Real Seconds	b	h	0	Equal	
-9bdc	01	03	System Bus	1	Games Last 1 Period	b	h	0	Equal	
-9bdc	04	03	System Bus	1	Games Last 4 Periods	b	h	0	Equal	

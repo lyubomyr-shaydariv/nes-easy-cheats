@@ -1,0 +1,8 @@
+20d2	3f	N	System Bus	1	Infinite Hit Points	b	h	0	None
+2071	3f	N	System Bus	1	Invulnerable	b	h	0	None
+20d3	09	N	System Bus	1	Infinite Psycho Waves	b	h	0	None
+20c1	09	N	System Bus	1	Infinite Special Moves	b	h	0	None
+20c0	01	N	System Bus	1	Have Tornado Attack	b	h	0	None
+20c0	02	N	System Bus	1	Have 180 Degree Spin Kick	b	h	0	None
+20c0	03	N	System Bus	1	Have 360 Degree Spin Kick	b	h	0	None
+20c0	04	N	System Bus	1	Have Sky Attack	b	h	0	None

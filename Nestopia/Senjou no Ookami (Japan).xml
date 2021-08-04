@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x049C</address>
+		<value>0x09</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04A6</address>
+		<value>0x99</value>
+		<description>Infinite Grenades (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04AB</address>
+		<value>0xEF</value>
+		<description>Have All Powerups (Both players)</description>
+	</cheat>
+</cheats>

@@ -2,7 +2,7 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<address>0x0107</address>
-		<value>0x79</value>
+		<value>0x09</value>
 		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
@@ -11,13 +11,13 @@
 		<description>All Energy Tanks</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xDBFA</address>
+		<address>0xDBF9</address>
 		<value>0x0A</value>
 		<compare>0x05</compare>
 		<description>Gain Double Missiles At Pickup</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xDBFA</address>
+		<address>0xDBF9</address>
 		<value>0x0F</value>
 		<compare>0x05</compare>
 		<description>Gain Triple Missiles At Pickup</description>
@@ -45,7 +45,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0xCFD7</address>
-		<value>0xF9</value>
+		<value>0xFA</value>
 		<compare>0xFC</compare>
 		<description>Super High Jump</description>
 	</cheat>

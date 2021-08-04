@@ -18,12 +18,12 @@
 	<cheat enabled="0">
 		<address>0x0093</address>
 		<value>0x0C</value>
-		<description>P1 Have Max Fire</description>
+		<description>P1 Max Fire Length</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00B3</address>
 		<value>0x04</value>
-		<description>P1 Have Max Speed</description>
+		<description>P1 Max Speed</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AF</address>
@@ -38,12 +38,12 @@
 	<cheat enabled="0">
 		<address>0x00B0</address>
 		<value>0x02</value>
-		<description>P1 Invulnerable to Bombs (1/2)</description>
+		<description>P1 Immune to Bombs (1/2)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00B1</address>
 		<value>0x01</value>
-		<description>P1 Invulnerable to Bombs (2/2)</description>
+		<description>P1 Immune to Bombs (2/2)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x055A</address>

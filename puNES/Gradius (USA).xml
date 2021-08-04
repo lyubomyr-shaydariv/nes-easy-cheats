@@ -2,17 +2,17 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<address>0x0020</address>
-		<value>0x63</value>
+		<value>0x09</value>
 		<description>P1 Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0021</address>
-		<value>0x63</value>
+		<value>0x09</value>
 		<description>P2 Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0045</address>
-		<value>0x02</value>
+		<value>0x01</value>
 		<description>Have Both Options</description>
 	</cheat>
 	<cheat enabled="0">

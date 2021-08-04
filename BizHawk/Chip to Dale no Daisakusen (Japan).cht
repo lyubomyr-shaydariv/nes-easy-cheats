@@ -1,8 +1,0 @@
-05b4	89	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
-0210	18	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None	
-005e	01	N	System Bus	1	P1 Invulnerable to Most Enemies (Can be stunned)	b	h	0	None	
-05e4	89	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
-0224	18	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None	
-005f	01	N	System Bus	1	P2 Invulnerable to Most Enemies (Can be stunned)	b	h	0	None	
-c9af	0a	06	System Bus	1	High Jump	b	h	0	Equal	
-c9a3	08	04	System Bus	1	High Jump With Object	b	h	0	Equal	

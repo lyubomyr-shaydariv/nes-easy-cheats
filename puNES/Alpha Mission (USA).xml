@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<address>0x00DB</address>
-		<value>0x18</value>
-		<description>Infinite Energy</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x00DF</address>
 		<value>0x18</value>
 		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00DB</address>
+		<value>0x18</value>
+		<description>Infinite Energy</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00D2</address>

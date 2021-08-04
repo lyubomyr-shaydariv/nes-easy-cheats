@@ -10,4 +10,9 @@
 		<value>0x0A</value>
 		<description>Infinite Papers</description>
 	</cheat>
+	<cheat enabled="0">
+		<address>0x00B2</address>
+		<value>0x0A</value>
+		<description>Infinite Papers (Japan)</description>
+	</cheat>
 </cheats>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0085</address>
+		<value>0xFF</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0087</address>
+		<value>0x08</value>
+		<description>Infinite Food</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009A</address>
+		<value>0x02</value>
+		<description>Riding Red Camptosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009A</address>
+		<value>0x01</value>
+		<description>Riding Blue Camptosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009A</address>
+		<value>0x05</value>
+		<description>Riding Tripetaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009A</address>
+		<value>0x03</value>
+		<description>Riding Pteranodon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009A</address>
+		<value>0x04</value>
+		<description>Riding Elasmosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009C</address>
+		<value>0xFC</value>
+		<description>Have Weapon Set 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009D</address>
+		<value>0xFF</value>
+		<description>Have Weapon Set 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009E</address>
+		<value>0xFC</value>
+		<description>Have Special Items</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009F</address>
+		<value>0xFC</value>
+		<description>Have All Powers</description>
+	</cheat>
+</cheats>

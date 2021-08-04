@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0431</address>
+		<value>0x50</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x039A</address>
+		<value>0x50</value>
+		<description>Infinite Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0394</address>
+		<value>0x90</value>
+		<description>Infinite Gold</description>
+	</cheat>
+</cheats>

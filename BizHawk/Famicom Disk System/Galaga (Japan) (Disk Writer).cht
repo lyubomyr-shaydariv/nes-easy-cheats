@@ -1,0 +1,7 @@
+cd4c	09	03	System Bus	1	Start With 9 Lives	b	h	0	Equal
+cd4c	63	03	System Bus	1	Start With 99 Lives	b	h	0	Equal
+0487	09	N	System Bus	1	Infinite Lives	b	h	0	None
+e87d	60	a6	System Bus	1	Invincible	b	h	0	Equal
+e089	24	d0	System Bus	1	Have Double	b	h	0	Equal
+cd4c	01	03	System Bus	1	Start With 1 Life	b	h	0	Equal
+0487	00	N	System Bus	1	Start With 1 Life, No 1-Ups	b	h	0	None

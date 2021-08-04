@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
+		<address>0xC9B6</address>
+		<value>0x09</value>
+		<compare>0x04</compare>
+		<description>Start With 9 Lives (Both players) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9B6</address>
+		<value>0x63</value>
+		<compare>0x04</compare>
+		<description>Start With 99 Lives (Both players) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x0028</address>
 		<value>0x09</value>
 		<description>P1 Infinite Lives</description>
@@ -13,22 +25,27 @@
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x02</value>
-		<description>P1 Has T</description>
+		<description>P1 Has T Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x03</value>
-		<description>P1 Has F</description>
+		<description>P1 Has F Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x04</value>
-		<description>P1 Has L</description>
+		<description>P1 Has L Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x01</value>
-		<description>P1 Has S</description>
+		<description>P1 Has S Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0600</address>
+		<value>0x24</value>
+		<description>P1 Has Atomic Bombs</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0029</address>
@@ -43,22 +60,93 @@
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x02</value>
-		<description>P2 Has T</description>
+		<description>P2 Has T Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x03</value>
-		<description>P2 Has F</description>
+		<description>P2 Has F Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x04</value>
-		<description>P2 Has L</description>
+		<description>P2 Has L Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x01</value>
-		<description>P2 Has S</description>
+		<description>P2 Has S Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0601</address>
+		<value>0x24</value>
+		<description>P2 Has Atomic Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AB</address>
+		<value>0xA9</value>
+		<compare>0xA5</compare>
+		<description>Start On Stage X (Part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x01</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 2 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x02</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 3 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x03</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 4 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x04</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 5 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x05</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 6 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x06</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 7 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x07</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 8 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x08</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 9 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9AC</address>
+		<value>0x09</value>
+		<compare>0x39</compare>
+		<description>Start On Stage 10 (Use with part 1) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xC9B6</address>
+		<value>0x00</value>
+		<compare>0x04</compare>
+		<description>Start With 1 Life (Both players)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0028</address>

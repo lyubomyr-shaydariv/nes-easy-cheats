@@ -1,0 +1,6 @@
+00b2	63	N	System Bus	1	Infinite Lives	b	h	0	None
+00ba	01	N	System Bus	1	3-Way Shooting	b	h	0	None
+c27b	02	01	System Bus	1	Start on Level 2	b	h	0	Equal
+c27b	03	01	System Bus	1	Start on Level 3	b	h	0	Equal
+c27b	04	01	System Bus	1	Start on Level 4	b	h	0	Equal
+c27b	05	01	System Bus	1	Start on Level 5	b	h	0	Equal

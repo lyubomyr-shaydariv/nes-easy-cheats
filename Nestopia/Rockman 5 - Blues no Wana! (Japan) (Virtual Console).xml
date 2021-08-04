@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00BF</address>
+		<value>0x06</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x9C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BD</address>
+		<value>0x82</value>
+		<description>Infinite Energy Tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B1</address>
+		<value>0x9C</value>
+		<description>Infinite Water Wave</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B2</address>
+		<value>0x9C</value>
+		<description>Infinite Gyro Attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B3</address>
+		<value>0x9C</value>
+		<description>Infinite C. Eye</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B4</address>
+		<value>0x9C</value>
+		<description>Infinite Napalm Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B5</address>
+		<value>0x9C</value>
+		<description>Infinite Super Arrow</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B6</address>
+		<value>0x9C</value>
+		<description>Infinite Stone Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B7</address>
+		<value>0x9C</value>
+		<description>Infinite Gravity Hold</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B8</address>
+		<value>0x9C</value>
+		<description>Infinite Charge Kick</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B9</address>
+		<value>0x9C</value>
+		<description>Infinite Star Crash</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BA</address>
+		<value>0x9C</value>
+		<description>Infinite Recoil</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BB</address>
+		<value>0x9C</value>
+		<description>Infinite Rush Jet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BC</address>
+		<value>0x9C</value>
+		<description>Infinite Beat</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0458</address>
+		<value>0x01</value>
+		<description>1-Hit Boss Kills (Turn on after boss's hit points fill)</description>
+	</cheat>
+</cheats>

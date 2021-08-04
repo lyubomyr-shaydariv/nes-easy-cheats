@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x07D2</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07D3</address>
+		<value>0x0B</value>
+		<description>Infinite Food (Turn off at end of stage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x60</value>
+		<description>Invulnerable (Can't pickup anything)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07D5</address>
+		<value>0x01</value>
+		<description>Have Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x10</value>
+		<description>Riding Skateboard</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x30</value>
+		<description>Riding Red Camptosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x20</value>
+		<description>Riding Blue Camptosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x40</value>
+		<description>Riding Pteranodon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x50</value>
+		<description>Riding Elasmosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07CC</address>
+		<value>0x09</value>
+		<description>Infinite Axes in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07C8</address>
+		<value>0x09</value>
+		<description>Infinite Red Camptosaurus in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07C9</address>
+		<value>0x09</value>
+		<description>Infinite Blue Camptosaurus in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07CB</address>
+		<value>0x09</value>
+		<description>Infinite Pteranodon in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07CA</address>
+		<value>0x09</value>
+		<description>Infinite Elasmosaurus in Storage</description>
+	</cheat>
+</cheats>

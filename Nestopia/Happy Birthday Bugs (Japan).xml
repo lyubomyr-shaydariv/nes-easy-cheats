@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0429</address>
+		<value>0x63</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0428</address>
+		<value>0x0C</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA370</address>
+		<value>0x18</value>
+		<compare>0x30</compare>
+		<description>Faster Enemy Hit Recovery</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xA370</address>
+		<value>0x00</value>
+		<compare>0x30</compare>
+		<description>Instant Enemy Hit Recovery (Use with infinite hit points)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x927A</address>
+		<value>0x18</value>
+		<compare>0x30</compare>
+		<description>Faster Spike Hit Recovery</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x927A</address>
+		<value>0x00</value>
+		<compare>0x30</compare>
+		<description>Instant Spike Hit Recovery (Use with infinite hit points)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8A00</address>
+		<value>0xEE</value>
+		<compare>0xF3</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8A00</address>
+		<value>0xEE</value>
+		<compare>0xF3</compare>
+		<description>Very High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x8A4A</address>
+		<value>0x01</value>
+		<compare>0x03</compare>
+		<description>Moon Gravity</description>
+	</cheat>
+</cheats>

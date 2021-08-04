@@ -32,18 +32,46 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0657</address>
+		<value>0x01</value>
+		<description>Have Wooden Sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0657</address>
+		<value>0x02</value>
+		<description>Have White Sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0657</address>
 		<value>0x03</value>
-		<description>Have Magic Sword</description>
+		<description>Have Magical Sword</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0676</address>
 		<value>0x01</value>
-		<description>Have Magic Shield</description>
+		<description>Have Magical Shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0662</address>
+		<value>0x01</value>
+		<description>Have Blue Ring (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLATKA</genie>
+		<description>Have Blue Ring (2/2)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0662</address>
 		<value>0x02</value>
-		<description>Have Red Ring (Link's color doesn't change)</description>
+		<description>Have Red Ring (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPATKA</genie>
+		<description>Have Red Ring (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x065E</address>
+		<value>0x01</value>
+		<description>Have Blue Medicine</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x065E</address>
@@ -63,7 +91,7 @@
 	<cheat enabled="0">
 		<address>0x0675</address>
 		<value>0x01</value>
-		<description>Have Magic Boomerang</description>
+		<description>Have Magical Boomerang</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x065A</address>
@@ -72,8 +100,18 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0659</address>
+		<value>0x01</value>
+		<description>Have Wooden Arrows</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0659</address>
 		<value>0x02</value>
 		<description>Have Silver Arrows</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x065B</address>
+		<value>0x01</value>
+		<description>Have Blue Candle</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x065B</address>
@@ -98,7 +136,7 @@
 	<cheat enabled="0">
 		<address>0x065F</address>
 		<value>0x01</value>
-		<description>Have Magic Rod</description>
+		<description>Have Magical Rod</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0660</address>
@@ -132,12 +170,12 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0669</address>
-		<value>0x01</value>
+		<value>0xFF</value>
 		<description>Have Level 9 Compass</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x066A</address>
-		<value>0x01</value>
+		<value>0xFF</value>
 		<description>Have Level 9 Map</description>
 	</cheat>
 	<cheat enabled="0">

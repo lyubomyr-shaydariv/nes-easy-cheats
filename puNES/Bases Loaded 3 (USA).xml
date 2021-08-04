@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x009B</address>
+		<value>0x64</value>
+		<description>Perfect Score at End of Game</description>
+	</cheat>
+</cheats>

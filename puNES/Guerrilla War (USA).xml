@@ -2,11 +2,11 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<genie>PEUGVPGE</genie>
-		<description>Start With 9 Lives (Both players)</description>
+		<description>Start With 9 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>LVUGVPGA</genie>
-		<description>Start With 99 Lives (Both players)</description>
+		<description>Start With 99 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0028</address>
@@ -21,22 +21,22 @@
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x02</value>
-		<description>P1 Has T</description>
+		<description>P1 Has T Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x03</value>
-		<description>P1 Has F</description>
+		<description>P1 Has F Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x04</value>
-		<description>P1 Has L</description>
+		<description>P1 Has L Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x01</value>
-		<description>P1 Has S</description>
+		<description>P1 Has S Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
@@ -56,22 +56,22 @@
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x02</value>
-		<description>P2 Has T</description>
+		<description>P2 Has T Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x03</value>
-		<description>P2 Has F</description>
+		<description>P2 Has F Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x04</value>
-		<description>P2 Has L</description>
+		<description>P2 Has L Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x01</value>
-		<description>P2 Has S</description>
+		<description>P2 Has S Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
@@ -80,43 +80,43 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>OXXKUPSX</genie>
-		<description>Start On Level X (Part 1)</description>
+		<description>Start On Stage X (Part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>PEXKKOPL</genie>
-		<description>Start On Level 2 (Use with part 1)</description>
+		<description>Start On Stage 2 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>ZEXKKOPL</genie>
-		<description>Start On Level 3 (Use with part 1)</description>
+		<description>Start On Stage 3 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>LEXKKOPL</genie>
-		<description>Start On Level 4 (Use with part 1)</description>
+		<description>Start On Stage 4 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>GEXKKOPL</genie>
-		<description>Start On Level 5 (Use with part 1)</description>
+		<description>Start On Stage 5 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>IEXKKOPL</genie>
-		<description>Start On Level 6 (Use with part 1)</description>
+		<description>Start On Stage 6 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>TEXKKOPL</genie>
-		<description>Start On Level 7 (Use with part 1)</description>
+		<description>Start On Stage 7 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>YEXKKOPL</genie>
-		<description>Start On Level 8 (Use with part 1)</description>
+		<description>Start On Stage 8 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AEXKKOPU</genie>
-		<description>Start On Level 9 (Use with part 1)</description>
+		<description>Start On Stage 9 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>PEXKKOPU</genie>
-		<description>Start On Level 10 (Use with part 1)</description>
+		<description>Start On Stage 10 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AEUGVPGA</genie>

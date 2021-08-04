@@ -1,0 +1,19 @@
+0048	64	N	System Bus	1	Infinite Lives (Both players)	b	h	0	None
+0404	01	N	System Bus	1	Have Left Pod	b	h	0	None
+0405	00	N	System Bus	1	Left Pod Is Blue	b	h	0	None
+0405	01	N	System Bus	1	Left Pod Is Red	b	h	0	None
+0408	01	N	System Bus	1	Have Right Pod	b	h	0	None
+0409	00	N	System Bus	1	Right Pod Is Blue	b	h	0	None
+0409	01	N	System Bus	1	Right Pod Is Red	b	h	0	None
+040c	01	N	System Bus	1	Have Rear Pod	b	h	0	None
+040d	00	N	System Bus	1	Rear Pod Is Blue	b	h	0	None
+040d	01	N	System Bus	1	Rear Pod Is Red	b	h	0	None
+0043	01	N	System Bus	1	Have V-Cannon	b	h	0	None
+0043	02	N	System Bus	1	Have Rippling Laser	b	h	0	None
+0043	03	N	System Bus	1	Have Drilling Laser	b	h	0	None
+0043	04	N	System Bus	1	Have Seeking Missile	b	h	0	None
+0043	05	N	System Bus	1	Have Seeking Laser	b	h	0	None
+0043	06	N	System Bus	1	Have Shields	b	h	0	None
+0043	07	N	System Bus	1	Have Reflecting Ball	b	h	0	None
+0043	08	N	System Bus	1	Have 5-Way Gun	b	h	0	None
+0043	09	N	System Bus	1	Have Side Shooter	b	h	0	None

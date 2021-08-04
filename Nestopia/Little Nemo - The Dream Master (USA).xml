@@ -36,25 +36,25 @@
 		<address>0xAFC4</address>
 		<value>0x18</value>
 		<compare>0x0A</compare>
-		<description>Nemo High Jumps</description>
+		<description>High Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xAFCE</address>
 		<value>0xFB</value>
 		<compare>0xFD</compare>
-		<description>Nemo Fast Jumps</description>
+		<description>Fast Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xAFC4</address>
 		<value>0x40</value>
 		<compare>0x0A</compare>
-		<description>Nemo Super High Jumps</description>
+		<description>Super High Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xAFCE</address>
 		<value>0xF8</value>
 		<compare>0xFD</compare>
-		<description>Nemo Super Fast Jumps</description>
+		<description>Super Fast Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xB1D7</address>
@@ -102,25 +102,19 @@
 		<address>0xB5CE</address>
 		<value>0xFF</value>
 		<compare>0xB4</compare>
-		<description>Fly Longer As Hornet</description>
+		<description>Fly Longer As Bee</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xB650</address>
 		<value>0x24</value>
 		<compare>0x21</compare>
-		<description>Fly Forever As Hornet</description>
+		<description>Fly Forever As Bee</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xDE7D</address>
 		<value>0xFF</value>
 		<compare>0x78</compare>
 		<description>Stun Lasts Longer</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0xDE40</address>
-		<value>0x01</value>
-		<compare>0x3C</compare>
-		<description>Animals Instant-Chew Candy</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xB25E</address>
@@ -150,7 +144,13 @@
 		<address>0xB56F</address>
 		<value>0x01</value>
 		<compare>0x03</compare>
-		<description>Hornets Tame Faster</description>
+		<description>Bees Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDE40</address>
+		<value>0x01</value>
+		<compare>0x3C</compare>
+		<description>Animals Instant-Chew Candy</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xCAB9</address>
@@ -193,12 +193,6 @@
 		<value>0x07</value>
 		<compare>0x00</compare>
 		<description>Start On Dream 8</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0xCAB9</address>
-		<value>0x08</value>
-		<compare>0x00</compare>
-		<description>Start On Dream 8, Part 2</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xCACD</address>

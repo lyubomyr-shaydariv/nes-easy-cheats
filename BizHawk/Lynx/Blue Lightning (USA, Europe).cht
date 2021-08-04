@@ -1,0 +1,2 @@
+0050	05	N	RAM	1	Infinite Lives (Turn on after game start)	b	h	0	None
+006b	ff	N	RAM	1	Infinite Missiles (Turn on after game start)	b	h	0	None

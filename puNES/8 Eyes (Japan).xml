@@ -20,4 +20,9 @@
 		<value>0x4F</value>
 		<description>Infinite Item Power</description>
 	</cheat>
+	<cheat enabled="0">
+		<address>0x009D</address>
+		<value>0xFF</value>
+		<description>Doors Remain Open</description>
+	</cheat>
 </cheats>

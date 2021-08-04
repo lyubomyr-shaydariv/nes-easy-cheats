@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0xD359</address>
+		<value>0x08</value>
+		<compare>0x02</compare>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD359</address>
+		<value>0x62</value>
+		<compare>0x02</compare>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0048</address>
+		<value>0x04</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004C</address>
+		<value>0x04</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xDCE0</address>
+		<value>0x60</value>
+		<compare>0xD6</compare>
+		<description>Invulnerable (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0070</address>
+		<value>0x03</value>
+		<description>Infinite POW</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04B3</address>
+		<value>0x02</value>
+		<description>Infinite Time In Bonus Rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xEA88</address>
+		<value>0x51</value>
+		<compare>0x50</compare>
+		<description>No Red Fireballs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0431</address>
+		<value>0xFF</value>
+		<description>No Green Fireballs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xD359</address>
+		<value>0x0</value>
+		<compare>0x02</compare>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+</cheats>

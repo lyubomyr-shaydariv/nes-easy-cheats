@@ -1,0 +1,16 @@
+00bf	06	N	System Bus	1	Infinite Lives	b	h	0	None
+00b0	9c	N	System Bus	1	Infinite Hit Points	b	h	0	None
+00bd	82	N	System Bus	1	Infinite Energy Tanks	b	h	0	None
+00b1	9c	N	System Bus	1	Infinite Water Wave	b	h	0	None
+00b2	9c	N	System Bus	1	Infinite Gyro Attack	b	h	0	None
+00b3	9c	N	System Bus	1	Infinite C. Eye	b	h	0	None
+00b4	9c	N	System Bus	1	Infinite Napalm Bomb	b	h	0	None
+00b5	9c	N	System Bus	1	Infinite Super Arrow	b	h	0	None
+00b6	9c	N	System Bus	1	Infinite Stone Power	b	h	0	None
+00b7	9c	N	System Bus	1	Infinite Gravity Hold	b	h	0	None
+00b8	9c	N	System Bus	1	Infinite Charge Kick	b	h	0	None
+00b9	9c	N	System Bus	1	Infinite Star Crash	b	h	0	None
+00ba	9c	N	System Bus	1	Infinite Recoil	b	h	0	None
+00bb	9c	N	System Bus	1	Infinite Rush Jet	b	h	0	None
+00bc	9c	N	System Bus	1	Infinite Beat	b	h	0	None
+0458	01	N	System Bus	1	1-Hit Boss Kills (Turn on after boss's hit points fill)	b	h	0	None

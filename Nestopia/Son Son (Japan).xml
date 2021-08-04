@@ -8,6 +8,16 @@
 	<cheat enabled="0">
 		<address>0x0432</address>
 		<value>0x03</value>
-		<description>P2 Infinite Lives</description>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0433</address>
+		<value>0x80</value>
+		<description>P1 Invulnerable (Can't face left)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0434</address>
+		<value>0x80</value>
+		<description>P2 Invulnerable (Can't face left)</description>
 	</cheat>
 </cheats>

@@ -30,19 +30,19 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>AOKZKNZE</genie>
-		<description>Nemo High Jumps</description>
+		<description>High Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>UNKXVNSN</genie>
-		<description>Nemo Fast Jumps</description>
+		<description>Fast Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AKKZKNZA</genie>
-		<description>Nemo Super High Jumps</description>
+		<description>Super High Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>ENKXVNSN</genie>
-		<description>Nemo Super Fast Jumps</description>
+		<description>Super Fast Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>GESLYPPA</genie>
@@ -74,19 +74,15 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>NNKUTIKU</genie>
-		<description>Fly Longer As Hornet</description>
+		<description>Fly Longer As Bee</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>GZSLATPZ</genie>
-		<description>Fly Forever As Hornet</description>
+		<description>Fly Forever As Bee</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>NYNSSVAN</genie>
 		<description>Stun Lasts Longer</description>
-	</cheat>
-	<cheat enabled="0">
-		<genie>PAUSUVGL</genie>
-		<description>Animals Instant-Chew Candy</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>PASUTZLA</genie>
@@ -106,7 +102,11 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>PAVUYILA</genie>
-		<description>Hornets Tame Faster</description>
+		<description>Bees Tame Faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKIEVGL</genie>
+		<description>Animals Instant-Chew Candy</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>PEUKOZAA</genie>
@@ -135,10 +135,6 @@
 	<cheat enabled="0">
 		<genie>YEUKOZAA</genie>
 		<description>Start On Dream 8</description>
-	</cheat>
-	<cheat enabled="0">
-		<genie>AEUKOZAE</genie>
-		<description>Start On Dream 8, Part 2</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AEKKSZLA</genie>

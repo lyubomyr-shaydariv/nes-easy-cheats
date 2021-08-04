@@ -1,0 +1,42 @@
+0739	ff	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+0743	01	N	System Bus	1	P1 Infinite Keys	b	h	0	None
+0748	01	N	System Bus	1	P1 Infinite Potions	b	h	0	None
+0702	3f	N	System Bus	1	P1 All Power Ups	b	h	0	None
+07a8	00	N	System Bus	1	P1 Can Shoot Faster	b	h	0	None
+071b	01	N	System Bus	1	P1 Has Super Shot	b	h	0	None
+0707	01	N	System Bus	1	P1 Invisible	b	h	0	None
+0711	01	N	System Bus	1	P1 Repulsive	b	h	0	None
+0716	01	N	System Bus	1	P1 Has Reflective Shot	b	h	0	None
+0720	01	N	System Bus	1	P1 Has Transportability	b	h	0	None
+073a	ff	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None
+0744	01	N	System Bus	1	P2 Infinite Keys	b	h	0	None
+0749	01	N	System Bus	1	P2 Infinite Potions	b	h	0	None
+0703	3f	N	System Bus	1	P2 All Power Ups	b	h	0	None
+07a9	00	N	System Bus	1	P2 Can Shoot Faster	b	h	0	None
+071c	01	N	System Bus	1	P2 Has Super Shot	b	h	0	None
+0708	01	N	System Bus	1	P2 Invisible	b	h	0	None
+0712	01	N	System Bus	1	P2 Repulsive	b	h	0	None
+0717	01	N	System Bus	1	P2 Has Reflective Shot	b	h	0	None
+0721	01	N	System Bus	1	P2 Has Transportability	b	h	0	None
+073b	ff	N	System Bus	1	P3 Infinite Hit Points	b	h	0	None
+0745	01	N	System Bus	1	P3 Infinite Keys	b	h	0	None
+074a	01	N	System Bus	1	P3 Infinite Potions	b	h	0	None
+0704	3f	N	System Bus	1	P3 All Power Ups	b	h	0	None
+07aa	00	N	System Bus	1	P3 Can Shoot Faster	b	h	0	None
+071d	01	N	System Bus	1	P3 Has Super Shot	b	h	0	None
+0709	01	N	System Bus	1	P3 Invisible	b	h	0	None
+0713	01	N	System Bus	1	P3 Repulsive	b	h	0	None
+0718	01	N	System Bus	1	P3 Has Reflective Shot	b	h	0	None
+0722	01	N	System Bus	1	P3 Has Transportability	b	h	0	None
+073c	ff	N	System Bus	1	P4 Infinite Hit Points	b	h	0	None
+0746	01	N	System Bus	1	P4 Infinite Keys	b	h	0	None
+074b	01	N	System Bus	1	P4 Infinite Potions	b	h	0	None
+0705	3f	N	System Bus	1	P4 All Power Ups	b	h	0	None
+07ab	00	N	System Bus	1	P4 Can Shoot Faster	b	h	0	None
+071e	01	N	System Bus	1	P4 Has Super Shot	b	h	0	None
+070a	01	N	System Bus	1	P4 Invisible	b	h	0	None
+0714	01	N	System Bus	1	P4 Repulsive	b	h	0	None
+0719	01	N	System Bus	1	P4 Has Reflective Shot	b	h	0	None
+0723	01	N	System Bus	1	P4 Has Transportability	b	h	0	None
+060b	7f	N	System Bus	1	P4 Has Infinite Time In Treasure/Secret Rooms	b	h	0	None
+0071	00	N	System Bus	1	Nobody Is Ever "It"	b	h	0	None

@@ -1,0 +1,5 @@
+07bb	0a	N	System Bus	1	Infinite Lives	b	h	0	None
+962f	2d	ce	System Bus	1	Infinite Time	b	h	0	Equal
+07b7	00	N	System Bus	1	More Control After Being Hit	b	h	0	None
+04ca	01	N	System Bus	1	Key Is in First Target	b	h	0	None
+c88d	48	01	System Bus	1	Start on Final Room	b	h	0	Equal

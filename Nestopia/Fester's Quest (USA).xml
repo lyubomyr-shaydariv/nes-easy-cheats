@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x04E9</address>
+		<value>0x04</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04F8</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04E7</address>
+		<value>0x08</value>
+		<description>Have Best Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0162</address>
+		<value>0x64</value>
+		<description>Infinite Money</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x015D</address>
+		<value>0x64</value>
+		<description>Infinite Keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x015C</address>
+		<value>0x64</value>
+		<description>Infinite Bulbs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0160</address>
+		<value>0x64</value>
+		<description>Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0163</address>
+		<value>0x64</value>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0164</address>
+		<value>0x64</value>
+		<description>Infinite T.N.T.</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0161</address>
+		<value>0x64</value>
+		<description>Infinite Invisibility Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x015E</address>
+		<value>0x64</value>
+		<description>Infinite Nooses</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x015F</address>
+		<value>0x64</value>
+		<description>Infinite Vice Grips</description>
+	</cheat>
+</cheats>

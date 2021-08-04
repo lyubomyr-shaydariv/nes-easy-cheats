@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x07E5</address>
+		<value>0x99</value>
+		<description>P1 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07E6</address>
+		<value>0x99</value>
+		<description>P2 Has 99 Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUGTTYA</genie>
+		<description>Faster Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUGTTYA</genie>
+		<description>Fastest Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUGTTYE</genie>
+		<description>Slower Timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKETZA</genie>
+		<description>10 Minute Periods</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXKETZA</genie>
+		<description>40 Minute Periods</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,11 @@
+0369	ff	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+038d	09	N	System Bus	1	P1 Power	b	h	0	None
+038f	09	N	System Bus	1	P1 Punch	b	h	0	None
+0391	09	N	System Bus	1	P1 Speed	b	h	0	None
+0393	09	N	System Bus	1	P1 Stamina	b	h	0	None
+0319	ff	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None
+033d	09	N	System Bus	1	P2 Power	b	h	0	None
+033f	09	N	System Bus	1	P2 Punch	b	h	0	None
+0341	09	N	System Bus	1	P2 Speed	b	h	0	None
+0343	09	N	System Bus	1	P2 Stamina	b	h	0	None
+06e5	09	N	System Bus	1	Infinite Time	b	h	0	None

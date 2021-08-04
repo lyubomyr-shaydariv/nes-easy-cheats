@@ -51,7 +51,7 @@
 		<description>Start With 9 Continues</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x0565</address>
+		<address>0x0568</address>
 		<value>0x09</value>
 		<description>Infinite Continues</description>
 	</cheat>
@@ -59,11 +59,11 @@
 		<address>0x8697</address>
 		<value>0x00</value>
 		<compare>0x02</compare>
-		<description>Start With 1 Life</description>
+		<description>Start With 9 Lives</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x9891</address>
-		<value>0x01</value>
+		<value>0x00</value>
 		<compare>0x03</compare>
 		<description>Respawn With 1 Hit Point</description>
 	</cheat>

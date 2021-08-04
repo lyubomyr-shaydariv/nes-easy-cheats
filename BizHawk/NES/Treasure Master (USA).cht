@@ -1,0 +1,4 @@
+00f5	03	N	System Bus	1	Infinite Lives	b	h	0	None
+00f6	04	N	System Bus	1	Infinite Hit Points	b	h	0	None
+03e4	ff	N	System Bus	1	Invulnerable	b	h	0	None
+03e4	ff	N	System Bus	1	Infinite Oxygen	b	h	0	None

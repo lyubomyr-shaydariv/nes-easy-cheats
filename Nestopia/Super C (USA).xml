@@ -23,14 +23,24 @@
 		<description>P2 Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x00C4</address>
+		<value>0xFF</value>
+		<description>P1 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C5</address>
+		<value>0xFF</value>
+		<description>P2 Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x00D4</address>
 		<value>0xFF</value>
-		<description>P1 Invincible</description>
+		<description>P1 Invincible (B Power Up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00D5</address>
 		<value>0xFF</value>
-		<description>P2 Invincible</description>
+		<description>P2 Invincible (B Power Up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00B8</address>
@@ -58,11 +68,6 @@
 		<description>P1 Has Charged Flame Thrower (Not normally possible)</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x00B8</address>
-		<value>0x86</value>
-		<description>P1 Has Flame Thrower Explosion (Not normally possible)</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x00B9</address>
 		<value>0x82</value>
 		<description>P2 Has Spray</description>
@@ -86,11 +91,6 @@
 		<address>0x00B9</address>
 		<value>0x85</value>
 		<description>P2 Has Charged Flame Thrower (Not normally possible)</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x00B9</address>
-		<value>0x86</value>
-		<description>P2 Has Flame Thrower Explosion (Not normally possible)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0059</address>
@@ -137,5 +137,25 @@
 		<address>0x00D5</address>
 		<value>0x00</value>
 		<description>P2 No Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B8</address>
+		<value>0x86</value>
+		<description>P1 Has Mini Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B9</address>
+		<value>0x86</value>
+		<description>P2 Has Mini Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B8</address>
+		<value>0x0A</value>
+		<description>P1 Has Invisible Power Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B9</address>
+		<value>0x0A</value>
+		<description>P2 Has Invisible Power Gun</description>
 	</cheat>
 </cheats>

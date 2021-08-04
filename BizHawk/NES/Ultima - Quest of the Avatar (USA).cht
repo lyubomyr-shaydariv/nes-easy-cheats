@@ -1,0 +1,41 @@
+6871	ff	N	System Bus	1	Infinite Hit Points: Mariah (Mage)	b	h	0	None
+6873	ff	N	System Bus	1	Infinite Hit Points: Iolo (Bard)	b	h	0	None
+6875	ff	N	System Bus	1	Infinite Hit Points: Geoff (Fighter)	b	h	0	None
+6877	ff	N	System Bus	1	Infinite Hit Points: Jaana (Druid)	b	h	0	None
+6879	ff	N	System Bus	1	Infinite Hit Points: Julius (Tinker)	b	h	0	None
+687b	ff	N	System Bus	1	Infinite Hit Points: Dupre (Paladin)	b	h	0	None
+687d	ff	N	System Bus	1	Infinite Hit Points: Shamino (Ranger)	b	h	0	None
+687f	ff	N	System Bus	1	Infinite Hit Points: Katrina (Shepherd)	b	h	0	None
+6891	ff	N	System Bus	1	Infinite Magic Points: Mariah (Mage)	b	h	0	None
+6892	ff	N	System Bus	1	Infinite Magic Points: Iolo (Bard)	b	h	0	None
+6893	ff	N	System Bus	1	Infinite Magic Points: Geoff (Fighter)	b	h	0	None
+6894	ff	N	System Bus	1	Infinite Magic Points: Jaana (Druid)	b	h	0	None
+6895	ff	N	System Bus	1	Infinite Magic Points: Julius (Tinker)	b	h	0	None
+6896	ff	N	System Bus	1	Infinite Magic Points: Dupre (Paladin)	b	h	0	None
+6897	ff	N	System Bus	1	Infinite Magic Points: Shamino (Ranger)	b	h	0	None
+6898	ff	N	System Bus	1	Infinite Magic Points: Katrina (Shepherd)	b	h	0	None
+6828	25	N	System Bus	1	Infinite Gold	b	h	0	None
+682b	01	N	System Bus	1	Have Key	b	h	0	None
+6819	ff	N	System Bus	1	Have All Stones	b	h	0	None
+681a	ff	N	System Bus	1	Have All Runes	b	h	0	None
+00d9	00	N	System Bus	1	No Random Encounters	b	h	0	None
+681b	ff	N	System Bus	1	Full Spells (1/4)	b	h	0	None
+681c	7f	N	System Bus	1	Full Spells (2/4)	b	h	0	None
+681d	f7	N	System Bus	1	Full Spells (3/4)	b	h	0	None
+681e	0b	N	System Bus	1	Full Spells (4/4)	b	h	0	None
+681f	63	N	System Bus	1	Infinite Ash	b	h	0	None
+6810	63	N	System Bus	1	Infinite Ginseng	b	h	0	None
+6811	63	N	System Bus	1	Infinite Garlic	b	h	0	None
+6812	63	N	System Bus	1	Infinite Silkweb	b	h	0	None
+6813	63	N	System Bus	1	Infinite Moss	b	h	0	None
+6814	63	N	System Bus	1	Infinite Pearl	b	h	0	None
+6815	63	N	System Bus	1	Infinite Fungus	b	h	0	None
+6816	63	N	System Bus	1	Infinite Manroot	b	h	0	None
+680c	64	N	System Bus	1	Avatarship In Honesty	b	h	0	None
+680d	64	N	System Bus	1	Avatarship In Compassion	b	h	0	None
+680e	64	N	System Bus	1	Avatarship In Valor	b	h	0	None
+680f	64	N	System Bus	1	Avatarship In Justice	b	h	0	None
+6810	64	N	System Bus	1	Avatarship In Sacrifice	b	h	0	None
+6811	64	N	System Bus	1	Avatarship In Honor	b	h	0	None
+6812	64	N	System Bus	1	Avatarship In Spirituality	b	h	0	None
+6813	64	N	System Bus	1	Avatarship In Humility	b	h	0	None

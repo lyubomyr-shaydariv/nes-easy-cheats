@@ -1,0 +1,14 @@
+006a	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None
+04f1	7f	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+04ff	01	N	System Bus	1	P1 Invulnerable (Must jump out of pits)	b	h	0	None
+006b	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None
+04f2	7f	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None
+0500	01	N	System Bus	1	P2 Invulnerable (Must jump out of pits)	b	h	0	None
+0621	01	N	System Bus	1	Enemies Take 1 Hit (1/8) (Must turn off for stone warriors)	b	h	0	None
+0622	01	N	System Bus	1	Enemies Take 1 Hit (2/8)	b	h	0	None
+0623	01	N	System Bus	1	Enemies Take 1 Hit (3/8)	b	h	0	None
+0624	01	N	System Bus	1	Enemies Take 1 Hit (4/8)	b	h	0	None
+0625	01	N	System Bus	1	Enemies Take 1 Hit (5/8)	b	h	0	None
+0626	01	N	System Bus	1	Enemies Take 1 Hit (6/8)	b	h	0	None
+0627	01	N	System Bus	1	Enemies Take 1 Hit (7/8)	b	h	0	None
+0628	01	N	System Bus	1	Enemies Take 1 Hit (8/8)	b	h	0	None

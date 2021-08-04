@@ -1,0 +1,13 @@
+002a	64	N	System Bus	1	Infinite Lives	b	h	0	None
+0045	40	N	System Bus	1	Infinite Hit Points (Spikes still kill you)	b	h	0	None
+005b	ff	N	System Bus	1	Invulnerable	b	h	0	None
+0070	02	N	System Bus	1	Have Chain Whip	b	h	0	None
+0071	63	N	System Bus	1	Infinite Hearts (Must turn off at the end of a stage)	b	h	0	None
+0064	02	N	System Bus	1	Have Triple Shot	b	h	0	None
+015b	09	N	System Bus	1	Have Boomerang	b	h	0	None
+015b	08	N	System Bus	1	Have Dagger	b	h	0	None
+015b	0b	N	System Bus	1	Have Holy Water	b	h	0	None
+015b	0d	N	System Bus	1	Have Axe	b	h	0	None
+015b	0f	N	System Bus	1	Have Watch	b	h	0	None
+015b	0a	N	System Bus	1	Have Cross (Crashes on certain enemies)	b	h	0	None
+003e	02	01	System Bus	1	Run Fast (Turn off at doors)	b	h	0	Equal

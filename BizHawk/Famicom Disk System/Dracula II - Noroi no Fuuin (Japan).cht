@@ -1,0 +1,9 @@
+0031	09	N	System Bus	1	Infinite Lives	b	h	0	None
+04f8	01	N	System Bus	1	Invulnerable	b	h	0	None
+0049	99	N	System Bus	1	Infinite Hearts	b	h	0	None
+0434	04	N	System Bus	1	Have Flame Whip	b	h	0	None
+004a	ff	N	System Bus	1	Have All Weapons	b	h	0	None
+0091	ff	N	System Bus	1	Have All Dracula's Parts	b	h	0	None
+0092	ff	N	System Bus	1	Have All Items	b	h	0	None
+004c	09	N	System Bus	1	Infinite Laurels (Use with "Have All Items")	b	h	0	None
+004d	09	N	System Bus	1	Infinite Garlic (Use with "Have All Items")	b	h	0	None

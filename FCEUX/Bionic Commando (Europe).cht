@@ -1,8 +1,8 @@
-SC:ca35:09:02:Start With 9 Lives
-SC:ca35:63:02:Start With 99 Lives
+SC:c135:09:02:Start with 9 Lives
+SC:c135:63:02:Start with 99 Lives
 S:004a:09:Infinite Lives
-S:0779:06:Infinite Hit Points
-S:07e0:03:No Damage From Enemies After 1st Hit In Side Game
+S:0779:08:Infinite Hit Points
+S:07e0:03:No Damage From Enemies In Side Game
 SC:ae72:ee:ce:Less Damage From Spikes
 S:04cc:01:Start With Rocket Launcher
 S:04cd:01:Start With Wide Cannon
@@ -23,9 +23,10 @@ S:04c2:00:Infinite Medicine (When equipped)
 S:0697:ff:POW Lasts Until You Leave the Room
 S:04c1:01:Flare Bombs Unnecessary In Area 4
 S:04f7:01:Hidden Passages Revealed
+S:069f:09:Infinite Escape Time
 S:04fa:09:Infinite Continues
-SC:ca35:00:02:Start With 1 Life
-S:004a:00:Start With 1 Life, No 1-Ups
+SC:c135:01:02:Start With 1 Life
+S:004a:00:Start With 1 Life, No 1 Ups
 S:0779:00:No Bonus Hit Points
 S:04da:00:Can't Obtain Medicine (Item)
 S:04fa:00:No Continues

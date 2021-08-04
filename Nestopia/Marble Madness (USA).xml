@@ -37,17 +37,17 @@
 		<address>0xA2D2</address>
 		<value>0xF0</value>
 		<compare>0x46</compare>
-		<description>Super Slower Timer (1/2)</description>
+		<description>Super Slow Timer (1/2)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xA2DE</address>
 		<value>0xF0</value>
 		<compare>0x46</compare>
-		<description>Super Slower Timer (2/2)</description>
+		<description>Super Slow Timer (2/2)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xA32E</address>
-		<value>0x28</value>
+		<value>0x2</value>
 		<compare>0x3C</compare>
 		<description>Start With 40 Seconds (Both players)</description>
 	</cheat>

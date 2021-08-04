@@ -27,7 +27,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00A1</address>
-		<value>0x58</value>
+		<value>0x4E</value>
 		<description>P2 Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">

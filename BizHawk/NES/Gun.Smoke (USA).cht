@@ -1,0 +1,15 @@
+007a	09	N	System Bus	1	Infinite Lives	b	h	0	None
+0077	01	N	System Bus	1	Infinite Horse Hit Points	b	h	0	None
+007c	01	N	System Bus	1	Invulnerable	b	h	0	None
+06f2	59	N	System Bus	1	Infinite Money	b	h	0	None
+0078	04	N	System Bus	1	Full Speed	b	h	0	None
+0049	01	N	System Bus	1	Have Wanted Poster	b	h	0	None
+0090	d0	N	System Bus	1	Have Shotgun	b	h	0	None
+0094	d0	N	System Bus	1	Have Machine Gun	b	h	0	None
+0098	d0	N	System Bus	1	Have Mag Num	b	h	0	None
+009c	d0	N	System Bus	1	Have Smart Bomb (Must reequip after use)	b	h	0	None
+0093	d1	N	System Bus	1	Infinite Shotgun Bullets	b	h	0	None
+0097	d1	N	System Bus	1	Infinite Machine Gun Bullets	b	h	0	None
+009b	d1	N	System Bus	1	Infinite Mag Num Bullets	b	h	0	None
+009f	d1	N	System Bus	1	Infinite Smart Bombs	b	h	0	None
+00b2	00	N	System Bus	1	1-Hit Boss Kills	b	h	0	None

@@ -6,14 +6,14 @@
 		<description>P1 Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x00C4</address>
-		<value>0x63</value>
-		<description>P1 Starts With 99 Oil</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x00E2</address>
 		<value>0x07</value>
 		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00C4</address>
+		<value>0x63</value>
+		<description>P1 Starts With 99 Oil</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00E4</address>

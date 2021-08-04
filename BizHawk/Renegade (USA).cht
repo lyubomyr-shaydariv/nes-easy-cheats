@@ -1,9 +1,0 @@
-0703	09	N	System Bus	1	P1 Infinite Lives	b	h	0	None	
-070C	09	N	System Bus	1	P2 Infinite Lives	b	h	0	None	
-007d	40	N	System Bus	1	Infinite Hit Points	b	h	0	None	
-00ed	ff	N	System Bus	1	Have Power Mode	b	h	0	None	
-007E	00	N	System Bus	1	1-Knockdown Kills (1/3)	b	h	0	None	
-007F	00	N	System Bus	1	1-Knockdown Kills (2/3)	b	h	0	None	
-0080	00	N	System Bus	1	1-Knockdown Kills (3/3)	b	h	0	None	
-0039	00	N	System Bus	1	Fewer Enemies	b	h	0	None	
-0471	00	N	System Bus	1	Infinite Time	b	h	0	None	

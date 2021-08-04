@@ -7,8 +7,8 @@ S:0589:01:Invulnerable (Turn off to get notes)
 S:0548:38:Max POW
 SC:ac12:0f:09:Fast Standing Jump
 SC:8688:09:04:Start With 9 Continues
-S:0565:09:Infinite Continues
-SC:8697:00:02:Start With 1 Life
-SC:9891:01:03:Respawn With 1 Hit Point
+S:0568:09:Infinite Continues
+SC:8697:00:02:Start With 9 Lives
+SC:9891:00:03:Respawn With 1 Hit Point
 S:0548:18:No POW Bonuses
 S:0565:00:No Continues

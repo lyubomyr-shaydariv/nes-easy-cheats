@@ -1,5 +1,6 @@
 S:0087:09:Infinite Lives
-S:0089:01:Invincible to Bullets
+S:0089:01:Invulnerable to Bullets
+SC:d5ab:00:c0:Invulnerable to Walls
 S:0095:01:Have 4 Barriers
 S:008b:03:High Speed
 S:008b:05:Highest Speed
@@ -8,3 +9,7 @@ S:008c:02:Have Laser
 S:008c:04:Have Full Spread
 S:037d:01:Have Straight Missiles
 S:037d:02:Have Heat-Seeking Missiles
+SC:cc74:02:01:Start on Stage 2
+SC:cc74:03:01:Start on Stage 3
+SC:cc74:04:01:Start on Stage 4
+SC:cc74:05:01:Start on Stage 5

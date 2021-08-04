@@ -1,0 +1,11 @@
+045a	12	N	System Bus	1	Infinite Hit Points (1/4)	b	h	0	None
+045b	12	N	System Bus	1	Infinite Hit Points (2/4)	b	h	0	None
+045c	12	N	System Bus	1	Infinite Hit Points (3/4)	b	h	0	None
+045d	12	N	System Bus	1	Infinite Hit Points (4/4)	b	h	0	None
+045e	01	N	System Bus	1	Enemy No Health (1/2)	b	h	0	None
+045f	01	N	System Bus	1	Enemy No Health (1/2)	b	h	0	None
+0460	01	N	System Bus	1	Enemy No Health (1/2)	b	h	0	None
+0461	01	N	System Bus	1	Enemy No Health (1/2)	b	h	0	None
+050a	05	N	System Bus	1	Infinite Time	b	h	0	None
+050d	63	N	System Bus	1	Player High Score	b	h	0	None
+0511	00	N	System Bus	1	No Enemy Score	b	h	0	None

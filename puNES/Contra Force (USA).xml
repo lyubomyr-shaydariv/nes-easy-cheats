@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00B3</address>
+		<value>0xFF</value>
+		<description>Burns Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B4</address>
+		<value>0xFF</value>
+		<description>Smith Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B5</address>
+		<value>0xFF</value>
+		<description>Iron Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B6</address>
+		<value>0xFF</value>
+		<description>Beans Infinite Lives</description>
+	</cheat>
+</cheats>

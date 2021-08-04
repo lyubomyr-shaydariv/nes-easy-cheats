@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x06E8</address>
+		<value>0x0A</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F8</address>
+		<value>0x04</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06E2</address>
+		<value>0x01</value>
+		<description>Infinite Machinegun Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEOYEXY</genie>
+		<description>High Jump - Standing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNOPLEXY</genie>
+		<description>High Jump - Walking (1/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNOPYEXY</genie>
+		<description>High Jump - Walking (2/2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KNXOYEOY</genie>
+		<description>High Jump - Up</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06E6</address>
+		<value>0xFE</value>
+		<description>Infinite Time (Turn off at end of stage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0756</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
+	</cheat>
+</cheats>

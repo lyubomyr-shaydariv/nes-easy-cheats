@@ -16,7 +16,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>PAENYYAE</genie>
-		<description>P1 Start With ¥902000</description>
+		<description>P1 Start With Â¥902000</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x04C9</address>
@@ -25,7 +25,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>PAONTYAE</genie>
-		<description>P2 Start With ¥902000</description>
+		<description>P1 Start With Â¥902000</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x04CC</address>
@@ -129,6 +129,16 @@
 		<address>0x04C4</address>
 		<value>0x7F</value>
 		<description>P2 Max Power Maxed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04DF</address>
+		<value>0x3F</value>
+		<description>P1 All Moves</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04E0</address>
+		<value>0x3F</value>
+		<description>P2 All Moves</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AEEZVZIE</genie>

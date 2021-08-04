@@ -3,12 +3,12 @@
 	<cheat enabled="0">
 		<address>0x00E0</address>
 		<value>0x09</value>
-		<description>Infinite Lives (Display unaffected)</description>
+		<description>Infinite Lives (Graphic glitches)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00E3</address>
 		<value>0x01</value>
-		<description>Invincible to Enemies</description>
+		<description>Invincible to Regular Enemies</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00E1</address>

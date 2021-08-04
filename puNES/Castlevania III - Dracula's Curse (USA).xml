@@ -13,7 +13,7 @@
 	<cheat enabled="0">
 		<address>0x0080</address>
 		<value>0x01</value>
-		<description>Invulnerable (Turn off at path select to see character)</description>
+		<description>Invulnerable (Turn off at path select)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x008E</address>
@@ -33,12 +33,7 @@
 	<cheat enabled="0">
 		<address>0x0084</address>
 		<value>0x99</value>
-		<description>Infinite Hearts (Must turn off at end of stage)</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x007E</address>
-		<value>0x01</value>
-		<description>Infinite Time (Must turn off at end of stage)</description>
+		<description>Infinite Hearts (Turn off at end of stage)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0085</address>
@@ -89,5 +84,10 @@
 		<address>0x0086</address>
 		<value>0x09</value>
 		<description>Grant Has Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007E</address>
+		<value>0x01</value>
+		<description>Infinite Time (Turn off at end of stage)</description>
 	</cheat>
 </cheats>

@@ -1,0 +1,11 @@
+01f80	09	N	System Bus	1	Infinite Lives	b	h	0	None
+00bcf	10	N	System Bus	1	Infinite Hit Points (Turn off if you fall)	b	h	0	None
+00c13	3c	N	System Bus	1	Invulnerable	b	h	0	None
+01f88	5c	N	System Bus	1	Infinite Homing Torpedo	b	h	0	None
+01f8a	5c	N	System Bus	1	Infinite Chameleon Sting	b	h	0	None
+01f8c	5c	N	System Bus	1	Infinite Rolling Shield	b	h	0	None
+01f8e	5c	N	System Bus	1	Infinite Fire Wave	b	h	0	None
+01f90	5c	N	System Bus	1	Infinite Storm Tornado	b	h	0	None
+01f92	5c	N	System Bus	1	Infinite Electric Spark	b	h	0	None
+01f94	5c	N	System Bus	1	Infinite Boomerang Cutter	b	h	0	None
+01f96	5c	N	System Bus	1	Infinite Shotgun Ice	b	h	0	None

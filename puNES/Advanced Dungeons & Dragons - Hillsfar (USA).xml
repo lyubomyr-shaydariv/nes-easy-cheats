@@ -1,18 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<address>0x008C</address>
-		<value>0x05</value>
-		<description>Guards Always Frozen</description>
+		<address>0x0718</address>
+		<value>0xFF</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0719</address>
+		<value>0xFF</value>
+		<description>Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07B9</address>
+		<value>0x63</value>
+		<description>Level 99</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0712</address>
+		<value>0x63</value>
+		<description>99 Strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0716</address>
+		<value>0x63</value>
+		<description>99 Constitution</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0715</address>
+		<value>0x63</value>
+		<description>99 Dexterity</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0713</address>
+		<value>0x63</value>
+		<description>99 Intelligence</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0714</address>
+		<value>0x63</value>
+		<description>99 Wisdom</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0717</address>
+		<value>0x63</value>
+		<description>99 Charisma</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0751</address>
+		<value>0xFF</value>
+		<description>Infinite Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x07AF</address>
+		<value>0x12</value>
+		<description>18 Years Old</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x03E5</address>
 		<value>0x10</value>
-		<description>Infinite Hit Points In Colosseum</description>
+		<description>Infinite Hit Points in Colosseum</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x03EA</address>
 		<value>0x00</value>
-		<description>Enemy Has No Hit Points In Colosseum</description>
+		<description>1-Hit Colosseum Kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x05C8</address>
+		<value>0x09</value>
+		<description>Infinite Lock Time</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x008C</address>
+		<value>0x05</value>
+		<description>Guards Frozen</description>
 	</cheat>
 </cheats>

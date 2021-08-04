@@ -1,0 +1,13 @@
+b7de	09	02	System Bus	1	P1 Starts With 9 Lives	b	h	0	Equal
+b7e0	31	32	System Bus	1	P1 Starts With 20 Lives	b	h	0	Equal
+b859	09	02	System Bus	1	P2 Starts With 9 Lives	b	h	0	Equal
+b85b	31	32	System Bus	1	P2 Starts With 20 Lives	b	h	0	Equal
+0432	09	N	System Bus	1	Infinite Lives (Both players)	b	h	0	None
+f828	b9	99	System Bus	1	Invincible to Collisions Only	b	h	0	Equal
+048e	8a	N	System Bus	1	Invincible With POW Shot	b	h	0	None
+0436	09	N	System Bus	1	Infinite Retreats	b	h	0	None
+d2bc	00	10	System Bus	1	Rapid Fire	b	h	0	Equal
+dc02	01	ff	System Bus	1	Most Enemies Die Instantly	b	h	0	Equal
+b7de	00	02	System Bus	1	P1 Starts With 1 Life	b	h	0	Equal
+b859	00	02	System Bus	1	P2 Starts With 1 Life	b	h	0	Equal
+0431	00	02	System Bus	1	Both Players Start With 1 Life, No 1-Ups	b	h	0	Equal

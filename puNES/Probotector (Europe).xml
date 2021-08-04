@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
+		<genie>AAVGZGZE</genie>
+		<description>Start With 9 Lives (Both players) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTVGZGZA</genie>
+		<description>Start With 99 Lives (Both players) (USA)</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x0032</address>
 		<value>0x09</value>
 		<description>P1 Infinite Lives</description>
@@ -8,7 +16,7 @@
 	<cheat enabled="0">
 		<address>0x00B0</address>
 		<value>0x7F</value>
-		<description>P1 Invincible (B Power Up)</description>
+		<description>P1 Invincible (B power up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AA</address>
@@ -38,7 +46,7 @@
 	<cheat enabled="0">
 		<address>0x00B1</address>
 		<value>0x7F</value>
-		<description>P2 Invincible (B Power Up)</description>
+		<description>P2 Invincible (B power up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AB</address>
@@ -62,7 +70,19 @@
 	</cheat>
 	<cheat enabled="0">
 		<genie>GXSIUZSO</genie>
-		<description>Keep Gun After Dying</description>
+		<description>Keep Gun After Dying (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNVSPVUN</genie>
+		<description>High Jump In Side View (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNVSYVKN</genie>
+		<description>High Jump In Bases (USA)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVGZGZA</genie>
+		<description>Start With 1 Life (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0032</address>
@@ -83,5 +103,29 @@
 		<address>0x00AB</address>
 		<value>0x00</value>
 		<description>P2 No Special Guns</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKOAEZEA</genie>
+		<description>Snipers Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APNAZGAU</genie>
+		<description>Gray Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXALIAS</genie>
+		<description>Red Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXNPGAAS</genie>
+		<description>Base Turrets Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APENIPAL</genie>
+		<description>Big Gunners Shoot More</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYUUSAEG</genie>
+		<description>Spider Turrets Shoot More</description>
 	</cheat>
 </cheats>

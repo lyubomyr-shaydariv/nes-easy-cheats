@@ -1,5 +1,5 @@
-SC:e5fa:08:03:Start With 9 Lives (Both players)
-SC:e5fa:62:03:Start With 99 Lives (Both players)
+SC:e5f9:08:03:Start With 9 Lives (Both players)
+SC:e5f9:62:03:Start With 99 Lives (Both players)
 S:0011:05:P1 Infinite Lives
 S:051a:2f:P1 Infinite Hit Points
 S:0574:7e:P1 Invulnerable (Must turn off at various times)
@@ -22,4 +22,4 @@ SC:8320:09:00:Start On Level 9
 SC:8320:0a:00:Start On Level 10
 SC:8320:0b:00:Start On Level 11
 SC:8320:0c:00:Start On Level 12
-SC:e5fa:00:03:Start With 1 Life (Both players)
+SC:e5f9:00:03:Start With 1 Life (Both players)

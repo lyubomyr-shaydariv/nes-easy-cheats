@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x06D8</address>
+		<value>0x03</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0030</address>
+		<value>0x03</value>
+		<description>Infinite Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0095</address>
+		<value>0x63</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00BA</address>
+		<value>0x63</value>
+		<description>Infinite Stars</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F2</address>
+		<value>0x63</value>
+		<description>Infinite Candles</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F3</address>
+		<value>0x3C</value>
+		<description>Infinite Time</description>
+	</cheat>
+</cheats>

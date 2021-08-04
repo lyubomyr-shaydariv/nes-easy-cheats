@@ -1,0 +1,9 @@
+S:0429:63:Infinite Lives
+S:0428:0c:Infinite Hit Points
+SC:a370:18:30:Faster Enemy Hit Recovery
+SC:a370:00:30:Instant Enemy Hit Recovery (Use with infinite hit points)
+SC:927a:18:30:Faster Spike Hit Recovery
+SC:927a:00:30:Instant Spike Hit Recovery (Use with infinite hit points)
+SC:8a00:ee:f3:High Jump
+SC:8a00:ee:f3:Very High Jump
+SC:8a4a:01:03:Moon Gravity

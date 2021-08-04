@@ -4,13 +4,13 @@
 		<address>0xC462</address>
 		<value>0x08</value>
 		<compare>0x02</compare>
-		<description>Start With 9 Lives (Both players)</description>
+		<description>Start With 9 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC462</address>
 		<value>0x62</value>
 		<compare>0x02</compare>
-		<description>Start With 99 Lives (Both players)</description>
+		<description>Start With 99 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0032</address>
@@ -20,7 +20,7 @@
 	<cheat enabled="0">
 		<address>0x00B0</address>
 		<value>0x7F</value>
-		<description>P1 Invincible (B Power Up)</description>
+		<description>P1 Invincible (B power up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AA</address>
@@ -50,7 +50,7 @@
 	<cheat enabled="0">
 		<address>0x00B1</address>
 		<value>0x7F</value>
-		<description>P2 Invincible (B Power Up)</description>
+		<description>P2 Invincible (B power up)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AB</address>
@@ -76,25 +76,25 @@
 		<address>0xDAD3</address>
 		<value>0x2C</value>
 		<compare>0x95</compare>
-		<description>Keep Gun After Dying</description>
+		<description>Keep Gun After Dying (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xD6E9</address>
 		<value>0xFA</value>
 		<compare>0xFB</compare>
-		<description>High Jump In Side View</description>
+		<description>High Jump In Side View (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xD6EF</address>
 		<value>0xFB</value>
 		<compare>0xFC</compare>
-		<description>High Jump In Bases</description>
+		<description>High Jump In Bases (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC462</address>
 		<value>0x00</value>
 		<compare>0x02</compare>
-		<description>Start With 1 Life (Both players)</description>
+		<description>Start With 1 Life (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0032</address>

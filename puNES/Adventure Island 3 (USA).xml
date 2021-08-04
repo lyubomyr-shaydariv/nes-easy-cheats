@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0394</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0390</address>
+		<value>0x0B</value>
+		<description>Infinite Food (Turn off at end of stage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x038D</address>
+		<value>0x01</value>
+		<description>Have Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x038D</address>
+		<value>0x02</value>
+		<description>Have Boomerang</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x10</value>
+		<description>Riding Skateboard</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x70</value>
+		<description>Riding Surfboard</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x40</value>
+		<description>Riding Red Camptosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x30</value>
+		<description>Riding Blue Camptosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x60</value>
+		<description>Riding Tripetaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x50</value>
+		<description>Riding Pteranodon</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x20</value>
+		<description>Riding Elasmosaurus</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0380</address>
+		<value>0x09</value>
+		<description>Infinite Red Camptosaurus in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0381</address>
+		<value>0x09</value>
+		<description>Infinite Blue Camptosaurus in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0382</address>
+		<value>0x09</value>
+		<description>Infinite Elasmosaurus in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0383</address>
+		<value>0x09</value>
+		<description>Infinite Pteranodon in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0384</address>
+		<value>0x09</value>
+		<description>Infinite Tripetaurus in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0385</address>
+		<value>0x09</value>
+		<description>Infinite Boomerangs in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0386</address>
+		<value>0x09</value>
+		<description>Infinite Axes in Storage</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0387</address>
+		<value>0x09</value>
+		<description>Infinite Diamonds in Storage</description>
+	</cheat>
+</cheats>

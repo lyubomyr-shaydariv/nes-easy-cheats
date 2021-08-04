@@ -1,0 +1,25 @@
+04bf	7f	N	System Bus	1	P1 Infinite Stamina	b	h	0	None
+04c0	7f	N	System Bus	1	P2 Infinite Stamina	b	h	0	None
+04c9	09	N	System Bus	1	P1 Infinite Money	b	h	0	None
+04cc	09	N	System Bus	1	P2 Infinite Money	b	h	0	None
+f46e	60	20	System Bus	1	Don't Lose Money At Death	b	h	0	Equal
+049f	3f	N	System Bus	1	P1 Punch Maxed	b	h	0	None
+04a3	3f	N	System Bus	1	P1 Kick Maxed	b	h	0	None
+04a7	3f	N	System Bus	1	P1 Weapon Maxed	b	h	0	None
+04ab	3f	N	System Bus	1	P1 Throw Maxed	b	h	0	None
+04af	3f	N	System Bus	1	P1 Agility Maxed	b	h	0	None
+04b3	3f	N	System Bus	1	P1 Defense Maxed	b	h	0	None
+04b7	3f	N	System Bus	1	P1 Strength Maxed	b	h	0	None
+04bb	3f	N	System Bus	1	P1 Will Power Maxed	b	h	0	None
+04c3	7f	N	System Bus	1	P1 Max Power Maxed	b	h	0	None
+04a0	3f	N	System Bus	1	P2 Punch Maxed	b	h	0	None
+04a4	3f	N	System Bus	1	P2 Kick Maxed	b	h	0	None
+04a8	3f	N	System Bus	1	P2 Weapon Maxed	b	h	0	None
+04ac	3f	N	System Bus	1	P2 Throw Maxed	b	h	0	None
+04b0	3f	N	System Bus	1	P2 Agility Maxed	b	h	0	None
+04b4	3f	N	System Bus	1	P2 Defense Maxed	b	h	0	None
+04b8	3f	N	System Bus	1	P2 Strength Maxed	b	h	0	None
+04bc	3f	N	System Bus	1	P2 Will Power Maxed	b	h	0	None
+04c4	7f	N	System Bus	1	P2 Max Power Maxed	b	h	0	None
+04df	3f	N	System Bus	1	P1 All Moves	b	h	0	None
+04e0	3f	N	System Bus	1	P2 All Moves	b	h	0	None

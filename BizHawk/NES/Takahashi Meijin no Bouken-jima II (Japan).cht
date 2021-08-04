@@ -1,0 +1,14 @@
+07d2	09	N	System Bus	1	Infinite Lives	b	h	0	None
+07d3	0b	N	System Bus	1	Infinite Food (Turn off at end of stage)	b	h	0	None
+007c	60	N	System Bus	1	Invulnerable (Can't pickup anything)	b	h	0	None
+07d5	01	N	System Bus	1	Have Axe	b	h	0	None
+007c	10	N	System Bus	1	Riding Skateboard	b	h	0	None
+007c	30	N	System Bus	1	Riding Red Camptosaurus	b	h	0	None
+007c	20	N	System Bus	1	Riding Blue Camptosaurus	b	h	0	None
+007c	40	N	System Bus	1	Riding Pteranodon	b	h	0	None
+007c	50	N	System Bus	1	Riding Elasmosaurus	b	h	0	None
+07cc	09	N	System Bus	1	Infinite Axes in Storage	b	h	0	None
+07c8	09	N	System Bus	1	Infinite Red Camptosaurus in Storage	b	h	0	None
+07c9	09	N	System Bus	1	Infinite Blue Camptosaurus in Storage	b	h	0	None
+07cb	09	N	System Bus	1	Infinite Pteranodon in Storage	b	h	0	None
+07ca	09	N	System Bus	1	Infinite Elasmosaurus in Storage	b	h	0	None

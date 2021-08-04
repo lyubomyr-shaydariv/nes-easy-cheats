@@ -10,6 +10,14 @@
 		<description>Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
+		<genie>AEOAZTLE</genie>
+		<description>Start With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOPOALE</genie>
+		<description>Respawn With Max Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
 		<genie>AEOEATLE</genie>
 		<description>Start With Max Hit Points</description>
 	</cheat>
@@ -37,16 +45,26 @@
 		<description>Fast Standing Jump</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AEOEITZA</genie>
-		<description>Start With 1 Life</description>
+		<address>0x0568</address>
+		<value>0x09</value>
+		<description>Infinite Continues</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>PAEPPYLA</genie>
+		<genie>AEOEITZA</genie>
+		<description>Start With 9 Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEPPYLA</genie>
 		<description>Respawn With 1 Hit Point</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0548</address>
 		<value>0x18</value>
 		<description>No POW Bonuses</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0565</address>
+		<value>0x00</value>
+		<description>No Continues</description>
 	</cheat>
 </cheats>

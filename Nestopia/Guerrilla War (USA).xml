@@ -4,13 +4,13 @@
 		<address>0xC9B6</address>
 		<value>0x09</value>
 		<compare>0x04</compare>
-		<description>Start With 9 Lives (Both players)</description>
+		<description>Start With 9 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9B6</address>
 		<value>0x63</value>
 		<compare>0x04</compare>
-		<description>Start With 99 Lives (Both players)</description>
+		<description>Start With 99 Lives (Both players) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0028</address>
@@ -25,22 +25,22 @@
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x02</value>
-		<description>P1 Has T</description>
+		<description>P1 Has T Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x03</value>
-		<description>P1 Has F</description>
+		<description>P1 Has F Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x04</value>
-		<description>P1 Has L</description>
+		<description>P1 Has L Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
 		<value>0x01</value>
-		<description>P1 Has S</description>
+		<description>P1 Has S Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0600</address>
@@ -60,22 +60,22 @@
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x02</value>
-		<description>P2 Has T</description>
+		<description>P2 Has T Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x03</value>
-		<description>P2 Has F</description>
+		<description>P2 Has F Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x04</value>
-		<description>P2 Has L</description>
+		<description>P2 Has L Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
 		<value>0x01</value>
-		<description>P2 Has S</description>
+		<description>P2 Has S Gun</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0601</address>
@@ -86,61 +86,61 @@
 		<address>0xC9AB</address>
 		<value>0xA9</value>
 		<compare>0xA5</compare>
-		<description>Start On Level X (Part 1)</description>
+		<description>Start On Stage X (Part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x01</value>
 		<compare>0x39</compare>
-		<description>Start On Level 2 (Use with part 1)</description>
+		<description>Start On Stage 2 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x02</value>
 		<compare>0x39</compare>
-		<description>Start On Level 3 (Use with part 1)</description>
+		<description>Start On Stage 3 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x03</value>
 		<compare>0x39</compare>
-		<description>Start On Level 4 (Use with part 1)</description>
+		<description>Start On Stage 4 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x04</value>
 		<compare>0x39</compare>
-		<description>Start On Level 5 (Use with part 1)</description>
+		<description>Start On Stage 5 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x05</value>
 		<compare>0x39</compare>
-		<description>Start On Level 6 (Use with part 1)</description>
+		<description>Start On Stage 6 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x06</value>
 		<compare>0x39</compare>
-		<description>Start On Level 7 (Use with part 1)</description>
+		<description>Start On Stage 7 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x07</value>
 		<compare>0x39</compare>
-		<description>Start On Level 8 (Use with part 1)</description>
+		<description>Start On Stage 8 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x08</value>
 		<compare>0x39</compare>
-		<description>Start On Level 9 (Use with part 1)</description>
+		<description>Start On Stage 9 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9AC</address>
 		<value>0x09</value>
 		<compare>0x39</compare>
-		<description>Start On Level 10 (Use with part 1)</description>
+		<description>Start On Stage 10 (Use with part 1) (USA)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xC9B6</address>

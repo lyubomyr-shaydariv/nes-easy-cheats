@@ -1,0 +1,10 @@
+0058	00	N	System Bus	1	Blue always has 0 shells/missiles/bombs remaining in battle	b	h	0	None
+0058	0f	N	System Bus	1	Blue always has 15 shells/missiles/bombs remaining in battle	b	h	0	None
+0059	00	N	System Bus	1	Red always has 0 shells/missiles/bombs remaining in battle	b	h	0	None
+0059	0f	N	System Bus	1	Red always has 15 shells/missiles/bombs remaining in battle	b	h	0	None
+7020	00	N	System Bus	1	Blue always has 0 fame points (although the displayed tally won't reflect this immediately)	b	h	0	None
+7020	32	N	System Bus	1	Blue always has 5,000 fame points (although the displayed tally won't reflect this immediately)	b	h	0	None
+7020	64	N	System Bus	1	Blue always has 10,000 fame points (although the displayed tally won't reflect this immediately)	b	h	0	None
+7021	00	N	System Bus	1	Red always has 0 fame points (although the displayed tally won't reflect this immediately)	b	h	0	None
+7021	32	N	System Bus	1	Red always has 5,000 fame points (although the displayed tally won't reflect this immediately)	b	h	0	None
+7021	64	N	System Bus	1	Red always has 10,000 fame points (although the displayed tally won't reflect this immediately)	b	h	0	None

@@ -1,7 +1,0 @@
-00ca	18	N	System Bus	1	Full Max Hit Points	b	h	0	None	
-00cb	18	N	System Bus	1	Full Hit Points (Use with Full Max Hit Points)	b	h	0	None	
-00c7	10	N	System Bus	1	Have Full Tone	b	h	0	None	
-00c9	10	N	System Bus	1	Have Full Last	b	h	0	None	
-00c3	07	N	System Bus	1	Have Full Mind	b	h	0	None	
-00c2	14	N	System Bus	1	Enemies Always Drop Items	b	h	0	None	
-00cd	01	N	System Bus	1	Have Attack & Assail	b	h	0	None	

@@ -1,0 +1,29 @@
+8073	0a	03	System Bus	1	Start With 9 Lives	b	h	0	Equal
+8073	64	03	System Bus	1	Start With 99 Lives	b	h	0	Equal
+00a8	0b	N	System Bus	1	Infinite Lives	b	h	0	None
+06c0	1c	N	System Bus	1	Infinite Hit Points	b	h	0	None
+00a7	04	N	System Bus	1	Infinite Energy Tanks	b	h	0	None
+004b	01	N	System Bus	1	Invulnerable	b	h	0	None
+009c	1c	N	System Bus	1	Infinite Atomic Fire	b	h	0	None
+009d	1c	N	System Bus	1	Infinite Air Shooter	b	h	0	None
+009e	1c	N	System Bus	1	Infinite Leaf Shield	b	h	0	None
+009f	1c	N	System Bus	1	Infinite Bubble Lead	b	h	0	None
+00a0	1c	N	System Bus	1	Infinite Quick-Boomerang	b	h	0	None
+00a1	1c	N	System Bus	1	Infinite Time-Stopper	b	h	0	None
+00a2	1c	N	System Bus	1	Infinite Metal-Blade	b	h	0	None
+00a3	1c	N	System Bus	1	Infinite Crash Bomber	b	h	0	None
+009b	ff	N	System Bus	1	Have All Items	b	h	0	None
+00a4	1c	N	System Bus	1	Infinite Item-1	b	h	0	None
+00a5	1c	N	System Bus	1	Infinite Item-2	b	h	0	None
+00a6	1c	N	System Bus	1	Infinite Item-3	b	h	0	None
+009a	ff	N	System Bus	1	All Bosses Defeated	b	h	0	None
+003c	07	N	System Bus	1	High Jump	b	h	0	None
+003c	10	N	System Bus	1	Super High Jump	b	h	0	None
+0030	10	N	System Bus	1	Moon Gravity (Affects some enemies)	b	h	0	None
+8118	0e	1c	System Bus	1	Bosses Have Half Hit Points	b	h	0	Equal
+8118	01	1c	System Bus	1	Bosses Have 1 Hit Point	b	h	0	Equal
+da06	02	04	System Bus	1	Quickman's Beams Half Speed	b	h	0	Equal
+8073	01	03	System Bus	1	Start With 1 Life	b	h	0	Equal
+8118	38	1c	System Bus	1	Bosses Have Double Hit Points	b	h	0	Equal
+d78e	28	14	System Bus	1	Most Enemies Have Double Hit Points	b	h	0	Equal
+da06	02	04	System Bus	1	Quickman's Beams Even Faster	b	h	0	Equal

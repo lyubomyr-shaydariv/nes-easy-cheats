@@ -131,6 +131,16 @@
 		<description>P2 Max Power Maxed</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x04DF</address>
+		<value>0x3F</value>
+		<description>P1 All Moves</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04E0</address>
+		<value>0x3F</value>
+		<description>P2 All Moves</description>
+	</cheat>
+	<cheat enabled="0">
 		<genie>AEXZSZIE</genie>
 		<description>Standing High Jump</description>
 	</cheat>

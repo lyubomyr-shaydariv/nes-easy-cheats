@@ -13,11 +13,11 @@
 	<cheat enabled="0">
 		<address>0x04C3</address>
 		<value>0x02</value>
-		<description>Have Full Health</description>
+		<description>Max Health (2 Mushrooms, 4 HP)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0085</address>
-		<value>0x01</value>
+		<value>0x02</value>
 		<description>Invulnerable</description>
 	</cheat>
 	<cheat enabled="0">
@@ -37,27 +37,23 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0555</address>
-		<value>0x02</value>
-		<description>High Jump (Not Luigi)</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x0555</address>
 		<value>0x01</value>
-		<description>Super High Jump (Not Luigi)</description>
+		<description>Max Jump Height</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0099</address>
 		<value>0x00</value>
-		<description>Air Jump</description>
+		<description>Mid-Air Multi Jump</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x0555</address>
-		<value>0x00</value>
-		<description>Infinite Jump</description>
+		<address>0x8A89</address>
+		<value>0xB0</value>
+		<compare>0xD0</compare>
+		<description>Quick Pick Ups</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x062B</address>
-		<value>0x01</value>
+		<value>0x03</value>
 		<description>Infinite Coins (Turn off to end)</description>
 	</cheat>
 </cheats>

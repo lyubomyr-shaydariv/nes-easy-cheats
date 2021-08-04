@@ -7,7 +7,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0085</address>
-		<value>0x6D</value>
+		<value>0x01</value>
 		<description>Invulnerable</description>
 	</cheat>
 	<cheat enabled="0">

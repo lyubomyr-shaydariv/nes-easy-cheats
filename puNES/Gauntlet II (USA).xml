@@ -203,10 +203,10 @@
 	<cheat enabled="0">
 		<address>0x060B</address>
 		<value>0x7F</value>
-		<description>Infinite Time In Treasure/Secret Rooms</description>
+		<description>P4 Has Infinite Time In Treasure/Secret Rooms</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x0070</address>
+		<address>0x0071</address>
 		<value>0x00</value>
 		<description>Nobody Is Ever "It"</description>
 	</cheat>

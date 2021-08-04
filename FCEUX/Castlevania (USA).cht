@@ -1,10 +1,7 @@
-SC:c92b:0a:04:Start With 9 Lives
-SC:c92b:64:04:Start With 99 Lives
 S:002a:64:Infinite Lives
 S:0045:40:Infinite Hit Points (Spikes still kill you)
 S:005b:ff:Invulnerable
 S:0070:02:Have Chain Whip
-SC:c941:63:05:Start Each Stage With 99 Hearts
 S:0071:63:Infinite Hearts (Must turn off at the end of a stage)
 S:0064:02:Have Triple Shot
 S:015b:09:Have Boomerang
@@ -13,9 +10,4 @@ S:015b:0b:Have Holy Water
 S:015b:0d:Have Axe
 S:015b:0f:Have Watch
 S:015b:0a:Have Cross (Crashes on certain enemies)
-SC:a0af:ad:20:Infinite Time
-SC:9b90:f0:fb:High Jump
-SC:9b90:e0:fb:Higher Jump
-SC:9b90:a0:fb:Mega Jump (May fall through floors)
 SC:003e:02:01:Run Fast (Turn off at doors)
-SC:c92b:01:04:Start With 1 Life

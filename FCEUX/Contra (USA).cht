@@ -1,21 +1,21 @@
-SC:c462:08:02:Start With 9 Lives (Both players)
-SC:c462:62:02:Start With 99 Lives (Both players)
+SC:c462:08:02:Start With 9 Lives (Both players) (USA)
+SC:c462:62:02:Start With 99 Lives (Both players) (USA)
 S:0032:09:P1 Infinite Lives
-S:00b0:7f:P1 Invincible (B Power Up)
+S:00b0:7f:P1 Invincible (B power up)
 S:00aa:13:P1 Has Spray
 S:00aa:11:P1 Has Machine Gun
 S:00aa:12:P1 Has Flame Thrower
 S:00aa:14:P1 Has Laser
 S:0033:09:P2 Infinite Lives
-S:00b1:7f:P2 Invincible (B Power Up)
+S:00b1:7f:P2 Invincible (B power up)
 S:00ab:13:P2 Has Spray
 S:00ab:11:P2 Has Machine Gun
 S:00ab:12:P2 Has Flame Thrower
 S:00ab:14:P2 Has Laser
-SC:dad3:2c:95:Keep Gun After Dying
-SC:d6e9:fa:fb:High Jump In Side View
-SC:d6ef:fb:fc:High Jump In Bases
-SC:c462:00:02:Start With 1 Life (Both players)
+SC:dad3:2c:95:Keep Gun After Dying (USA)
+SC:d6e9:fa:fb:High Jump In Side View (USA)
+SC:d6ef:fb:fc:High Jump In Bases (USA)
+SC:c462:00:02:Start With 1 Life (Both players) (USA)
 S:0032:00:P1 Start With 1 Life, No 1-Ups
 S:0033:00:P2 Start With 1 Life, No 1-Ups
 S:00aa:00:P1 No Special Guns

@@ -1,0 +1,6 @@
+0478	0e	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0477	0e	N	System Bus	1	Full Bat Power	b	h	0	None
+0476	01	N	System Bus	1	Have B Weapon	b	h	0	None
+0476	02	N	System Bus	1	Have C Weapon	b	h	0	None
+0476	03	N	System Bus	1	Have N Weapon	b	h	0	None
+0476	04	N	System Bus	1	Have S Weapon	b	h	0	None

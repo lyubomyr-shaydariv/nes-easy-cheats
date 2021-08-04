@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<address>0xE5FA</address>
+		<address>0xE5F9</address>
 		<value>0x08</value>
 		<compare>0x03</compare>
 		<description>Start With 9 Lives (Both players)</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xE5FA</address>
+		<address>0xE5F9</address>
 		<value>0x62</value>
 		<compare>0x03</compare>
 		<description>Start With 99 Lives (Both players)</description>
@@ -137,7 +137,7 @@
 		<description>Start On Level 12</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xE5FA</address>
+		<address>0xE5F9</address>
 		<value>0x00</value>
 		<compare>0x03</compare>
 		<description>Start With 1 Life (Both players)</description>

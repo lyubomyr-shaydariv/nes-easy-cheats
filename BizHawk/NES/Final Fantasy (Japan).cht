@@ -1,0 +1,20 @@
+610b	02	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+6120	ff	N	System Bus	1	P1 Max Damage	b	h	0	None
+6121	ff	N	System Bus	1	P1 Max Hit&#160;%	b	h	0	None
+6122	ff	N	System Bus	1	P1 Max Absorb	b	h	0	None
+6123	ff	N	System Bus	1	P1 Max Evade&#160;%	b	h	0	None
+614b	02	N	System Bus	1	P2 Infinite Hit Points	b	h	0	None
+6160	ff	N	System Bus	1	P2 Max Damage	b	h	0	None
+6161	ff	N	System Bus	1	P2 Max Hit&#160;%	b	h	0	None
+6162	ff	N	System Bus	1	P2 Max Absorb	b	h	0	None
+6163	ff	N	System Bus	1	P2 Max Evade&#160;%	b	h	0	None
+618b	02	N	System Bus	1	P3 Infinite Hit Points	b	h	0	None
+61a0	ff	N	System Bus	1	P3 Max Damage	b	h	0	None
+61a1	ff	N	System Bus	1	P3 Max Hit&#160;%	b	h	0	None
+61a2	ff	N	System Bus	1	P3 Max Absorb	b	h	0	None
+61a3	ff	N	System Bus	1	P3 Max Evade&#160;%	b	h	0	None
+61cb	02	N	System Bus	1	P4 Infinite Hit Points	b	h	0	None
+61e0	ff	N	System Bus	1	P4 Max Damage	b	h	0	None
+61e1	ff	N	System Bus	1	P4 Max Hit&#160;%	b	h	0	None
+61e2	ff	N	System Bus	1	P4 Max Absorb	b	h	0	None
+61e3	ff	N	System Bus	1	P4 Max Evade&#160;%	b	h	0	None

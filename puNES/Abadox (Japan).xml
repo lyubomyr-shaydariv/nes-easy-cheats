@@ -8,7 +8,11 @@
 	<cheat enabled="0">
 		<address>0x0089</address>
 		<value>0x01</value>
-		<description>Invincible to Bullets</description>
+		<description>Invulnerable to Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVSAIEG</genie>
+		<description>Invulnerable to Walls</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0095</address>
@@ -49,5 +53,21 @@
 		<address>0x037D</address>
 		<value>0x02</value>
 		<description>Have Heat-Seeking Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVGEPPA</genie>
+		<description>Start on Stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVGEPPA</genie>
+		<description>Start on Stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVGEPPA</genie>
+		<description>Start on Stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVGEPPA</genie>
+		<description>Start on Stage 5</description>
 	</cheat>
 </cheats>

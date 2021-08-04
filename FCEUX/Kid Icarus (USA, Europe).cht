@@ -7,8 +7,8 @@ S:013f:02:Have Bow Powerup
 S:0140:02:Have Crystal Powerup
 S:0150:63:Infinite Angel Feathers
 S:0151:48:Infinite Bottles
-SC:d203:c0:e5:High Jump
-SC:d203:80:e5:Super High Jump
+SC:d103:c0:e5:High Jump
+SC:d103:80:e5:Super High Jump
 S:00a5:08:Fly Forever (Turn off to enter doors)
 S:006b:01:1-Hit Boss Kills
 S:014f:63:Infinite Sledge Hammers

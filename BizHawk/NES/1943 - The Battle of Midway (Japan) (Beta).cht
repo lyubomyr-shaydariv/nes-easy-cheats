@@ -1,0 +1,17 @@
+0410	09	N	System Bus	1	Infinite Energy	b	h	0	None
+040e	0c	N	System Bus	1	Invulnerable (Graphic glitches)	b	h	0	None
+04f6	09	N	System Bus	1	Infinite Weapon Power	b	h	0	None
+0342	05	N	System Bus	1	Full Offensive Power	b	h	0	None
+0343	05	N	System Bus	1	Full Defensive Power	b	h	0	None
+0344	05	N	System Bus	1	Full Energy Level	b	h	0	None
+0345	05	N	System Bus	1	Full Special Weapon	b	h	0	None
+0346	05	N	System Bus	1	Full Special Weapon Time Limit	b	h	0	None
+0402	02	N	System Bus	1	Have Long Spread	b	h	0	None
+0402	07	N	System Bus	1	Have Double Shot	b	h	0	None
+0402	09	N	System Bus	1	Have Double Missiles	b	h	0	None
+0402	0a	N	System Bus	1	Have Double Laser	b	h	0	None
+f3e2	08	00	System Bus	1	Start On Mission 5	b	h	0	Equal
+f3e2	12	00	System Bus	1	Start On Mission 10	b	h	0	Equal
+f3e2	1c	00	System Bus	1	Start On Mission 15	b	h	0	Equal
+f3e2	26	00	System Bus	1	Start On Mission 20	b	h	0	Equal
+f3e2	2e	00	System Bus	1	Start On Mission 24	b	h	0	Equal

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x007A</address>
+		<value>0x09</value>
+		<description>Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0077</address>
+		<value>0x01</value>
+		<description>Infinite Horse Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x01</value>
+		<description>Invulnerable</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x06F2</address>
+		<value>0x59</value>
+		<description>Infinite Money</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0078</address>
+		<value>0x04</value>
+		<description>Full Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0049</address>
+		<value>0x01</value>
+		<description>Have Wanted Poster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0090</address>
+		<value>0xD0</value>
+		<description>Have Shotgun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0094</address>
+		<value>0xD0</value>
+		<description>Have Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0098</address>
+		<value>0xD0</value>
+		<description>Have Mag Num</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009C</address>
+		<value>0xD0</value>
+		<description>Have Smart Bomb (Must reequip after use)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0093</address>
+		<value>0xD1</value>
+		<description>Infinite Shotgun Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0097</address>
+		<value>0xD1</value>
+		<description>Infinite Machine Gun Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009B</address>
+		<value>0xD1</value>
+		<description>Infinite Mag Num Bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x009F</address>
+		<value>0xD1</value>
+		<description>Infinite Smart Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B2</address>
+		<value>0x00</value>
+		<description>1-Hit Boss Kills</description>
+	</cheat>
+</cheats>

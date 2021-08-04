@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x0092</address>
+		<value>0x09</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0096</address>
+		<value>0x09</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0055</address>
+		<value>0xFF</value>
+		<description>Have Power Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004E</address>
+		<value>0x99</value>
+		<description>Infinite Time (Turn off at end of level)</description>
+	</cheat>
+</cheats>

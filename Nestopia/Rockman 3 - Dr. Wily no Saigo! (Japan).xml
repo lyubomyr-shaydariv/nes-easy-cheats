@@ -33,7 +33,7 @@
 	<cheat enabled="0">
 		<address>0x00A5</address>
 		<value>0x9C</value>
-		<description>Infinite Hard Kunckle</description>
+		<description>Infinite Hard Knuckle</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00A6</address>
@@ -53,7 +53,7 @@
 	<cheat enabled="0">
 		<address>0x00AA</address>
 		<value>0x9C</value>
-		<description>Infinite Spark Shot</description>
+		<description>Infinite Spark Shock</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AC</address>
@@ -74,6 +74,18 @@
 		<address>0x00AD</address>
 		<value>0x9C</value>
 		<description>Infinite Rush Jet</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEB9</address>
+		<value>0x07</value>
+		<compare>0x01</compare>
+		<description>High Jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xCEB9</address>
+		<value>0x0A</value>
+		<compare>0x01</compare>
+		<description>Super High Jump</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x04FF</address>

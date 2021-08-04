@@ -1,0 +1,7 @@
+043a	04	N	System Bus	1	P1 Infinite Lives	b	h	0	None
+0424	20	N	System Bus	1	P1 Infinite Hit Points	b	h	0	None
+044a	01	N	System Bus	1	P1 Invulnerable	b	h	0	None
+0438	01	N	System Bus	1	P1 Have Rifle	b	h	0	None
+0438	02	N	System Bus	1	P1 Have Grenade	b	h	0	None
+0438	03	N	System Bus	1	P1 Have Barrel	b	h	0	None
+0438	04	N	System Bus	1	P1 Have Spread Gun	b	h	0	None

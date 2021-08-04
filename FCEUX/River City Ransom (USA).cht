@@ -25,6 +25,8 @@ S:04b4:3f:P2 Defense Maxed
 S:04b8:3f:P2 Strength Maxed
 S:04bc:3f:P2 Will Power Maxed
 S:04c4:7f:P2 Max Power Maxed
+S:04df:3f:P1 All Moves
+S:04e0:3f:P2 All Moves
 SC:aaa5:08:05:Standing High Jump
 SC:aaa9:08:05:Walking High Jump
 SC:aaad:09:06:Running High Jump

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x00AA</address>
+		<value>0x01</value>
+		<description>Infinite Polaris Ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AB</address>
+		<value>0x01</value>
+		<description>Infinite Asroc-71 Ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AC</address>
+		<value>0x01</value>
+		<description>Infinite Sonar Ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AD</address>
+		<value>0x01</value>
+		<description>Infinite SeaDart Ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AE</address>
+		<value>0x01</value>
+		<description>Infinite Aerial Recon Ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00AF</address>
+		<value>0x01</value>
+		<description>Infinite Tomahawk 55M Ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x00B0</address>
+		<value>0x01</value>
+		<description>Infinite Harpoon 55M Ammo</description>
+	</cheat>
+</cheats>

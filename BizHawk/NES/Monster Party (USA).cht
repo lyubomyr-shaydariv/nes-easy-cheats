@@ -1,0 +1,4 @@
+009e	2c	N	System Bus	1	Infinite Hit Points	b	h	0	None
+0384	01	N	System Bus	1	Invulnerable	b	h	0	None
+0058	00	N	System Bus	1	Have Key (Turn off at final boss)	b	h	0	None
+0366	00	N	System Bus	1	1-Hit Boss Kills	b	h	0	None

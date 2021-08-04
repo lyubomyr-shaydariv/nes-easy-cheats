@@ -26,7 +26,7 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x000D</address>
-		<value>0x03</value>
+		<value>0x07</value>
 		<description>Infinite Lives (Both players)</description>
 	</cheat>
 	<cheat enabled="0">
@@ -52,7 +52,7 @@
 	<cheat enabled="0">
 		<address>0x0138</address>
 		<value>0x10</value>
-		<description>Catch Doesn't Automatically Release</description>
+		<description>Catch Doesn't Release Automatically</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x9C1F</address>
@@ -105,6 +105,7 @@
 	<cheat enabled="0">
 		<address>0x9C13</address>
 		<value>0x01</value>
+		<compare>0x03</compare>
 		<description>Start With 1 Life (1 player game)</description>
 	</cheat>
 	<cheat enabled="0">

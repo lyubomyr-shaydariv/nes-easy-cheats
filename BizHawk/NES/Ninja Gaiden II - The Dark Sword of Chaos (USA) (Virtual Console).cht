@@ -1,0 +1,29 @@
+00a5	09	N	System Bus	1	Infinite Lives	b	h	0	None
+0080	7f	N	System Bus	1	Infinite Hit Points	b	h	0	None
+00ae	7f	N	System Bus	1	Infinite Ninja Points	b	h	0	None
+007c	02	N	System Bus	1	Have Shuriken	b	h	0	None
+007d	00	N	System Bus	1		b	h	0	None
+0468	1c	N	System Bus	1		b	h	0	None
+0469	1c	N	System Bus	1		b	h	0	None
+046a	1c	N	System Bus	1		b	h	0	None
+007c	02	N	System Bus	1	Have Windmill Shuriken	b	h	0	None
+007d	01	N	System Bus	1		b	h	0	None
+0468	1d	N	System Bus	1		b	h	0	None
+0469	1d	N	System Bus	1		b	h	0	None
+046a	1d	N	System Bus	1		b	h	0	None
+007c	02	N	System Bus	1	Have Fire Ninpo	b	h	0	None
+007d	02	N	System Bus	1		b	h	0	None
+0468	20	N	System Bus	1		b	h	0	None
+0469	20	N	System Bus	1		b	h	0	None
+046a	20	N	System Bus	1		b	h	0	None
+007c	02	N	System Bus	1	Have Fireball Ninpo	b	h	0	None
+007d	03	N	System Bus	1		b	h	0	None
+0468	1e	N	System Bus	1		b	h	0	None
+0469	1e	N	System Bus	1		b	h	0	None
+046a	1e	N	System Bus	1		b	h	0	None
+007c	02	N	System Bus	1	Have Art of the Fire Wheels Ninpo	b	h	0	None
+007d	04	N	System Bus	1		b	h	0	None
+0468	21	N	System Bus	1		b	h	0	None
+0469	21	N	System Bus	1		b	h	0	None
+046a	21	N	System Bus	1		b	h	0	None
+00ab	09	N	System Bus	1	Infinite Time	b	h	0	None

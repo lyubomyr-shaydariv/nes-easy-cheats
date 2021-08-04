@@ -14,21 +14,20 @@ SC:dbe2:0a:05:Blue Boxes Give Double Ninja Points
 SC:dbe6:14:0a:Red Boxes Give Double Ninja Points
 SC:dbe2:63:05:Blue Boxes Give 99 Ninja Points
 SC:dbe6:63:0a:Red Boxes Give 99 Ninja Points
-S:0064:63:Infinite Ninja Points (Turn off at end of act)
+S:0064:63:Infinite Ninja Points (Turn off at end of act))
 SC:ef67:01:03:Throwing Star Costs 1
 SC:efae:01:05:Windmill Star Costs 1
-SC:ee0d:01:05:Jump-N-Slash Costs 1 (1/2)
-SC:ed69:01:05:Jump-N-Slash Costs 1 (2/2)
-SC:ef03:01:05:Fire Wheel Costs 1
+SC:ed69:01:05:Jump-N-Slash Costs 1 (1/2)
+SC:ed0d:01:05:Jump-N-Slash Costs 1 (2/2)
 SC:ef67:00:03:Throwing Star Is Free
 SC:efae:00:05:Windmill Star Is Free
-SC:ee0d:00:05:Jump-N-Slash Is Free (1/2)
-SC:ed69:00:05:Jump-N-Slash Is Free (2/2)
+SC:ed69:00:05:Jump-N-Slash Is Free (1/2)
+SC:ed0d:01:05:Jump-N-Slash Is Free (2/2)
 SC:dc60:10:08:Fire Ring Lasts Twice As Long
 SC:dc60:80:08:Fire Ring Lasts Ten Times As Long
 SC:ed04:fb:fc:High Jump (1/2)
 SC:eda8:fb:fc:High Jump (2/2)
-SC:f7f0:00:01:Infinite Time
+S:f7f0:00:Infinite Time
 SC:e53b:00:02:Start With 1 Life
 SC:e53f:0a:10:Start With Fewer Hit Points (1/2)
 SC:e3f5:0a:10:Start With Fewer Hit Points (2/2)

@@ -1,0 +1,9 @@
+ecf7	60	8a	System Bus	1	Infinite Shield	b	h	0	Equal
+dc51	60	a5	System Bus	1	No Damage From Spikes	b	h	0	Equal
+f96e	00	03	System Bus	1	No Damage From Dinosaurs	b	h	0	Equal
+d3a7	07	03	System Bus	1	High Jump	b	h	0	Equal
+d27d	01	03	System Bus	1	Speed Up	b	h	0	Equal
+c123	06	01	System Bus	1	Start On Level 2	b	h	0	Equal
+c123	0a	01	System Bus	1	Start On Level 3	b	h	0	Equal
+c123	0e	01	System Bus	1	Start On Level 4	b	h	0	Equal
+c123	12	01	System Bus	1	Start On Level 5	b	h	0	Equal

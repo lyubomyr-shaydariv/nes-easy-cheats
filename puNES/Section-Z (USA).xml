@@ -45,7 +45,7 @@
 	<cheat enabled="0">
 		<address>0x03D0</address>
 		<value>0x81</value>
-		<description>Invulnerable (Turn off to interact with environment) </description>
+		<description>Invulnerable (Turn off to interact with environment)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x03E4</address>
@@ -61,6 +61,15 @@
 		<address>0x03E4</address>
 		<value>0x03</value>
 		<description>Have Mega Buster</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0400</address>
+		<value>0x01</value>
+		<description>Have Barrier Shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TUVOZSYO</genie>
+		<description>Barrier Shield Lasts Longer</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x03DB</address>

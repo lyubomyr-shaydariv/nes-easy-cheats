@@ -3,12 +3,12 @@
 	<cheat enabled="0">
 		<address>0x003F</address>
 		<value>0x99</value>
-		<description>P1 Score Is 99 (Doesn't display)</description>
+		<description>P1 Score Is 99 (Won't display)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0044</address>
 		<value>0x99</value>
-		<description>P2 Score Is 99 (Doesn't display)</description>
+		<description>P2 Score Is 99 (Won't display)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x8527</address>

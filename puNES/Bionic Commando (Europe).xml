@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<genie>PAUGSZZE</genie>
-		<description>Start With 9 Lives</description>
+		<genie>PAUGIPZE</genie>
+		<description>Start with 9 Lives</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>LTUGSZZA</genie>
-		<description>Start With 99 Lives</description>
+		<genie>LTUGIPZA</genie>
+		<description>Start with 99 Lives</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x004A</address>
@@ -15,13 +15,13 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0779</address>
-		<value>0x06</value>
+		<value>0x08</value>
 		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x07E0</address>
 		<value>0x03</value>
-		<description>No Damage From Enemies After 1st Hit In Side Game</description>
+		<description>No Damage From Enemies In Side Game</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>VTNZXVVK</genie>
@@ -123,18 +123,23 @@
 		<description>Hidden Passages Revealed</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x069F</address>
+		<value>0x09</value>
+		<description>Infinite Escape Time</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x04FA</address>
 		<value>0x09</value>
 		<description>Infinite Continues</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AAUGSZZA</genie>
+		<genie>PAUGIPZA</genie>
 		<description>Start With 1 Life</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x004A</address>
 		<value>0x00</value>
-		<description>Start With 1 Life, No 1-Ups</description>
+		<description>Start With 1 Life, No 1 Ups</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0779</address>

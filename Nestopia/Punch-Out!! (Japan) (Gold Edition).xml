@@ -11,7 +11,7 @@
 		<description>Infinite Hearts (Stamina)</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x0342</address>
+		<address>0x0322</address>
 		<value>0x09</value>
 		<description>Infinite Stars (Uppercuts)</description>
 	</cheat>
@@ -29,11 +29,6 @@
 		<address>0x03D8</address>
 		<value>0x80</value>
 		<description>Can Gain Hit Points Every Round</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x0305</address>
-		<value>0x00</value>
-		<description>Infinite Time</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0xA185</address>
@@ -114,15 +109,9 @@
 		<description>Start On Mike Tyson</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x03D8</address>
-		<value>0x01</value>
-		<description>No Extra Hit Points Between Rounds</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x86EB</address>
-		<value>0xBD</value>
-		<compare>0x9D</compare>
-		<description>No Points (Can't win by decision)</description>
+		<address>0x0305</address>
+		<value>0x00</value>
+		<description>Infinite Time</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0308</address>
@@ -135,5 +124,16 @@
 		<value>0x01</value>
 		<compare>0x04</compare>
 		<description>Slower Clock</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x03D8</address>
+		<value>0x01</value>
+		<description>No Extra Hit Points Between Rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x86EB</address>
+		<value>0xBD</value>
+		<compare>0x9D</compare>
+		<description>No Points (Can't win by decision)</description>
 	</cheat>
 </cheats>

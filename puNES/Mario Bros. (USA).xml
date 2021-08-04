@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AASSPLZE</genie>
+		<description>Start With 9 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTSSPLZA</genie>
+		<description>Start With 99 Lives (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0048</address>
+		<value>0x04</value>
+		<description>P1 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x004C</address>
+		<value>0x04</value>
+		<description>P2 Infinite Lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVIEGVI</genie>
+		<description>Invulnerable (Both players)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0070</address>
+		<value>0x03</value>
+		<description>Infinite POW</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x04B3</address>
+		<value>0x02</value>
+		<description>Infinite Time In Bonus Rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSEVEZAI</genie>
+		<description>No Red Fireballs</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0431</address>
+		<value>0xFF</value>
+		<description>No Green Fireballs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASSPLZA</genie>
+		<description>Start With 1 Life (Both players)</description>
+	</cheat>
+</cheats>

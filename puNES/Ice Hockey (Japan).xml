@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x042F</address>
+		<value>0x63</value>
+		<description>P1 Has 99 Goals (Updates on first goal)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0430</address>
+		<value>0x63</value>
+		<description>P2 Has 99 Goals (Updates on first goal)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKGXTLO</genie>
+		<description>Timer Twice As Fast</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKGXTLP</genie>
+		<description>Timer Four Times As Fast</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKGXTLP</genie>
+		<description>Max Timer Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YUKGXTLO</genie>
+		<description>Game Seconds Are Real Seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESOKLLA</genie>
+		<description>Games Last 1 Period</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESOKLLA</genie>
+		<description>Games Last 4 Periods</description>
+	</cheat>
+</cheats>

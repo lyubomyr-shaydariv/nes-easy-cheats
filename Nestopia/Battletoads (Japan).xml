@@ -3,7 +3,7 @@
 	<cheat enabled="0">
 		<address>0xE610</address>
 		<value>0x08</value>
-		<compare>0x05</compare>
+		<compare>0x03</compare>
 		<description>Start With 9 Lives (Both players)</description>
 	</cheat>
 	<cheat enabled="0">

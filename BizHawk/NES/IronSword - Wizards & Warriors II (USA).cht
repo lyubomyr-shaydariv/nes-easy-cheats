@@ -1,0 +1,5 @@
+0044	03	N	System Bus	1	Infinite Lives	b	h	0	None
+006a	ff	N	System Bus	1	Infinite Hit Points	b	h	0	None
+006b	ff	05	System Bus	1	Infinite Magic Points	b	h	0	Equal
+0087	09	05	System Bus	1	Infinite Money	b	h	0	Equal
+00b7	09	05	System Bus	1	Infinite Keys	b	h	0	Equal

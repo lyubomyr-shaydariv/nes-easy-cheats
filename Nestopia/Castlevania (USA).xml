@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheats version="1.0">
 	<cheat enabled="0">
-		<address>0xC92B</address>
-		<value>0x0A</value>
-		<compare>0x04</compare>
-		<description>Start With 9 Lives</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0xC92B</address>
-		<value>0x64</value>
-		<compare>0x04</compare>
-		<description>Start With 99 Lives</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x002A</address>
 		<value>0x64</value>
 		<description>Infinite Lives</description>
@@ -31,12 +19,6 @@
 		<address>0x0070</address>
 		<value>0x02</value>
 		<description>Have Chain Whip</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0xC941</address>
-		<value>0x63</value>
-		<compare>0x05</compare>
-		<description>Start Each Stage With 99 Hearts</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0071</address>
@@ -79,39 +61,9 @@
 		<description>Have Cross (Crashes on certain enemies)</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0xA0AF</address>
-		<value>0xAD</value>
-		<compare>0x20</compare>
-		<description>Infinite Time</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x9B90</address>
-		<value>0xF0</value>
-		<compare>0xFB</compare>
-		<description>High Jump</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x9B90</address>
-		<value>0xE0</value>
-		<compare>0xFB</compare>
-		<description>Higher Jump</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x9B90</address>
-		<value>0xA0</value>
-		<compare>0xFB</compare>
-		<description>Mega Jump (May fall through floors)</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x003E</address>
 		<value>0x02</value>
 		<compare>0x01</compare>
 		<description>Run Fast (Turn off at doors)</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0xC92B</address>
-		<value>0x01</value>
-		<compare>0x04</compare>
-		<description>Start With 1 Life</description>
 	</cheat>
 </cheats>

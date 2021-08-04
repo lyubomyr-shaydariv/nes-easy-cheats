@@ -4,7 +4,13 @@
 		<address>0xEECF</address>
 		<value>0x64</value>
 		<compare>0x03</compare>
-		<description>Start With 99 Lives (Both players)</description>
+		<description>Start With 99 Lives (Both players) (USA &amp; Europe)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xEAC7</address>
+		<value>0x64</value>
+		<compare>0x03</compare>
+		<description>Start With 99 Lives (Both players) (Japan)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0034</address>
@@ -88,8 +94,14 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0xEECF</address>
-		<value>0x01</value>
+		<value>0x00</value>
 		<compare>0x03</compare>
-		<description>Start With 1 Life (Both players)</description>
+		<description>Start With 1 Life (Both players) (USA &amp; Europe)</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0xEAC7</address>
+		<value>0x00</value>
+		<compare>0x03</compare>
+		<description>Start With 1 Life (Both players) (Japan)</description>
 	</cheat>
 </cheats>

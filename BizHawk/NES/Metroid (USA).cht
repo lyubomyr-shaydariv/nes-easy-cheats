@@ -1,0 +1,15 @@
+0107	09	N	System Bus	1	Infinite Hit Points	b	h	0	None
+6877	06	N	System Bus	1	All Energy Tanks	b	h	0	None
+dbf9	0a	05	System Bus	1	Gain Double Missiles At Pickup	b	h	0	Equal
+dbf9	0f	05	System Bus	1	Gain Triple Missiles At Pickup	b	h	0	Equal
+6879	ff	N	System Bus	1	Infinite Missiles	b	h	0	None
+6878	7f	N	System Bus	1	Have All Items and Wave Beam	b	h	0	None
+6878	bf	N	System Bus	1	Have All Items and Ice Beam	b	h	0	None
+cfd7	fb	fc	System Bus	1	High Jump	b	h	0	Equal
+cfd7	fa	fc	System Bus	1	Super High Jump	b	h	0	Equal
+e3c6	f3	fa	System Bus	1	Non-Stop Jump (1/2)	b	h	0	Equal
+cfd7	f3	fc	System Bus	1	Non-Stop Jump (2/2)	b	h	0	Equal
+687b	82	N	System Bus	1	Kraid Statue Up	b	h	0	None
+687c	82	N	System Bus	1	Ridley Statue Up	b	h	0	None
+010b	99	N	System Bus	1	Infinite Escape Time (Use only after Mother Brain is dead)	b	h	0	None
+6872	05	N	System Bus	1	Have Best Ending	b	h	0	None

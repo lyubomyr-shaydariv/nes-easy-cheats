@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<address>0x004C</address>
+		<value>0x0A</value>
+		<description>Infinite Lives (Both players)</description>
+	</cheat>
+</cheats>

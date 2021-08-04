@@ -8,22 +8,22 @@
 	<cheat enabled="0">
 		<address>0x038D</address>
 		<value>0x09</value>
-		<description>P1 90 Power</description>
+		<description>P1 Power</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x038F</address>
 		<value>0x09</value>
-		<description>P1 90 Punch</description>
+		<description>P1 Punch</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0391</address>
 		<value>0x09</value>
-		<description>P1 90 Speed</description>
+		<description>P1 Speed</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0393</address>
 		<value>0x09</value>
-		<description>P1 90 Stamina</description>
+		<description>P1 Stamina</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0319</address>
@@ -33,22 +33,22 @@
 	<cheat enabled="0">
 		<address>0x033D</address>
 		<value>0x09</value>
-		<description>P2 90 Power</description>
+		<description>P2 Power</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x033F</address>
 		<value>0x09</value>
-		<description>P2 90 Punch</description>
+		<description>P2 Punch</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0341</address>
 		<value>0x09</value>
-		<description>P2 90 Speed</description>
+		<description>P2 Speed</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0343</address>
 		<value>0x09</value>
-		<description>P2 90 Stamina</description>
+		<description>P2 Stamina</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x06E5</address>

@@ -1,5 +1,5 @@
-S:003f:99:P1 Score Is 99 (Doesn't display)
-S:0044:99:P2 Score Is 99 (Doesn't display)
+S:003f:99:P1 Score Is 99 (Won't display)
+S:0044:99:P2 Score Is 99 (Won't display)
 SC:8527:05:04:P1 Gets 5 Downs
 SC:8527:09:04:P1 Gets 9 Downs
 SC:912e:05:04:P2 Gets 5 Downs

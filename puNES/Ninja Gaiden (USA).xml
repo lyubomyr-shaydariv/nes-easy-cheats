@@ -75,7 +75,7 @@
 	<cheat enabled="0">
 		<address>0x0064</address>
 		<value>0x63</value>
-		<description>Infinite Ninja Points (Turn off at end of act)</description>
+		<description>Infinite Ninja Points (Turn off at end of act))</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>PAVTNYLA</genie>
@@ -86,16 +86,12 @@
 		<description>Windmill Star Costs 1</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>PAEVSTIA</genie>
+		<genie>PAVVOIIA</genie>
 		<description>Jump-N-Slash Costs 1 (1/2)</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>PAVVOIIA</genie>
+		<genie>PAEVSIIA</genie>
 		<description>Jump-N-Slash Costs 1 (2/2)</description>
-	</cheat>
-	<cheat enabled="0">
-		<genie>PAETUYIA</genie>
-		<description>Fire Wheel Costs 1</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>AAVTNYLA</genie>
@@ -106,11 +102,11 @@
 		<description>Windmill Star Is Free</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AAEVSTIA</genie>
+		<genie>AAVVOIIA</genie>
 		<description>Jump-N-Slash Is Free (1/2)</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AAVVOIIA</genie>
+		<genie>PAEVSIIA</genie>
 		<description>Jump-N-Slash Is Free (2/2)</description>
 	</cheat>
 	<cheat enabled="0">
@@ -130,7 +126,7 @@
 		<description>High Jump (2/2)</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AENYAYPA</genie>
+		<genie>AEYYAY</genie>
 		<description>Infinite Time</description>
 	</cheat>
 	<cheat enabled="0">

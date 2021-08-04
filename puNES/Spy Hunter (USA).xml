@@ -12,12 +12,12 @@
 	<cheat enabled="0">
 		<address>0x0163</address>
 		<value>0xFF</value>
-		<description>Infinite Oil (Upon pickup)</description>
+		<description>Infinite Oil Slick (Upon pickup)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0150</address>
 		<value>0xFF</value>
-		<description>Infinite Smoke (Upon pickup)</description>
+		<description>Infinite Smoke Screen (Upon pickup)</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x06BE</address>
@@ -32,7 +32,7 @@
 	<cheat enabled="0">
 		<address>0x06A7</address>
 		<value>0x04</value>
-		<description>No Helicopters (sound glitches)</description>
+		<description>No Helicopters</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00C5</address>
@@ -42,7 +42,7 @@
 	<cheat enabled="0">
 		<address>0x0698</address>
 		<value>0x01</value>
-		<description>No Water Slick</description>
+		<description>No Water Slicks</description>
 	</cheat>
 	<cheat enabled="0">
 		<genie>YAEZNIYE</genie>
@@ -53,12 +53,12 @@
 		<description>Super Slow Timer</description>
 	</cheat>
 	<cheat enabled="0">
-		<genie>AAEZNIYA</genie>
-		<description>Faster Timer</description>
+		<address>0x00C6</address>
+		<value>0x00</value>
+		<description>More Enemy Cars (Don't use "No civilian cars")</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x00C6</address>
-		<value>0x04</value>
-		<description>More Enemy Cars (Don't use "No civilian cars")</description>
+		<genie>AAEZNIYA</genie>
+		<description>Faster Timer</description>
 	</cheat>
 </cheats>

@@ -7,13 +7,138 @@
 	</cheat>
 	<cheat enabled="0">
 		<address>0x0080</address>
-		<value>0x10</value>
+		<value>0x7F</value>
 		<description>Infinite Hit Points</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AE</address>
 		<value>0x7F</value>
 		<description>Infinite Ninja Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x02</value>
+		<description>Have Shuriken</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x00</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0468</address>
+		<value>0x1C</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0469</address>
+		<value>0x1C</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x046A</address>
+		<value>0x1C</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x02</value>
+		<description>Have Windmill Shuriken</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x01</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0468</address>
+		<value>0x1D</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0469</address>
+		<value>0x1D</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x046A</address>
+		<value>0x1D</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x02</value>
+		<description>Have Fire Ninpo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x02</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0468</address>
+		<value>0x20</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0469</address>
+		<value>0x20</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x046A</address>
+		<value>0x20</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x02</value>
+		<description>Have Fireball Ninpo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x03</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0468</address>
+		<value>0x1E</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0469</address>
+		<value>0x1E</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x046A</address>
+		<value>0x1E</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007C</address>
+		<value>0x02</value>
+		<description>Have Art of the Fire Wheels Ninpo</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x007D</address>
+		<value>0x04</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0468</address>
+		<value>0x21</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0469</address>
+		<value>0x21</value>
+		<description></description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x046A</address>
+		<value>0x21</value>
+		<description></description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x00AB</address>

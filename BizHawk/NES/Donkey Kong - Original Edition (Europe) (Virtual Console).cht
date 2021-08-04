@@ -1,0 +1,4 @@
+c9ff	09	03	System Bus	1	Start With 9 Lives (Both players)	b	h	0	Equal
+0055	09	N	System Bus	1	Infinite Lives (Both players)	b	h	0	None
+002e	99	N	System Bus	1	Infinite Time	b	h	0	None
+c9ff	01	03	System Bus	1	Start With 1 Life (Both players)	b	h	0	Equal

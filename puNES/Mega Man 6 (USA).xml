@@ -2,7 +2,7 @@
 <cheats version="1.0">
 	<cheat enabled="0">
 		<address>0x00A9</address>
-		<value>0x08</value>
+		<value>0x09</value>
 		<description>Infinite Lives</description>
 	</cheat>
 	<cheat enabled="0">
@@ -16,19 +16,14 @@
 		<description>Infinite Energy Tanks</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x068D</address>
-		<value>0x1B</value>
-		<description>Infinite Plant Barrier</description>
-	</cheat>
-	<cheat enabled="0">
 		<address>0x0689</address>
 		<value>0x1B</value>
 		<description>Infinite Y. Spear</description>
 	</cheat>
 	<cheat enabled="0">
-		<address>0x068C</address>
+		<address>0x068A</address>
 		<value>0x1B</value>
-		<description>Infinite Fire Blast</description>
+		<description>Infinite Wind Storm</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x068B</address>
@@ -36,14 +31,19 @@
 		<description>Infinite Blizzard Attack</description>
 	</cheat>
 	<cheat enabled="0">
+		<address>0x068C</address>
+		<value>0x1B</value>
+		<description>Infinite Fire Blast</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x068D</address>
+		<value>0x1B</value>
+		<description>Infinite Plant Barrier</description>
+	</cheat>
+	<cheat enabled="0">
 		<address>0x068E</address>
 		<value>0x1B</value>
 		<description>Infinite Knight C.</description>
-	</cheat>
-	<cheat enabled="0">
-		<address>0x068A</address>
-		<value>0x1B</value>
-		<description>Infinite Wind Storm</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x068F</address>
@@ -54,6 +54,11 @@
 		<address>0x0690</address>
 		<value>0x1B</value>
 		<description>Infinite Charge Flash</description>
+	</cheat>
+	<cheat enabled="0">
+		<address>0x0691</address>
+		<value>0x1B</value>
+		<description>Infinite Beat</description>
 	</cheat>
 	<cheat enabled="0">
 		<address>0x009C</address>
